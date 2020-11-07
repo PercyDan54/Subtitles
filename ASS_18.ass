@@ -63,10 +63,12 @@ Dialogue: 0,0:02:25.85,0:02:26.75,Default,,0,0,0,,So why you turned on the AC?
 Dialogue: 0,0:02:26.75,0:02:28.26,Default,,0,0,0,,The air conditioner is the most important in the hottest days
 Dialogue: 0,0:02:28.26,0:02:29.06,Default,,0,0,0,,So is the Internet
 Dialogue: 0,0:02:29.06,0:02:29.62,Default,,0,0,0,,Shut up
-Dialogue: 0,0:02:29.81,0:02:30.82,Default,,0,0,0,,You're using my Wi-Fi <!--Need change>
+Dialogue: 0,0:02:29.81,0:02:30.82,Default,,0,0,0,,You're using our Wi-Fi <!--Need change>
+
 Dialogue: 0,0:02:39.40,0:02:40.48,Default,,0,0,0,,I didn't save
 Dialogue: 0,0:02:42.43,0:02:42.84,Default,,0,0,0,,What's happening to him
-Dialogue: 0,0:02:43.03,0:02:43.59,Default,,0,0,0,,Going to morph?<!--dunno if morph is ok here>
+Dialogue: 0,0:02:43.03,0:02:43.59,Default,,0,0,0,,Going to transform?
+
 Dialogue: 0,0:02:44.11,0:02:44.51,Default,,0,0,0,,No
 Dialogue: 0,0:02:45.06,0:02:46.30,Default,,0,0,0,,He's just unlucky as usual
 Dialogue: 0,0:02:47.72,0:02:48.77,Default,,0,0,0,,How unlucky is he
@@ -91,17 +93,21 @@ Dialogue: 0,0:03:26.21,0:03:29.48,Default,,0,0,0,,They're going to pick one gold
 Dialogue: 0,0:03:29.68,0:03:30.49,Default,,0,0,0,,Can they be successful?
 Dialogue: 0,0:03:30.64,0:03:31.75,Default,,0,0,0,,Let's wait and see!
 Dialogue: 0,0:03:32.17,0:03:32.85,Default,,0,0,0,,I'm going to pick...
-Dialogue: 0,0:03:33.06,0:03:34.62,Default,,0,0,0,,No. 1,2,3,4,5,6,7,8,9,10
+Dialogue: 0,0:03:33.06,0:03:34.62,Default,,0,0,0,,1,2,3,4,6,7,8,9,10
+
 Dialogue: 0,0:03:38.01,0:03:39.08,Default,,0,0,0,,THEY GOT IT!
-Dialogue: 0,0:03:41.96,0:03:44.21,Default,,0,0,0,,Are you sure you're going to bye insurance for "car crash caused by being hit by a ball" <!--shorter?>
-Dialogue: 0,0:03:44.46,0:03:45.29,Default,,0,0,0,,The possibility of this accident
+Dialogue: 0,0:03:41.96,0:03:44.21,Default,,0,0,0,,Are you sure you're going to buy insurance for "car crash caused by being hit by a ball" <!--shorter?>
+
+Dialogue: 0,0:03:44.46,0:03:45.29,Default,,0,0,0,,The probability of this accident
+
 Dialogue: 0,0:03:46.83,0:03:47.29,Default,,0,0,0,,Stop asking
 Dialogue: 0,0:03:47.93,0:03:48.98,Default,,0,0,0,,I said buy it
 Dialogue: 0,0:03:49.96,0:03:50.58,Default,,0,0,0,,Return to base!
 Dialogue: 0,0:03:50.72,0:03:51.23,Default,,0,0,0,,Hurry up!
 Dialogue: 0,0:03:51.78,0:03:52.40,Default,,0,0,0,,Out!
 Dialogue: 0,0:04:02.64,0:04:03.67,Default,,0,0,0,,Must make sure he
-Dialogue: 0,0:04:04.13,0:04:06.25,Default,,0,0,0,,and his limited edition shirt untoched
+Dialogue: 0,0:04:04.13,0:04:06.25,Default,,0,0,0,,and his limited edition shirt untouched
+
 Dialogue: 0,0:04:06.25,0:04:06.67,Default,,0,0,0,,No worry
 Dialogue: 0,0:04:07.02,0:04:07.86,Default,,0,0,0,,We're professional
 Dialogue: 0,0:04:10.42,0:04:11.25,Default,,0,0,0,,Nick you're the best
