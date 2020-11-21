@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: 万圣街_蓝光_万圣街_20.mp4
+Video File: 万圣街_蓝光_万圣街_20.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,,{\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 15:  {\c&H7990E7&}As a father and a brother{\b0}
+Dialogue: 0,0:01:10.25,0:01:10.69,Default,,0,0,0,,Done
+Dialogue: 0,0:01:10.93,0:01:11.56,Default,,0,0,0,,I've signed it
+Dialogue: 0,0:01:12.00,0:01:12.61,Default,,0,0,0,,Thanks brother
+Dialogue: 0,0:01:13.39,0:01:15.07,Default,,0,0,0,,You know that I really want you to go back to heaven for school
+Dialogue: 0,0:01:15.80,0:01:17.10,Default,,0,0,0,,But since you liked to stay among mortals
+Dialogue: 0,0:01:17.51,0:01:18.01,Default,,0,0,0,,Just stay here
+Dialogue: 0,0:01:19.13,0:01:20.16,Default,,0,0,0,,Brother you're the best
+Dialogue: 0,0:01:20.70,0:01:21.77,Default,,0,0,0,,Actually before I leave
+Dialogue: 0,0:01:22.10,0:01:23.58,Default,,0,0,0,,I got a small gift for you
+Dialogue: 0,0:01:24.13,0:01:25.25,Default,,0,0,0,,Once you see this
+Dialogue: 0,0:01:25.53,0:01:26.36,Default,,0,0,0,,You'll think of me
+Dialogue: 0,0:01:29.58,0:01:31.72,Default,,0,0,0,,Students, do you know how did you born?
+Dialogue: 0,0:01:32.07,0:01:34.56,Default,,0,0,0,,New angels may appear anywhere in any time
+Dialogue: 0,0:01:34.85,0:01:36.06,Default,,0,0,0,,When a baby angel is born
+Dialogue: 0,0:01:36.40,0:01:38.16,Default,,0,0,0,,The nearest angel to him will raise him up
+Dialogue: 0,0:01:38.65,0:01:39.52,Default,,0,0,0,,Like me
+Dialogue: 0,0:01:39.81,0:01:42.19,Default,,0,0,0,,I've already raised 5 children...
+Dialogue: 0,0:01:45.97,0:01:46.52,Default,,0,0,0,,Teacher
+Dialogue: 0,0:01:46.61,0:01:47.10,Default,,0,0,0,,I know
+Dialogue: 0,0:01:47.42,0:01:48.58,Default,,0,0,0,,It's your sixth...
+Dialogue: 0,0:01:48.58,0:01:49.35,Default,,0,0,0,,You're right
+Dialogue: 0,0:01:49.35,0:01:50.86,Default,,0,0,0,,She can also raised by anyone else here
+Dialogue: 0,0:01:51.01,0:01:52.20,Default,,0,0,0,,She's your sister now
+Dialogue: 0,0:01:52.43,0:01:53.62,Default,,0,0,0,,{\an4\pos(703,1046)}OK                   Congratulations, Lynn
+Dialogue: 0,0:02:01.69,0:02:02.82,Default,,0,0,0,,I have a sister
+Dialogue: 0,0:02:07.63,0:02:08.39,Default,,0,0,0,,What a surprise
+Dialogue: 0,0:02:08.85,0:02:10.83,Default,,0,0,0,,God gave me such a lovely sister
+Dialogue: 0,0:02:11.85,0:02:13.23,Default,,0,0,0,,I'll be the model for her
+Dialogue: 0,0:02:13.72,0:02:14.92,Default,,0,0,0,,Be a perfect brother
+Dialogue: 0,0:02:21.39,0:02:22.98,Default,,0,0,0,,Being a perfect brother is too hard!
+Dialogue: 0,0:02:31.79,0:02:33.06,Default,,0,0,0,,So much snow
+Dialogue: 0,0:02:33.64,0:02:33.96,Default,,0,0,0,,Lily
+Dialogue: 0,0:02:34.43,0:02:34.89,Default,,0,0,0,,Listen
+Dialogue: 0,0:02:35.61,0:02:37.65,Default,,0,0,0,,We going to help the people who covered by the snow
+Dialogue: 0,0:02:38.02,0:02:39.02,Default,,0,0,0,,You should learn this
+Dialogue: 0,0:02:39.46,0:02:40.20,Default,,0,0,0,,Be focused
+Dialogue: 0,0:02:41.04,0:02:41.96,Default,,0,0,0,,No problem, brother!
+Dialogue: 0,0:02:46.52,0:02:47.40,Default,,0,0,0,,With this situation
+Dialogue: 0,0:02:47.72,0:02:48.50,Default,,0,0,0,,First take down your halo
+Dialogue: 0,0:02:49.22,0:02:50.78,Default,,0,0,0,,Say the name of the thing you want to purify silently
+Dialogue: 0,0:02:51.34,0:02:52.25,Default,,0,0,0,,Then use your power
+Dialogue: 0,0:02:59.56,0:03:00.34,Default,,0,0,0,,Little hole!
+Dialogue: 0,0:03:02.59,0:03:03.69,Default,,0,0,0,,Didn't know that I'm so weak...
+Dialogue: 0,0:03:04.36,0:03:05.15,Default,,0,0,0,,Lily is so young...
+Dialogue: 0,0:03:05.52,0:03:06.49,Default,,0,0,0,,She couldn't help me
+Dialogue: 0,0:03:08.54,0:03:09.98,Default,,0,0,0,,So much left...
+Dialogue: 0,0:03:12.01,0:03:13.49,Default,,0,0,0,,When can I finish this...
+Dialogue: 0,0:03:15.16,0:03:16.80,Default,,0,0,0,,Guys don't be afraid
+Dialogue: 0,0:03:17.35,0:03:19.75,Default,,0,0,0,,My brother is coming to save you!
+Dialogue: 0,0:03:20.32,0:03:21.75,Default,,0,0,0,,My brother is super!
+Dialogue: 0,0:03:22.12,0:03:24.44,Default,,0,0,0,,He's the best angel in the world!
+Dialogue: 0,0:03:22.54,0:03:23.72,Default,,0,0,0,,{\pos(985,210)}Lily trusts me so much...
+Dialogue: 0,0:03:24.74,0:03:26.21,Default,,0,0,0,,Don't worry!
+Dialogue: 0,0:03:25.32,0:03:26.27,Default,,0,0,0,,{\pos(985,210)}But I...
+Dialogue: 0,0:03:28.73,0:03:29.57,Default,,0,0,0,,No matter how long it takes
+Dialogue: 0,0:03:30.00,0:03:31.17,Default,,0,0,0,,I'll save them!
+Dialogue: 0,0:03:31.25,0:03:32.10,Default,,0,0,0,,Brother!
+Dialogue: 0,0:03:32.76,0:03:33.56,Default,,0,0,0,,Look!
+Dialogue: 0,0:03:33.56,0:03:35.92,Default,,0,0,0,,I built a huge snow brother!
+Dialogue: 0,0:03:33.10,0:03:34.21,Default,,0,0,0,,{\pos(985,210)}It's a miracle!
+Dialogue: 0,0:03:34.21,0:03:36.02,Default,,0,0,0,,{\pos(985,210)}We're saved!
+Dialogue: 0,0:03:36.19,0:03:36.97,Default,,0,0,0,,Brother!
+Dialogue: 0,0:03:37.34,0:03:37.85,Default,,0,0,0,,Brother
+Dialogue: 0,0:03:38.53,0:03:38.96,Default,,0,0,0,,Brother
+Dialogue: 0,0:03:40.62,0:03:41.45,Default,,0,0,0,,What's the matter with you
+Dialogue: 0,0:03:45.56,0:03:46.77,Default,,0,0,0,,Lily had grown up...
+Dialogue: 0,0:03:48.02,0:03:48.44,Default,,0,0,0,,What
+Dialogue: 0,0:03:50.27,0:03:50.75,Default,,0,0,0,,Nothing
+Dialogue: 0,0:03:51.51,0:03:52.51,Default,,0,0,0,,I liked this gift...
+Dialogue: 0,0:03:53.18,0:03:53.84,Default,,0,0,0,,very much
+Dialogue: 0,0:03:56.21,0:03:58.02,Default,,0,0,0,,Study hard at school
+Dialogue: 0,0:03:58.02,0:03:59.01,Default,,0,0,0,,Don't make trouble
+Dialogue: 0,0:03:59.86,0:04:00.93,Default,,0,0,0,,It's rare chance to study abroad
+Dialogue: 0,0:04:01.32,0:04:02.09,Default,,0,0,0,,Save it
+Dialogue: 0,0:04:02.30,0:04:03.01,Default,,0,0,0,,I know
+Dialogue: 0,0:04:03.23,0:04:04.38,Default,,0,0,0,,Be nice to others
+Dialogue: 0,0:04:04.53,0:04:05.32,Default,,0,0,0,,Don't argue with teachers
+Dialogue: 0,0:04:05.66,0:04:06.97,Default,,0,0,0,,Brother, don't worry
+Dialogue: 0,0:04:07.07,0:04:07.98,Default,,0,0,0,,I'm fine!
+Dialogue: 0,0:04:09.30,0:04:09.72,Default,,0,0,0,,Sorry
+Dialogue: 0,0:04:09.95,0:04:10.86,Default,,0,0,0,,I just...
+Dialogue: 0,0:04:11.38,0:04:12.75,Default,,0,0,0,,No one will chatter at you anymore
+Dialogue: 0,0:04:13.23,0:04:15.17,Default,,0,0,0,,{\pos(971,210)}Lily
+Dialogue: 0,0:04:13.11,0:04:13.54,Default,,0,0,0,,I promise
+Dialogue: 0,0:04:17.89,0:04:18.93,Default,,0,0,0,,Did you forget anything?
+Dialogue: 0,0:04:19.21,0:04:19.78,Default,,0,0,0,,Did you bring your quilt?
+Dialogue: 0,0:04:20.03,0:04:20.76,Default,,0,0,0,,Did you bring your coat?
+Dialogue: 0,0:04:20.27,0:04:20.74,Default,,0,0,0,,{\pos(971,210)}I didn't forget
+Dialogue: 0,0:04:20.96,0:04:22.29,Default,,0,0,0,,Did you bought your toothbrush
+Dialogue: 0,0:04:22.38,0:04:23.26,Default,,0,0,0,,If you didn't use the ones I brought
+Dialogue: 0,0:04:23.32,0:04:24.68,Default,,0,0,0,,And these are your favorite candies
+Dialogue: 0,0:04:24.97,0:04:26.50,Default,,0,0,0,,Eat them if you don't want to eat school's lunch
+Dialogue: 0,0:04:26.62,0:04:28.42,Default,,0,0,0,,Call me if you want to eat with me
+Dialogue: 0,0:04:28.67,0:04:29.80,Default,,0,0,0,,Come back if you can't get used to the dormitory!
+Dialogue: 0,0:04:29.80,0:04:31.65,Default,,0,0,0,,More chattering than me...
+Dialogue: 0,0:04:31.65,0:04:33.65,Default,,0,0,0,,
