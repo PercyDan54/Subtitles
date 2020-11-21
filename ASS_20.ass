@@ -48,7 +48,8 @@ Dialogue: 0,0:01:46.61,0:01:47.10,Default,,0,0,0,,I know
 Dialogue: 0,0:01:47.42,0:01:48.58,Default,,0,0,0,,It's your sixth...
 Dialogue: 0,0:01:48.58,0:01:49.35,Default,,0,0,0,,You're right
 Dialogue: 0,0:01:49.35,0:01:50.86,Default,,0,0,0,,She can also raised by anyone else here
-Dialogue: 0,0:01:51.01,0:01:52.20,Default,,0,0,0,,She's your sister atferwards
+Dialogue: 0,0:01:51.01,0:01:52.20,Default,,0,0,0,,She's your sister now
+
 Dialogue: 0,0:01:52.43,0:01:53.62,Default,,0,0,0,,{\an4\pos(703,1046)}OK                   Congratulations, Lynn
 Dialogue: 0,0:02:01.69,0:02:02.82,Default,,0,0,0,,I have a sister
 Dialogue: 0,0:02:07.63,0:02:08.39,Default,,0,0,0,,What a surprise
@@ -114,7 +115,8 @@ Dialogue: 0,0:04:19.21,0:04:19.78,Default,,0,0,0,,Did you bring your quilt?
 Dialogue: 0,0:04:20.03,0:04:20.76,Default,,0,0,0,,Did you bring your coat?
 Dialogue: 0,0:04:20.27,0:04:20.74,Default,,0,0,0,,{\pos(971,210)}I didn't forget
 Dialogue: 0,0:04:20.96,0:04:22.29,Default,,0,0,0,,Did you bought your toothbrush
-Dialogue: 0,0:04:22.38,0:04:23.26,Default,,0,0,0,,If you didn't use mine
+Dialogue: 0,0:04:22.38,0:04:23.26,Default,,0,0,0,,If you didn't use the ones I brought
+
 Dialogue: 0,0:04:23.32,0:04:24.68,Default,,0,0,0,,And these are your favorite candies
 Dialogue: 0,0:04:24.97,0:04:26.50,Default,,0,0,0,,Eat them if you don't want to eat school's lunch
 Dialogue: 0,0:04:26.62,0:04:28.42,Default,,0,0,0,,Call me if you want to eat with me
