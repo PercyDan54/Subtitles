@@ -1,0 +1,103 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: 万圣街_蓝光_万圣街_21.mp4
+Video File: 万圣街_蓝光_万圣街_21.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,,{\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 21:  {\c&H7990E7&}Remember to check weather report before an outing{\b0}
+Dialogue: 0,0:01:08.38,0:01:09.17,Default,,0,0,0,,Not this
+Dialogue: 0,0:01:09.78,0:01:10.53,Default,,0,0,0,,Not this
+Dialogue: 0,0:01:13.59,0:01:15.55,Default,,0,0,0,,Totally don't know what to wear
+Dialogue: 0,0:01:16.17,0:01:18.56,Default,,0,0,0,,It's been half a month since I last met Lily
+Dialogue: 0,0:01:18.84,0:01:20.88,Default,,0,0,0,,Lily asked me first this time
+Dialogue: 0,0:01:19.26,0:01:20.12,Default,,0,0,0,,{\pos(960,205)}I have no class this weekend
+Dialogue: 0,0:01:20.33,0:01:21.83,Default,,0,0,0,,{\pos(960,205)}Shall we go for an outing?
+Dialogue: 0,0:01:23.09,0:01:23.61,Default,,0,0,0,,Suburb...
+Dialogue: 0,0:01:24.24,0:01:24.91,Default,,0,0,0,,Me and Lily...
+Dialogue: 0,0:01:28.48,0:01:28.80,Default,,0,0,0,,Here
+Dialogue: 0,0:01:28.80,0:01:29.50,Default,,0,0,0,,Really...
+Dialogue: 0,0:01:29.88,0:01:30.46,Default,,0,0,0,,Go!
+Dialogue: 0,0:01:32.10,0:01:32.44,Default,,0,0,0,,Come on
+Dialogue: 0,0:01:32.76,0:01:33.97,Default,,0,0,0,,One more box of chicken wings
+Dialogue: 0,0:01:34.69,0:01:36.21,Default,,0,0,0,,All of them were invited...
+Dialogue: 0,0:01:37.35,0:01:37.86,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:37.92,0:01:38.59,Default,,0,0,0,,Why are you sitting here
+Dialogue: 0,0:01:38.82,0:01:39.53,Default,,0,0,0,,Let's play with Damao
+Dialogue: 0,0:01:39.53,0:01:40.74,Default,,0,0,0,,Neil won't be with you
+Dialogue: 0,0:01:40.85,0:01:41.24,Default,,0,0,0,,Yeah
+Dialogue: 0,0:01:41.56,0:01:42.63,Default,,0,0,0,,Neil, come and have some BBQ
+Dialogue: 0,0:01:42.77,0:01:43.24,Default,,0,0,0,,Tasty
+Dialogue: 0,0:01:43.24,0:01:44.16,Default,,0,0,0,,Stealing our food again?
+Dialogue: 0,0:01:46.24,0:01:46.88,Default,,0,0,0,,I'm coming
+Dialogue: 0,0:01:51.71,0:01:52.13,Default,,0,0,0,,Look here
+Dialogue: 0,0:01:52.31,0:01:52.94,Default,,0,0,0,,Cheese!
+Dialogue: 0,0:02:00.79,0:02:01.45,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:02:01.66,0:02:02.15,Default,,0,0,0,,Damao
+Dialogue: 0,0:02:02.63,0:02:04.15,Default,,0,0,0,,I'm so disappointed in you
+Dialogue: 0,0:02:04.63,0:02:05.16,Default,,0,0,0,,Chief?
+Dialogue: 0,0:02:05.50,0:02:07.29,Default,,0,0,0,,I just knew that he's so muscular
+Dialogue: 0,0:02:08.12,0:02:09.09,Default,,0,0,0,,Why did you come?
+Dialogue: 0,0:02:09.46,0:02:10.62,Default,,0,0,0,,Not only me
+Dialogue: 0,0:02:21.32,0:02:23.12,Default,,0,0,0,,To maintain the peace of the world
+Dialogue: 0,0:02:23.86,0:02:26.00,Default,,0,0,0,,We're here to defeat you
+Dialogue: 0,0:02:26.93,0:02:27.52,Default,,0,0,0,,The dark lord
+Dialogue: 0,0:02:31.61,0:02:32.76,Default,,0,0,0,,I'm the dark lord?
+Dialogue: 0,0:02:33.24,0:02:33.78,Default,,0,0,0,,Nick
+Dialogue: 0,0:02:36.78,0:02:37.42,Default,,0,0,0,,Here's the chance
+Dialogue: 0,0:02:41.54,0:02:42.35,Default,,0,0,0,,Damao!
+Dialogue: 0,0:02:44.44,0:02:45.69,Default,,0,0,0,,It all ends now
+Dialogue: 0,0:02:52.69,0:02:56.24,Default,,0,0,0,,Though I don't know why the dark lord chose such a weak devil like you
+Dialogue: 0,0:02:56.64,0:02:58.75,Default,,0,0,0,,Maybe he made a wrong decision
+Dialogue: 0,0:03:00.22,0:03:01.12,Default,,0,0,0,,Farewell
+Dialogue: 0,0:03:01.12,0:03:01.65,Default,,0,0,0,,Dark lord
+Dialogue: 0,0:03:01.73,0:03:02.02,Default,,0,0,0,,Wait
+Dialogue: 0,0:03:02.28,0:03:02.81,Default,,0,0,0,,I have a question
+Dialogue: 0,0:03:03.29,0:03:03.86,Default,,0,0,0,,Rewind a bit
+Dialogue: 0,0:03:06.18,0:03:06.69,Default,,0,0,0,,More
+Dialogue: 0,0:03:07.84,0:03:08.18,Default,,0,0,0,,Here
+Dialogue: 0,0:03:09.02,0:03:10.85,Default,,0,0,0,,To maintain the peace of the world
+Dialogue: 0,0:03:11.56,0:03:13.61,Default,,0,0,0,,We're here to defeat you
+Dialogue: 0,0:03:13.98,0:03:15.38,Default,,0,0,0,,Even if all your words are real
+Dialogue: 0,0:03:15.84,0:03:17.23,Default,,0,0,0,,Why didn't you came earlier?
+Dialogue: 0,0:03:17.63,0:03:19.23,Default,,0,0,0,,Did the dark lord just bond with him recently?
+Dialogue: 0,0:03:19.48,0:03:20.21,Default,,0,0,0,,Actually
+Dialogue: 0,0:03:21.23,0:03:22.70,Default,,0,0,0,,There's many reasons...
+Dialogue: 0,0:03:23.26,0:03:25.45,Default,,0,0,0,,We faced many difficult decisions
+Dialogue: 0,0:03:25.76,0:03:28.45,Default,,0,0,0,,We fought with horrible temptations
+Dialogue: 0,0:03:28.45,0:03:30.80,Default,,0,0,0,,We witnessed lots of touching moments
+Dialogue: 0,0:03:30.80,0:03:31.88,Default,,0,0,0,,Just lazy
+Dialogue: 0,0:03:31.90,0:03:32.57,Default,,0,0,0,,None of your business!
+Dialogue: 0,0:03:32.99,0:03:34.57,Default,,0,0,0,,Don't want to be defeated by you
+Dialogue: 0,0:03:36.04,0:03:37.76,Default,,0,0,0,,Anyway your questions are answered
+Dialogue: 0,0:03:38.45,0:03:39.53,Default,,0,0,0,,Let's continue
+Dialogue: 0,0:03:42.18,0:03:43.29,Default,,0,0,0,,Farewell
+Dialogue: 0,0:03:43.29,0:03:44.07,Default,,0,0,0,,Dark lord
+Dialogue: 0,0:03:45.12,0:03:45.58,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:03:45.70,0:03:46.60,Default,,0,0,0,,Pausing non-stop?
+Dialogue: 0,0:03:46.83,0:03:48.00,Default,,0,0,0,,Don't be like that
+Dialogue: 0,0:03:48.03,0:03:48.59,Default,,0,0,0,,It's me
+Dialogue: 0,0:03:48.82,0:03:50.97,Default,,0,0,0,,Nick, the one who got three years of best workers in hell
+Dialogue: 0,0:03:52.39,0:03:53.70,Default,,0,0,0,,Maybe I remembered you
+Dialogue: 0,0:03:54.32,0:03:54.84,Default,,0,0,0,,So?
+Dialogue: 0,0:03:55.40,0:03:56.10,Default,,0,0,0,,So...
+Dialogue: 0,0:03:56.10,0:03:56.98,Default,,0,0,0,,Such a little business
+Dialogue: 0,0:03:57.30,0:03:58.59,Default,,0,0,0,,It's all on me
+Dialogue: 0,0:04:00.10,0:04:00.85,Default,,0,0,0,,Nick
+Dialogue: 0,0:04:02.18,0:04:02.85,Default,,0,0,0,,Don't blame me
+Dialogue: 0,0:04:03.30,0:04:05.41,Default,,0,0,0,,Blame that dark lord
