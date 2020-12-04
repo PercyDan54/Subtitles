@@ -1,0 +1,103 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: 万圣街_蓝光_万圣街_22.mp4
+Video File: 万圣街_蓝光_万圣街_22.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 22:  {\c&H7990E7&}All of the budget is spent on this episode{\b0}
+Dialogue: 0,0:01:08.43,0:01:09.51,Default,,0,0,0,,Neil!
+Dialogue: 0,0:01:10.48,0:01:10.90,Default,,0,0,0,,What
+Dialogue: 0,0:01:12.68,0:01:13.60,Default,,0,0,0,,Who am I, where am I
+Dialogue: 0,0:01:14.09,0:01:15.25,Default,,0,0,0,,Good job, Nick
+Dialogue: 0,0:01:16.74,0:01:17.25,Default,,0,0,0,,What are you doing
+Dialogue: 0,0:01:23.26,0:01:23.69,Default,,0,0,0,,Is this
+Dialogue: 0,0:01:25.66,0:01:26.18,Default,,0,0,0,,What
+Dialogue: 0,0:01:26.37,0:01:28.34,Default,,0,0,0,,To get the dark lord's power
+Dialogue: 0,0:01:28.34,0:01:30.52,Default,,0,0,0,,Raise this wand and say the spell
+Dialogue: 0,0:01:32.37,0:01:33.68,Default,,0,0,0,,{\i1}Show your power dark lord{\i0}
+Dialogue: 0,0:01:33.96,0:01:35.92,Default,,0,0,0,,{\i1}And come to me now{\i0}
+Dialogue: 0,0:01:39.79,0:01:40.16,Default,,0,0,0,,Nick
+Dialogue: 0,0:01:40.62,0:01:41.84,Default,,0,0,0,,You dare to betray us?
+Dialogue: 0,0:01:41.84,0:01:43.58,Default,,0,0,0,,He did this on proposal
+Dialogue: 0,0:01:44.48,0:01:45.45,Default,,0,0,0,,Look at Neil!
+Dialogue: 0,0:01:57.45,0:01:57.83,Default,,0,0,0,,I...
+Dialogue: 0,0:01:58.50,0:01:59.32,Default,,0,0,0,,I did it?
+Dialogue: 0,0:02:04.03,0:02:04.48,Default,,0,0,0,,Finally
+Dialogue: 0,0:02:04.94,0:02:06.80,Default,,0,0,0,,I got the power of the dark lord
+Dialogue: 0,0:02:08.27,0:02:09.02,Default,,0,0,0,,So annoying
+Dialogue: 0,0:02:09.67,0:02:10.32,Default,,0,0,0,,So disgusting
+Dialogue: 0,0:02:10.32,0:02:10.70,Default,,0,0,0,,Go die!
+Dialogue: 0,0:02:10.70,0:02:11.25,Default,,0,0,0,,Don't come here!      So annoying
+Dialogue: 0,0:02:11.44,0:02:12.12,Default,,0,0,0,,These noises...                    Get away!
+Dialogue: 0,0:02:12.30,0:02:12.66,Default,,0,0,0,,Are...
+Dialogue: 0,0:02:14.86,0:02:16.10,Default,,0,0,0,,Don't talk anymore!
+Dialogue: 0,0:02:16.37,0:02:16.78,Default,,0,0,0,,Don't...
+Dialogue: 0,0:02:17.03,0:02:17.52,Default,,0,0,0,,Don't
+Dialogue: 0,0:02:22.23,0:02:23.84,Default,,0,0,0,,No!
+Dialogue: 0,0:02:25.79,0:02:27.50,Default,,0,0,0,,Can't see anything...
+Dialogue: 0,0:02:37.09,0:02:37.54,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:38.67,0:02:38.90,Default,,0,0,0,,No
+Dialogue: 0,0:02:39.28,0:02:39.63,Default,,0,0,0,,Something's wrong
+Dialogue: 0,0:02:44.24,0:02:44.77,Default,,0,0,0,,It's the dark lord
+Dialogue: 0,0:02:45.91,0:02:46.43,Default,,0,0,0,,Dark lord?
+Dialogue: 0,0:02:47.13,0:02:47.88,Default,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:02:47.94,0:02:48.52,Default,,0,0,0,,Fight!
+Dialogue: 0,0:02:49.40,0:02:50.38,Default,,0,0,0,,Again
+Dialogue: 0,0:02:51.22,0:02:52.99,Default,,0,0,0,,Why always bothering me
+Dialogue: 0,0:02:53.68,0:02:55.36,Default,,0,0,0,,I just want to sleep
+Dialogue: 0,0:02:57.44,0:02:58.00,Default,,0,0,0,,Stop talking
+Dialogue: 0,0:02:58.88,0:03:00.24,Default,,0,0,0,,People who were chosen by you
+Dialogue: 0,0:03:00.66,0:03:01.39,Default,,0,0,0,,Either die
+Dialogue: 0,0:03:01.39,0:03:01.87,Default,,0,0,0,,Or went mad
+Dialogue: 0,0:03:02.44,0:03:03.54,Default,,0,0,0,,You're still pretending that you're innocent
+Dialogue: 0,0:03:05.54,0:03:06.46,Default,,0,0,0,,They're too weak
+Dialogue: 0,0:03:09.52,0:03:11.04,Default,,0,0,0,,Just some negative energy
+Dialogue: 0,0:03:11.51,0:03:13.39,Default,,0,0,0,,You can't blame me when they couldn't handle it
+Dialogue: 0,0:03:15.09,0:03:16.02,Default,,0,0,0,,Now!
+Dialogue: 0,0:03:24.17,0:03:24.92,Default,,0,0,0,,Success?
+Dialogue: 0,0:03:26.85,0:03:27.56,Default,,0,0,0,,No...
+Dialogue: 0,0:03:31.64,0:03:32.40,Default,,0,0,0,,It's ended?
+Dialogue: 0,0:03:34.78,0:03:35.63,Default,,0,0,0,,Just noobs
+Dialogue: 0,0:03:37.74,0:03:39.32,Default,,0,0,0,,Let's continue the topic
+Dialogue: 0,0:03:40.18,0:03:42.09,Default,,0,0,0,,I found out after so many tries
+Dialogue: 0,0:03:43.00,0:03:44.99,Default,,0,0,0,,Neil is different from you
+Dialogue: 0,0:03:45.74,0:03:46.22,Default,,0,0,0,,What
+Dialogue: 0,0:03:46.94,0:03:47.71,Default,,0,0,0,,Neil?
+Dialogue: 0,0:03:48.79,0:03:49.77,Default,,0,0,0,,He's like a black hole
+Dialogue: 0,0:03:51.30,0:03:53.12,Default,,0,0,0,,Absorbs all of my negative energy
+Dialogue: 0,0:03:54.36,0:03:55.19,Default,,0,0,0,,Thanks to him
+Dialogue: 0,0:03:55.65,0:03:57.01,Default,,0,0,0,,I could sleep well
+Dialogue: 0,0:03:57.77,0:03:59.36,Default,,0,0,0,,Enjoy a peaceful life
+Dialogue: 0,0:04:00.46,0:04:01.45,Default,,0,0,0,,Days like these
+Dialogue: 0,0:04:02.24,0:04:03.74,Default,,0,0,0,,Were ruined by you
+Dialogue: 0,0:04:06.63,0:04:08.24,Default,,0,0,0,,So I could only kill all of you
+Dialogue: 0,0:04:13.58,0:04:14.50,Default,,0,0,0,,Fight back!
+Dialogue: 0,0:04:24.40,0:04:25.15,Default,,0,0,0,,Target is too small
+Dialogue: 0,0:04:25.30,0:04:26.04,Default,,0,0,0,,Can't hit him
+Dialogue: 0,0:04:26.38,0:04:26.90,Default,,0,0,0,,Damn
+Dialogue: 0,0:04:27.05,0:04:28.03,Default,,0,0,0,,Why didn't he become bigger
+Dialogue: 0,0:04:28.46,0:04:29.36,Default,,0,0,0,,Because giants must be dead
+Dialogue: 0,0:04:29.66,0:04:30.08,Default,,0,0,0,,What
+Dialogue: 0,0:04:32.72,0:04:33.07,Default,,0,0,0,,Back!
+Dialogue: 0,0:04:33.45,0:04:34.21,Default,,0,0,0,,Fall back!
+Dialogue: 0,0:04:34.62,0:04:35.50,Default,,0,0,0,,Want to leave now?
+Dialogue: 0,0:04:36.83,0:04:37.60,Default,,0,0,0,,I'm afraid it's a bit late
+Dialogue: 0,0:04:48.92,0:04:50.72,Default,,0,0,0,,You're really not a usual angel
+Dialogue: 0,0:04:51.88,0:04:52.48,Default,,0,0,0,,Give Neil
+Dialogue: 0,0:04:53.24,0:04:54.06,Default,,0,0,0,,Back to us!
