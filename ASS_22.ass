@@ -20,7 +20,8 @@ Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 22:  {\c&H7990E7&}All money is spent on this episode{\b0}
+Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 22:  {\c&H7990E7&}All of the budget is spent on this episode{\b0}
+
 Dialogue: 0,0:01:08.43,0:01:09.51,Default,,0,0,0,,Neil!
 Dialogue: 0,0:01:10.48,0:01:10.90,Default,,0,0,0,,What
 Dialogue: 0,0:01:12.68,0:01:13.60,Default,,0,0,0,,Who am I, where am I
@@ -44,7 +45,8 @@ Dialogue: 0,0:02:08.27,0:02:09.02,Default,,0,0,0,,So annoying
 Dialogue: 0,0:02:09.67,0:02:10.32,Default,,0,0,0,,So disgusting
 Dialogue: 0,0:02:10.32,0:02:10.70,Default,,0,0,0,,Go die!
 Dialogue: 0,0:02:10.70,0:02:11.25,Default,,0,0,0,,Don't come here!      So annoying
-Dialogue: 0,0:02:11.44,0:02:12.12,Default,,0,0,0,,These noise...                    Get away!
+Dialogue: 0,0:02:11.44,0:02:12.12,Default,,0,0,0,,These noises...                    Get away!
+
 Dialogue: 0,0:02:12.30,0:02:12.66,Default,,0,0,0,,Are...
 Dialogue: 0,0:02:14.86,0:02:16.10,Default,,0,0,0,,Don't talk anymore!
 Dialogue: 0,0:02:16.37,0:02:16.78,Default,,0,0,0,,Don't...
@@ -85,7 +87,8 @@ Dialogue: 0,0:03:54.36,0:03:55.19,Default,,0,0,0,,Thanks to him
 Dialogue: 0,0:03:55.65,0:03:57.01,Default,,0,0,0,,I could sleep well
 Dialogue: 0,0:03:57.77,0:03:59.36,Default,,0,0,0,,Enjoy a peaceful life
 Dialogue: 0,0:04:00.46,0:04:01.45,Default,,0,0,0,,Days like these
-Dialogue: 0,0:04:02.24,0:04:03.74,Default,,0,0,0,,Were runied by you
+Dialogue: 0,0:04:02.24,0:04:03.74,Default,,0,0,0,,Were ruined by you
+
 Dialogue: 0,0:04:06.63,0:04:08.24,Default,,0,0,0,,So I could only kill all of you
 Dialogue: 0,0:04:13.58,0:04:14.50,Default,,0,0,0,,Fight back!
 Dialogue: 0,0:04:24.40,0:04:25.15,Default,,0,0,0,,Target is too small
