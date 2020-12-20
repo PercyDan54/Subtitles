@@ -1,0 +1,149 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: 万圣街_蓝光_万圣街_24.mp4
+Video File: 万圣街_蓝光_万圣街_24.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 24:  {\c&H7990E7&}Farewell, my friend!{\b0}
+Dialogue: 0,0:01:09.49,0:01:10.04,Default,,0,0,0,,Dark lord
+Dialogue: 0,0:01:11.16,0:01:12.48,Default,,0,0,0,,Neil Bowman
+Dialogue: 0,0:01:13.82,0:01:16.11,Default,,0,0,0,,You came left your home alone
+Dialogue: 0,0:01:17.09,0:01:19.31,Default,,0,0,0,,You thought you had friends
+Dialogue: 0,0:01:20.09,0:01:22.09,Default,,0,0,0,,But what's the truth
+Dialogue: 0,0:01:22.86,0:01:24.50,Default,,0,0,0,,Let me tell you
+Dialogue: 0,0:01:25.31,0:01:26.07,Default,,0,0,0,,Nick
+Dialogue: 0,0:01:26.34,0:01:28.44,Default,,0,0,0,,Had been bullying you since youth
+Dialogue: 0,0:01:28.65,0:01:31.27,Default,,0,0,0,,Now he's getting close to you only for my power
+Dialogue: 0,0:01:31.88,0:01:34.77,Default,,0,0,0,,These two are just sharing house rent
+Dialogue: 0,0:01:31.50,0:01:34.73,Default,,0,0,0,,{\pos(975,195)} Am I a otaku?
+Dialogue: 0,0:01:34.95,0:01:37.32,Default,,0,0,0,,Damao is watching you on command
+Dialogue: 0,0:01:37.40,0:01:39.32,Default,,0,0,0,,They are your enemies
+Dialogue: 0,0:01:39.58,0:01:40.65,Default,,0,0,0,,Is it coming to an end...
+Dialogue: 0,0:01:42.81,0:01:43.44,Default,,0,0,0,,Is it raining?
+Dialogue: 0,0:01:43.96,0:01:44.34,Default,,0,0,0,,No
+Dialogue: 0,0:01:44.80,0:01:45.44,Default,,0,0,0,,It's not rain
+Dialogue: 0,0:01:51.57,0:01:52.00,Default,,0,0,0,,Oh no
+Dialogue: 0,0:01:52.91,0:01:54.12,Default,,0,0,0,,The most funny thing is
+Dialogue: 0,0:01:54.39,0:01:56.22,Default,,0,0,0,,You thought you loved Lily
+Dialogue: 0,0:01:56.61,0:01:58.55,Default,,0,0,0,,She's a battle angle
+Dialogue: 0,0:01:58.85,0:02:00.73,Default,,0,0,0,,Born for killing me
+Dialogue: 0,0:02:01.34,0:02:03.64,Default,,0,0,0,,You thought you love her wrongly
+Dialogue: 0,0:02:03.64,0:02:06.03,Default,,0,0,0,,Just because of my allergy
+Dialogue: 0,0:02:06.72,0:02:07.32,Default,,0,0,0,,Pathetic
+Dialogue: 0,0:02:07.78,0:02:09.04,Default,,0,0,0,,So pathetic
+Dialogue: 0,0:02:09.89,0:02:10.90,Default,,0,0,0,,Very sad?
+Dialogue: 0,0:02:11.20,0:02:12.50,Default,,0,0,0,,Painful?
+Dialogue: 0,0:02:13.00,0:02:14.96,Default,,0,0,0,,There's only arrogance in this world
+Dialogue: 0,0:02:14.96,0:02:15.86,Default,,0,0,0,,Selfish
+Dialogue: 0,0:02:16.01,0:02:16.68,Default,,0,0,0,,Greedy
+Dialogue: 0,0:02:16.93,0:02:18.68,Default,,0,0,0,,Ignorance and lazy
+Dialogue: 0,0:02:19.00,0:02:20.25,Default,,0,0,0,,Only payments
+Dialogue: 0,0:02:20.25,0:02:21.33,Default,,0,0,0,,No results
+Dialogue: 0,0:02:21.62,0:02:22.83,Default,,0,0,0,,Only misses
+Dialogue: 0,0:02:23.15,0:02:25.12,Default,,0,0,0,,No true love
+Dialogue: 0,0:02:26.67,0:02:26.93,Default,,0,0,0,,No
+Dialogue: 0,0:02:29.71,0:02:30.98,Default,,0,0,0,,What's wrong
+Dialogue: 0,0:02:31.54,0:02:32.60,Default,,0,0,0,,Not like you said
+Dialogue: 0,0:02:34.32,0:02:34.66,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:35.08,0:02:35.48,Default,,0,0,0,,I know
+Dialogue: 0,0:02:35.48,0:02:35.99,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:36.40,0:02:37.41,Default,,0,0,0,,Nick wants to save me
+Dialogue: 0,0:02:36.65,0:02:38.51,Default,,0,0,0,,{\pos(975,195)}Wake up if you're there!
+Dialogue: 0,0:02:39.79,0:02:40.33,Default,,0,0,0,,{\pos(975,195)}Damn
+Dialogue: 0,0:02:38.54,0:02:40.25,Default,,0,0,0,,I seldom call him brother
+Dialogue: 0,0:02:42.44,0:02:44.34,Default,,0,0,0,,No matter why we met for the first time
+Dialogue: 0,0:02:44.80,0:02:46.15,Default,,0,0,0,,{\pos(975,195)}It's not Neil's fault
+Dialogue: 0,0:02:46.34,0:02:46.60,Default,,0,0,0,,{\pos(975,195)}But
+Dialogue: 0,0:02:46.77,0:02:48.05,Default,,0,0,0,,They're all my friends!
+Dialogue: 0,0:02:49.69,0:02:50.21,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:50.67,0:02:52.10,Default,,0,0,0,,We're going to save you!
+Dialogue: 0,0:02:53.56,0:02:53.93,Default,,0,0,0,,Lily
+Dialogue: 0,0:02:55.42,0:02:56.29,Default,,0,0,0,,This feeling...
+Dialogue: 0,0:02:57.40,0:02:58.43,Default,,0,0,0,,Is not allergy!
+Dialogue: 0,0:03:01.78,0:03:02.96,Default,,0,0,0,,Whatever you said
+Dialogue: 0,0:03:03.45,0:03:05.74,Default,,0,0,0,,They'll be eliminated by me
+Dialogue: 0,0:03:08.13,0:03:09.70,Default,,0,0,0,,Even if you killed them all
+Dialogue: 0,0:03:10.40,0:03:11.61,Default,,0,0,0,,If the world still knows your existence
+Dialogue: 0,0:03:11.98,0:03:13.70,Default,,0,0,0,,You're never going to have a peaceful life
+Dialogue: 0,0:03:14.40,0:03:15.70,Default,,0,0,0,,So what?
+Dialogue: 0,0:03:16.03,0:03:18.29,Default,,0,0,0,,I'm already used to it
+Dialogue: 0,0:03:18.90,0:03:20.12,Default,,0,0,0,,Though I didn't know you until today
+Dialogue: 0,0:03:20.99,0:03:22.57,Default,,0,0,0,,But I could feel you all the time
+Dialogue: 0,0:03:23.73,0:03:24.21,Default,,0,0,0,,I know
+Dialogue: 0,0:03:25.10,0:03:26.73,Default,,0,0,0,,Youd didn't care about power
+Dialogue: 0,0:03:26.97,0:03:27.42,Default,,0,0,0,,Rights
+Dialogue: 0,0:03:28.52,0:03:29.70,Default,,0,0,0,,You just want to stay calm
+Dialogue: 0,0:03:31.46,0:03:33.04,Default,,0,0,0,,What did you want to say exactly
+Dialogue: 0,0:03:33.68,0:03:34.06,Default,,0,0,0,,Dark lord
+Dialogue: 0,0:03:35.21,0:03:36.12,Default,,0,0,0,,Could you trust me?
+Dialogue: 0,0:03:43.76,0:03:44.58,Default,,0,0,0,,Their number...
+Dialogue: 0,0:03:44.98,0:03:46.06,Default,,0,0,0,,Is way too big!
+Dialogue: 0,0:03:47.61,0:03:48.50,Default,,0,0,0,,Damn
+Dialogue: 0,0:03:55.06,0:03:56.10,Default,,0,0,0,,It ends now...?
+Dialogue: 0,0:03:57.81,0:03:58.33,Default,,0,0,0,,Guys!
+Dialogue: 0,0:03:58.75,0:03:59.13,Default,,0,0,0,,Neil
+Dialogue: 0,0:04:02.81,0:04:03.67,Default,,0,0,0,,Neil!
+Dialogue: 0,0:04:04.10,0:04:05.81,Default,,0,0,0,,I took back the control of my body temporarily
+Dialogue: 0,0:04:06.34,0:04:07.04,Default,,0,0,0,,Listen to me!
+Dialogue: 0,0:04:07.82,0:04:09.78,Default,,0,0,0,,All negative powers of the dark lord is released
+Dialogue: 0,0:04:10.55,0:04:11.00,Default,,0,0,0,,Now
+Dialogue: 0,0:04:11.35,0:04:13.00,Default,,0,0,0,,Is the best time to attack me
+Dialogue: 0,0:04:13.27,0:04:13.62,Default,,0,0,0,,Neil
+Dialogue: 0,0:04:14.03,0:04:15.16,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:04:17.61,0:04:18.32,Default,,0,0,0,,Ready, everyone
+Dialogue: 0,0:04:18.73,0:04:19.42,Default,,0,0,0,,Aim at the dark lord
+Dialogue: 0,0:04:19.81,0:04:20.45,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:04:21.26,0:04:23.02,Default,,0,0,0,,It's our responsibility to defeat the dark lord
+Dialogue: 0,0:04:23.02,0:04:23.50,Default,,0,0,0,,Stop aruging
+Dialogue: 0,0:04:24.49,0:04:25.12,Default,,0,0,0,,It's the only way
+Dialogue: 0,0:04:25.78,0:04:27.12,Default,,0,0,0,,The dark lord could gone forever
+Dialogue: 0,0:04:29.24,0:04:30.01,Default,,0,0,0,,I'm saying my last words
+Dialogue: 0,0:04:30.24,0:04:31.46,Default,,0,0,0,,No Neil!
+Dialogue: 0,0:04:31.55,0:04:32.37,Default,,0,0,0,,Fire!
+Dialogue: 0,0:04:33.17,0:04:33.74,Default,,0,0,0,,Everyone...
+Dialogue: 0,0:04:34.90,0:04:35.74,Default,,0,0,0,,These times...
+Dialogue: 0,0:04:36.68,0:04:37.56,Default,,0,0,0,,I'm really happy...
+Dialogue: 0,0:04:45.97,0:04:46.59,Default,,0,0,0,,Impossible
+Dialogue: 0,0:04:47.48,0:04:48.42,Default,,0,0,0,,I got...
+Dialogue: 0,0:05:00.68,0:05:01.67,Default,,0,0,0,,Neil
+Dialogue: 0,0:05:03.98,0:05:04.23,Default,,0,0,0,,Is that...
+Dialogue: 0,0:05:05.18,0:05:05.68,Default,,0,0,0,,Neil!
+Dialogue: 0,0:05:15.51,0:05:16.08,Default,,0,0,0,,Neil
+Dialogue: 0,0:05:17.22,0:05:17.61,Default,,0,0,0,,Neil
+Dialogue: 0,0:05:17.65,0:05:18.04,Default,,0,0,0,,Neil
+Dialogue: 0,0:05:18.43,0:05:18.77,Default,,0,0,0,,Neil
+Dialogue: 0,0:05:19.68,0:05:20.69,Default,,0,0,0,,{\an6\pos(1193,1036)}       Neil                                Neil
+Dialogue: 0,0:05:25.78,0:05:26.21,Default,,0,0,0,,Everyone...
+Dialogue: 0,0:05:27.81,0:05:28.32,Default,,0,0,0,,I was...
+Dialogue: 0,0:05:32.12,0:05:33.04,Default,,0,0,0,,Well done Neil!
+Dialogue: 0,0:05:33.91,0:05:35.62,Default,,0,0,0,,I thought I'd never see you again
+Dialogue: 0,0:05:38.81,0:05:40.29,Default,,0,0,0,,Don't die Neil!!
+Dialogue: 0,0:05:42.38,0:05:42.85,Default,,0,0,0,,Got it
+Dialogue: 0,0:05:43.91,0:05:45.49,Default,,0,0,0,,The activity of dark lord is gone
+Dialogue: 0,0:05:46.26,0:05:46.98,Default,,0,0,0,,That means...
+Dialogue: 0,0:05:47.77,0:05:48.55,Default,,0,0,0,,We won!
+Dialogue: 0,0:05:50.30,0:05:51.50,Default,,0,0,0,,Great!
+Dialogue: 0,0:05:53.81,0:05:54.35,Default,,0,0,0,,Stop laughing
+Dialogue: 0,0:05:54.53,0:05:55.06,Default,,0,0,0,,Come and help!
+Dialogue: 0,0:05:55.45,0:05:56.68,Default,,0,0,0,,There are still lots of things to do
+Dialogue: 0,0:05:57.94,0:05:58.70,Default,,0,0,0,,Nonsense
+Dialogue: 0,0:05:59.25,0:06:00.33,Default,,0,0,0,,What if you got killed
+Dialogue: 0,0:06:01.21,0:06:02.05,Default,,0,0,0,,I still have you
+Dialogue: 0,0:06:03.38,0:06:04.11,Default,,0,0,0,,Pretty disgusting
+Dialogue: 0,0:06:06.40,0:06:07.26,Default,,0,0,0,,Thanks for trusting me
