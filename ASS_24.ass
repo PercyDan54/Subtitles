@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -17,15 +17,15 @@ Video Zoom Percent: 0.500000
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,280,1
+Style: Interview,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,120,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\pos(970,922)} {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 24:  {\c&H7990E7&}Farewell, my friends!{\b0}
-
+Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,922)} {\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 24:  {\c&H7990E7&}Farewell, my friends!{\b0}
 Dialogue: 0,0:01:09.49,0:01:10.04,Default,,0,0,0,,Dark lord
 Dialogue: 0,0:01:11.16,0:01:12.48,Default,,0,0,0,,Neil Bowman
 Dialogue: 0,0:01:13.82,0:01:16.11,Default,,0,0,0,,You came from your home alone
-
 Dialogue: 0,0:01:17.09,0:01:19.31,Default,,0,0,0,,You thought you had friends
 Dialogue: 0,0:01:20.09,0:01:22.09,Default,,0,0,0,,But what's the truth
 Dialogue: 0,0:01:22.86,0:01:24.50,Default,,0,0,0,,Let me tell you
@@ -50,15 +50,11 @@ Dialogue: 0,0:02:03.64,0:02:06.03,Default,,0,0,0,,Just because of my allergy
 Dialogue: 0,0:02:06.72,0:02:07.32,Default,,0,0,0,,Pathetic
 Dialogue: 0,0:02:07.78,0:02:09.04,Default,,0,0,0,,So pathetic
 Dialogue: 0,0:02:09.89,0:02:10.90,Default,,0,0,0,,Isn't it sad?
-
 Dialogue: 0,0:02:11.20,0:02:12.50,Default,,0,0,0,,Painful?
 Dialogue: 0,0:02:13.00,0:02:14.96,Default,,0,0,0,,There's only arrogance in this world
 Dialogue: 0,0:02:14.96,0:02:15.86,Default,,0,0,0,,Selfishness
-
 Dialogue: 0,0:02:16.01,0:02:16.68,Default,,0,0,0,,Greediness
-
 Dialogue: 0,0:02:16.93,0:02:18.68,Default,,0,0,0,,Ignorance and laziness
-
 Dialogue: 0,0:02:19.00,0:02:20.25,Default,,0,0,0,,Only payments
 Dialogue: 0,0:02:20.25,0:02:21.33,Default,,0,0,0,,No results
 Dialogue: 0,0:02:21.62,0:02:22.83,Default,,0,0,0,,Only misses
@@ -82,7 +78,6 @@ Dialogue: 0,0:02:50.67,0:02:52.10,Default,,0,0,0,,We're going to save you!
 Dialogue: 0,0:02:53.56,0:02:53.93,Default,,0,0,0,,Lily
 Dialogue: 0,0:02:55.42,0:02:56.29,Default,,0,0,0,,This feeling...
 Dialogue: 0,0:02:57.40,0:02:58.43,Default,,0,0,0,,Is not an allergy!
-
 Dialogue: 0,0:03:01.78,0:03:02.96,Default,,0,0,0,,Whatever you said
 Dialogue: 0,0:03:03.45,0:03:05.74,Default,,0,0,0,,They'll be eliminated by me
 Dialogue: 0,0:03:08.13,0:03:09.70,Default,,0,0,0,,Even if you killed them all
@@ -94,7 +89,6 @@ Dialogue: 0,0:03:18.90,0:03:20.12,Default,,0,0,0,,Though I didn't know you until
 Dialogue: 0,0:03:20.99,0:03:22.57,Default,,0,0,0,,But I could feel you all the time
 Dialogue: 0,0:03:23.73,0:03:24.21,Default,,0,0,0,,I know
 Dialogue: 0,0:03:25.10,0:03:26.73,Default,,0,0,0,,You don't care about power
-
 Dialogue: 0,0:03:26.97,0:03:27.42,Default,,0,0,0,,Rights
 Dialogue: 0,0:03:28.52,0:03:29.70,Default,,0,0,0,,You just want to stay calmly
 Dialogue: 0,0:03:31.46,0:03:33.04,Default,,0,0,0,,What did you want to say exactly
@@ -119,7 +113,6 @@ Dialogue: 0,0:04:18.73,0:04:19.42,Default,,0,0,0,,Aim at the dark lord
 Dialogue: 0,0:04:19.81,0:04:20.45,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:04:21.26,0:04:23.02,Default,,0,0,0,,It's our responsibility to defeat the dark lord
 Dialogue: 0,0:04:23.02,0:04:23.50,Default,,0,0,0,,Stop arguing
-
 Dialogue: 0,0:04:24.49,0:04:25.12,Default,,0,0,0,,It's the only way
 Dialogue: 0,0:04:25.78,0:04:27.12,Default,,0,0,0,,The dark lord could gone forever
 Dialogue: 0,0:04:29.24,0:04:30.01,Default,,0,0,0,,I'm saying my last words
@@ -156,3 +149,52 @@ Dialogue: 0,0:05:59.25,0:06:00.33,Default,,0,0,0,,What if you got killed
 Dialogue: 0,0:06:01.21,0:06:02.05,Default,,0,0,0,,I still have you
 Dialogue: 0,0:06:03.38,0:06:04.11,Default,,0,0,0,,Pretty disgusting
 Dialogue: 0,0:06:06.40,0:06:07.26,Default,,0,0,0,,Thanks for trusting me
+Dialogue: 0,0:06:30.90,0:06:31.44,Default,,0,0,0,,Lynn
+Dialogue: 0,0:06:32.25,0:06:33.37,Default,,0,0,0,,They're talking about the compensation
+Dialogue: 0,0:06:34.01,0:06:34.70,Default,,0,0,0,,Come and have a look
+Dialogue: 0,0:06:35.78,0:06:36.02,Default,,0,0,0,,OK
+Dialogue: 0,0:06:36.90,0:06:37.35,Default,,0,0,0,,Coming in a second
+Dialogue: 0,0:06:36.75,0:06:38.14,Default,,0,0,0,,{\frz125.2\fs35\pos(1219,406)}Dark lord has been defeated\Nhere are the videos
+Dialogue: 0,0:06:36.75,0:06:38.14,Default,,0,0,0,,{\frz125.2\fs35\pos(1451,260)}Got it, will  keep watching
+Dialogue: 0,0:06:41.62,0:06:44.32,Default,,0,0,0,,{\pos(990,610)\i1\fad(1500,1500)}(Do not leave yet!){\i0}
+Dialogue: 0,0:06:45.79,0:06:47.16,Title,,0,0,0,,{\b1\fad(0,500)}All Saints Street creator interviews
+Comment: 0,0:06:45.79,0:06:47.16,Default,,0,0,0,,Overlapping is intended to create the ease out effect
+Dialogue: 1,0:06:46.76,0:06:49.52,Title,,0,0,0,,{\b1\fad(500,0)}Introduce yourself
+Dialogue: 0,0:06:49.98,0:06:52.76,Interview,,0,0,0,,Hi, I'm the chief editor of All Saints Street, Lingzi
+Dialogue: 0,0:06:52.76,0:06:54.29,Title,,0,0,0,,{\b1\pos(975,930)}Favorite scene & \Nline in this series
+Dialogue: 0,0:06:54.29,0:06:57.66,Interview,,0,0,0,,My favorite scene should be the episode which Lynn carrying Lily
+Dialogue: 0,0:06:58.51,0:07:00.33,Interview,,0,0,0,,All the things are pretty lovely
+Dialogue: 0,0:07:00.52,0:07:01.33,Interview,,0,0,0,,I liked it very much
+Dialogue: 0,0:07:01.84,0:07:05.73,Interview,,0,0,0,,And there's a line which Lily shouted "little hole" on the snow
+Dialogue: 0,0:07:06.02,0:07:07.50,Interview,,0,0,0,,I think it's a very brainwashing<!-- should I tl 洗脑 like this?  >
+Dialogue: 0,0:07:07.85,0:07:09.32,Interview,,0,0,0,,And interesting line
+Dialogue: 0,0:07:09.32,0:07:11.79,Interview,,0,0,0,,Second favorite scene should be
+Dialogue: 0,0:07:12.16,0:07:13.94,Interview,,0,0,0,,After Damao turned into a wolf
+Dialogue: 0,0:07:14.12,0:07:14.92,Interview,,0,0,0,,Neil went to find him
+Dialogue: 0,0:07:14.92,0:07:16.92,Interview,,0,0,0,,I think that episode is full of the power of friendship
+Dialogue: 0,0:07:16.92,0:07:17.91,Interview,,0,0,0,,And I was touched
+Dialogue: 0,0:07:17.91,0:07:19.91,Interview,,0,0,0,,So that scene should be my second favorite
+Dialogue: 0,0:07:20.06,0:07:22.83,Title,,0,0,0,,{\b1}Which character shirt do you like
+Dialogue: 0,0:07:23.00,0:07:25.22,Interview,,0,0,0,,I liked all clothes of Ira's
+Dialogue: 0,0:07:25.22,0:07:27.22,Interview,,0,0,0,,I think they're really full of characteristics
+Dialogue: 0,0:07:27.22,0:07:29.87,Interview,,0,0,0,,And things like slogan on them
+Dialogue: 0,0:07:29.87,0:07:31.65,Interview,,0,0,0,,So I think I can bring them to reality
+Dialogue: 0,0:07:31.80,0:07:35.78,Interview,,0,0,0,,The second favorite might be the skirt Lily wore when she went to the park
+Dialogue: 0,0:07:35.78,0:07:36.73,Interview,,0,0,0,,I think it's cute
+Dialogue: 0,0:07:37.08,0:07:39.79,Title,,0,0,0,,{\b1}Most impressed fanart?
+Dialogue: 0,0:07:40.04,0:07:42.04,Interview,,0,0,0,,The most impressed fanart might be
+Dialogue: 0,0:07:42.04,0:07:46.49,Interview,,0,0,0,,Someone on Weibo created a 1031 fan comic
+Dialogue: 0,0:07:46.49,0:07:49.31,Interview,,0,0,0,,I think... It had high completion and he worked re
+Dialogue: 0,0:07:49.31,0:07:51.31,Interview,,0,0,0,,So I was really impressed when I saw it
+Dialogue: 0,0:07:51.31,0:07:53.22,Interview,,0,0,0,,And another one was 
+Dialogue: 0,0:07:53.22,0:07:57.20,Interview,,0,0,0,,Some foreign people's cosplayed Damao and Ira
+Dialogue: 0,0:07:57.33,0:07:58.70,Interview,,0,0,0,,Because that Damao was so real
+Dialogue: 0,0:07:58.70,0:08:00.02,Interview,,0,0,0,,Very muscular
+Dialogue: 0,0:08:00.02,0:08:01.93,Interview,,0,0,0,,So I had a deep impression
+Dialogue: 0,0:08:01.93,0:08:03.20,Interview,,0,0,0,,And think it was interesting
+Dialogue: 0,0:08:03.20,0:08:06.37,Title,,0,0,0,,{\b1\pos(965,880)}What could be the plans for the future?
+Dialogue: 0,0:08:06.37,0:08:08.99,Interview,,0,0,0,,In the future, may be Nick will... have more salary
+Dialogue: 0,0:08:09.34,0:08:12.19,Interview,,0,0,0,,That's the best thing for a worker
+Dialogue: 0,0:08:12.35,0:08:16.20,Interview,,0,0,0,,And he will have a {\i1}slightly{\i0} better life than now
+Dialogue: 0,0:08:16.76,0:08:20.62,Title,,0,0,0,,{\b1\pos(960,890)}A gift from creator \N(also one of the lyric writers){\b0}
+Dialogue: 0,0:08:30.03,0:08:37.36,Title,,0,0,0,,{\c&H98A9F1&\4c&HBFD48F&\xshad9\yshad6\fad(1200,0)\b1\pos(1520,915)}All Saints Street\NTo be continued
