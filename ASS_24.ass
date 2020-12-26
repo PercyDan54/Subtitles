@@ -157,7 +157,7 @@ Dialogue: 0,0:06:36.90,0:06:37.35,Default,,0,0,0,,Coming in a second
 Dialogue: 0,0:06:36.75,0:06:38.14,Default,,0,0,0,,{\frz125.2\fs35\pos(1219,406)}Dark lord has been defeated\Nhere are the videos
 Dialogue: 0,0:06:36.75,0:06:38.14,Default,,0,0,0,,{\frz125.2\fs35\pos(1451,260)}Got it, will  keep watching
 Dialogue: 0,0:06:41.62,0:06:44.32,Default,,0,0,0,,{\pos(990,610)\i1\fad(1500,1500)}(Do not leave yet!){\i0}
-Dialogue: 0,0:06:45.79,0:06:47.16,Title,,0,0,0,,{\b1\fad(0,500)}All Saints Street creator interviews
+Dialogue: 0,0:06:45.37,0:06:47.16,Title,,0,0,0,,{\b1\fad(0,500)}All Saints Street creator interviews
 Comment: 0,0:06:45.79,0:06:47.16,Default,,0,0,0,,Overlapping is intended to create the ease out effect
 Dialogue: 1,0:06:46.76,0:06:49.52,Title,,0,0,0,,{\b1\fad(500,0)}Introduce yourself
 Dialogue: 0,0:06:49.98,0:06:52.76,Interview,,0,0,0,,Hi, I'm the chief editor of All Saints Street, Lingzi
