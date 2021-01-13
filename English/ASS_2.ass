@@ -1,0 +1,106 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Audio File: D:/剪辑/字幕/万圣街_蓝光_万圣街_02.mp4
+Video File: D:/剪辑/字幕/万圣街_蓝光_万圣街_02.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.32,0:00:27.34,Default,,0,0,0,,The demon who has ever since young had a love for the human world
+Dialogue: 0,0:00:27.34,0:00:28.20,Default,,0,0,0,,Neil Bowman
+Dialogue: 0,0:00:28.20,0:00:29.62,Default,,0,0,0,,He has now travelled from Hell
+Dialogue: 0,0:00:29.62,0:00:31.84,Default,,0,0,0,,to the human world 
+Dialogue: 0,0:00:31.94,0:00:33.52,Default,,0,0,0,,with his friends
+Dialogue: 0,0:00:33.52,0:00:35.52,Default,,0,0,0,,They started their brand new
+Dialogue: 0,0:00:35.60,0:00:36.76,Default,,0,0,0,,Joint rent life
+Dialogue: 0,0:00:37.78,0:00:39.48,Default,,0,0,0,,Even so, he was unaware of 
+Dialogue: 0,0:00:39.48,0:00:41.42,Default,,0,0,0,,a great danger 
+Dialogue: 0,0:00:41.42,0:00:42.66,Default,,0,0,0,,is eventually
+Dialogue: 0,0:00:51.72,0:00:53.36,Default,,0,0,0,,coming towards them
+Dialogue: 0,0:01:26.10,0:01:27.06,Default,,0,0,0,,This is your room
+Dialogue: 0,0:01:27.58,0:01:28.54,Default,,0,0,0,,I decorated it for you
+Dialogue: 0,0:01:28.94,0:01:30.04,Default,,0,0,0,,You'll like it
+Dialogue: 0,0:01:30.60,0:01:31.34,Default,,0,0,0,,Ira
+Dialogue: 0,0:01:32.98,0:01:33.92,Default,,0,0,0,,You are so good to me
+Dialogue: 0,0:01:34.28,0:01:35.24,Default,,0,0,0,,We were just internet friends
+Dialogue: 0,0:01:35.62,0:01:37.18,Default,,0,0,0,,But you still cared about me a lot
+Dialogue: 0,0:01:37.74,0:01:38.36,Default,,0,0,0,,Nevermind
+Dialogue: 0,0:01:38.76,0:01:39.64,Default,,0,0,0,,Without you
+Dialogue: 0,0:01:39.78,0:01:41.58,Default,,0,0,0,,I'll still be stuggling to live
+Dialogue: 0,0:01:42.84,0:01:44.34,Default,,0,0,0,,Well, seems like you already forgot
+Dialogue: 0,0:01:44.70,0:01:45.28,Default,,0,0,0,,However
+Dialogue: 0,0:01:45.44,0:01:46.38,Default,,0,0,0,,It has been three years since that
+Dialogue: 0,0:01:51.00,0:01:52.34,Default,,0,0,0,,Uh?The guy who played with me last time...
+Dialogue: 0,0:01:52.74,0:01:53.96,Default,,0,0,0,,Now there are to options
+Dialogue: 0,0:01:53.96,0:01:54.94,Default,,0,0,0,,I am not sure which to choose
+Dialogue: 0,0:01:55.54,0:01:56.38,Default,,0,0,0,,Can you decide that for me?
+Dialogue: 0,0:01:56.64,0:01:57.96,Default,,0,0,0,,Choices In-game?   Choice A
+Dialogue: 0,0:01:58.20,0:01:58.70,Default,,0,0,0,,Go back home
+Dialogue: 0,0:01:58.98,0:01:59.88,Default,,0,0,0,,Choice B
+Dialogue: 0,0:01:59.88,0:02:00.40,Default,,0,0,0,,Stay here
+Dialogue: 0,0:02:00.94,0:02:01.62,Default,,0,0,0,,If he went back home
+Dialogue: 0,0:02:02.52,0:02:04.16,Default,,0,0,0,,There's no room for the plot to unfold
+Dialogue: 0,0:02:05.22,0:02:05.94,Default,,0,0,0,,I choose B
+Dialogue: 0,0:02:05.94,0:02:06.62,Default,,0,0,0,,ty,Mate
+Dialogue: 0,0:02:07.84,0:02:09.24,Default,,0,0,0,,Thats all because of you deciding that for me
+Dialogue: 0,0:02:09.82,0:02:10.94,Default,,0,0,0,,So I determined to
+Dialogue: 0,0:02:11.12,0:02:13.08,Default,,0,0,0,,give up inheriting my family's global company and castle
+Dialogue: 0,0:02:13.30,0:02:14.70,Default,,0,0,0,,Be a full-time Otaku
+Dialogue: 0,0:02:14.88,0:02:16.56,Default,,0,0,0,,It was a serious real-life decision?
+Dialogue: 0,0:02:16.56,0:02:17.82,Default,,0,0,0,,Why didn't you tell me clearly?
+Dialogue: 0,0:02:18.30,0:02:18.88,Default,,0,0,0,,Now
+Dialogue: 0,0:02:18.88,0:02:20.80,Default,,0,0,0,,I don't have to dress up for hours before going outside anymore
+Dialogue: 0,0:02:21.00,0:02:22.96,Default,,0,0,0,,No more servants and maidens watching me all day
+Dialogue: 0,0:02:23.38,0:02:25.28,Default,,0,0,0,,The most important point is
+Dialogue: 0,0:02:25.28,0:02:26.36,Default,,0,0,0,,I don't have to go to living room by scooters anymroe
+Dialogue: 0,0:02:26.74,0:02:27.68,Default,,0,0,0,,I can have instant noodles everyday
+Dialogue: 0,0:02:27.82,0:02:28.70,Default,,0,0,0,,wear T-shirts
+Dialogue: 0,0:02:28.96,0:02:31.28,Default,,0,0,0,,No more people messing around me
+Dialogue: 0,0:02:31.42,0:02:32.42,Default,,0,0,0,,All thanks to you
+Dialogue: 0,0:02:32.83,0:02:33.16,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:33.74,0:02:34.52,Default,,0,0,0,,Are you sure your life now is better than before????
+Dialogue: 0,0:02:39.24,0:02:39.74,Default,,0,0,0,,Ira
+Dialogue: 0,0:02:40.34,0:02:41.08,Default,,0,0,0,,Acutally...
+Dialogue: 0,0:02:41.14,0:02:42.00,Default,,0,0,0,,Are you OK Ira?
+Dialogue: 0,0:02:42.30,0:02:43.32,Default,,0,0,0,,Fine
+Dialogue: 0,0:02:43.50,0:02:45.18,Default,,0,0,0,,Vampires fall asleep easily during daytime
+Dialogue: 0,0:02:45.50,0:02:46.30,Default,,0,0,0,,Cool
+Dialogue: 0,0:02:47.04,0:02:48.22,Default,,0,0,0,,Check 
+Dialogue: 0,0:02:48.30,0:02:48.92,Default,,0,0,0,,
+Dialogue: 0,0:02:57.24,0:02:58.04,Default,,0,0,0,,Like it?
+Dialogue: 0,0:02:58.16,0:02:59.72,Default,,0,0,0,,Isn't it like your home
+Dialogue: 0,0:03:00.88,0:03:02.48,Default,,0,0,0,,You must be wrong
+Dialogue: 0,0:03:07.08,0:03:08.14,Default,,0,0,0,,I've planned this before I came here
+Dialogue: 0,0:03:08.34,0:03:10.00,Default,,0,0,0,,I'm going to cook some delicious dish for you
+Dialogue: 0,0:03:10.74,0:03:11.66,Default,,0,0,0,,You can cook?
+Dialogue: 0,0:03:12.00,0:03:12.98,Default,,0,0,0,,Just some home cooking in hell
+Dialogue: 0,0:03:13.12,0:03:13.88,Default,,0,0,0,,Simple and delicious
+Dialogue: 0,0:03:14.78,0:03:15.54,Default,,0,0,0,,What's this sound
+Dialogue: 0,0:03:15.74,0:03:16.34,Default,,0,0,0,,The ingredients
+Dialogue: 0,0:03:16.90,0:03:18.08,Default,,0,0,0,,Hell snake and rabbits
+Dialogue: 0,0:03:19.28,0:03:20.32,Default,,0,0,0,,You sure we can eat these?
+Dialogue: 0,0:03:20.50,0:03:21.48,Default,,0,0,0,,Tastes good 
+Dialogue: 0,0:03:21.68,0:03:22.20,Default,,0,0,0,,Take this
+Dialogue: 0,0:03:25.66,0:03:26.94,Default,,0,0,0,,I also got a lot of seasonings
+Dialogue: 0,0:03:29.06,0:03:29.86,Default,,0,0,0,,Ira Are you OK?
+Dialogue: 0,0:03:30.98,0:03:31.28,Default,,0,0,0,,Oh no
+Dialogue: 0,0:03:31.70,0:03:32.00,Default,,0,0,0,,Get back to...
+Dialogue: 0,0:03:41.00,0:03:43.00,Default,,0,0,0,,{\pos(470,968)}Tips:\N{\i1}In case of emergency\Nsome devils will set themselves on fire subconsciously{\i0}
+Dialogue: 0,0:03:48.36,0:03:49.18,Default,,0,0,0,,Come back
+Dialogue: 0,0:03:55.76,0:03:56.70,Default,,0,0,0,,Finally
+Dialogue: 0,0:04:01.88,0:04:02.46,Default,,0,0,0,,I...
+Dialogue: 0,0:04:02.46,0:04:03.36,Default,,0,0,0,,I'm done
+Dialogue: 0,0:04:08.42,0:04:09.14,Default,,0,0,0,,Lynn?
+Dialogue: 0,0:04:09.40,0:04:10.38,Default,,0,0,0,,Are you blowing the house up?
+Dialogue: 0,0:04:12.80,0:04:13.76,Default,,0,0,0,,What just happend
+Dialogue: 0,0:04:13.76,0:04:15.76,Default,,0,0,0,,

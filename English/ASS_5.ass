@@ -1,0 +1,95 @@
+﻿[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:08.26,0:01:09.26,Default,,0,0,0,,Stupid Lynn
+Dialogue: 0,0:01:09.60,0:01:10.78,Default,,0,0,0,,nagging me all day
+Dialogue: 0,0:01:11.06,0:01:12.32,Default,,0,0,0,,Can't you just buy it online?
+Dialogue: 0,0:01:13.02,0:01:15.42,Default,,0,0,0,,Also what does he mean by keeping an eye out for any new tenants?
+Dialogue: 0,0:01:15.78,0:01:17.74,Default,,0,0,0,,As if that is something you just stumble across during a walk
+Dialogue: 0,0:01:19.78,0:01:21.16,Default,,0,0,0,,What are they looking at
+Dialogue: 0,0:01:24.85,0:01:25.57,Default,,0,0,0,,that feels good
+Dialogue: 0,0:01:26.04,0:01:26.78,Default,,0,0,0,,What a good boy!
+Dialogue: 0,0:01:28.75,0:01:29.34,Default,,0,0,0,,Whose dog is this?
+Dialogue: 0,0:01:29.73,0:01:30.75,Default,,0,0,0,,Here, have one more (sausage)
+Dialogue: 0,0:01:30.75,0:01:33.07,Default,,0,0,0,,Isn’t it dangerous without a leash on though
+Dialogue: 0,0:01:33.50,0:01:35.21,Default,,0,0,0,,{\pos(1320,1050)}Tch, thought it was something important\N
+Dialogue: 0,0:01:33.93,0:01:35.04,Default,,0,0,0,,{\pos(612,1050)}Looks like he’s been a stray for a long time\N
+Dialogue: 0,0:01:35.52,0:01:36.33,Default,,0,0,0,,{\pos(590,1050)}Look he’s even got scars
+Dialogue: 0,0:01:36.08,0:01:36.90,Default,,0,0,0,,{\pos(1320,1050)}Just a werewolf
+Dialogue: 0,0:01:37.17,0:01:38.10,Default,,0,0,0,,{\pos(590,1050)}Let’s take him to get neutered first
+Dialogue: 0,0:01:38.22,0:01:38.76,Default,,0,0,0,,{\pos(590,1050)}We should send him to the rescue centre
+Dialogue: 0,0:01:39.55,0:01:40.27,Default,,0,0,0,,Hey big boy
+Dialogue: 0,0:01:40.73,0:01:41.95,Default,,0,0,0,,gramps has food if you follow me
+Dialogue: 0,0:01:44.07,0:01:44.81,Default,,0,0,0,,Look it's food
+Dialogue: 0,0:01:47.25,0:01:47.95,Default,,0,0,0,,Sorry
+Dialogue: 0,0:01:48.03,0:01:49.12,Default,,0,0,0,,this is my dog.
+Dialogue: 0,0:01:49.20,0:01:50.60,Default,,0,0,0,,He broke off the leash and ran away
+Dialogue: 0,0:01:50.97,0:01:51.68,Default,,0,0,0,,It've been trying to find me for hours
+Dialogue: 0,0:01:52.26,0:01:55.74,Default,,0,0,0,,{\i1}If you don’t want to be neutered then follow me.{\i0}
+Dialogue: 0,0:02:02.14,0:02:03.16,Default,,0,0,0,,This is the new tenant I found
+Dialogue: 0,0:02:03.55,0:02:04.37,Default,,0,0,0,,A Northern werewolf
+Dialogue: 0,0:02:04.72,0:02:06.07,Default,,0,0,0,,His name is too long so I don't remember it
+Dialogue: 0,0:02:06.27,0:02:07.20,Default,,0,0,0,,Just call him Damao
+Dialogue: 0,0:02:09.53,0:02:10.13,Default,,0,0,0,,Werewolves...
+Dialogue: 0,0:02:10.55,0:02:11.55,Default,,0,0,0,,Do they usually shed a lot
+Dialogue: 0,0:02:12.37,0:02:12.99,Default,,0,0,0,,Where's Neil
+Dialogue: 0,0:02:13.56,0:02:14.40,Default,,0,0,0,,He's playing outside
+Dialogue: 0,0:02:14.92,0:02:16.40,Default,,0,0,0,,Said that he wanted to get familiar with the area.
+Dialogue: 0,0:02:17.40,0:02:17.84,Default,,0,0,0,,Alright
+Dialogue: 0,0:02:18.01,0:02:18.97,Default,,0,0,0,,Then you just have to do the introductions later
+Dialogue: 0,0:02:19.79,0:02:20.00,Default,,0,0,0,,Let's go
+Dialogue: 0,0:02:20.41,0:02:21.44,Default,,0,0,0,,Let me show you around
+Dialogue: 0,0:02:27.38,0:02:28.48,Default,,0,0,0,,Vampires and werewolves...
+Dialogue: 0,0:02:29.14,0:02:30.07,Default,,0,0,0,,Weren't they enemies?
+Dialogue: 0,0:02:32.27,0:02:33.00,Default,,0,0,0,,Come in and take a look
+Dialogue: 0,0:02:38.62,0:02:39.71,Default,,0,0,0,,This room is awesome!
+Dialogue: 0,0:02:40.66,0:02:41.59,Default,,0,0,0,,It is good though
+Dialogue: 0,0:02:41.76,0:02:42.95,Default,,0,0,0,,But it still had some pest problems
+Dialogue: 0,0:02:43.55,0:02:44.13,Default,,0,0,0,,Pest problems?
+Dialogue: 0,0:02:44.32,0:02:45.48,Default,,0,0,0,,If you really want to live here
+Dialogue: 0,0:02:45.51,0:02:46.75,Default,,0,0,0,,Clean it up 
+Dialogue: 0,0:02:56.12,0:02:57.30,Default,,0,0,0,,I think I've been underestimated
+Dialogue: 0,0:02:58.80,0:03:01.18,Default,,0,0,0,,Even pests dare to pick on me
+Dialogue: 0,0:03:10.31,0:03:10.72,Default,,0,0,0,,Got 'em
+Dialogue: 0,0:03:11.98,0:03:13.18,Default,,0,0,0,,Well done
+Dialogue: 0,0:03:13.36,0:03:15.56,Default,,0,0,0,,These two things always mess with me in my room
+Dialogue: 0,0:03:15.64,0:03:16.62,Default,,0,0,0,,What a trouble
+Dialogue: 0,0:03:16.96,0:03:18.50,Default,,0,0,0,,Luckily you werewolves aren’t afraid to get a bit messy
+Dialogue: 0,0:03:18.59,0:03:19.40,Default,,0,0,0,,YOUR room?
+Dialogue: 0,0:03:19.83,0:03:20.32,Default,,0,0,0,,You lied to me!
+Dialogue: 0,0:03:20.32,0:03:21.65,Default,,0,0,0,,I never said that was your room
+Dialogue: 0,0:03:22.42,0:03:23.33,Default,,0,0,0,,We are roommates now
+Dialogue: 0,0:03:23.33,0:03:24.48,Default,,0,0,0,,roommates helping each other out isn’t such a big deal
+Dialogue: 0,0:03:25.06,0:03:27.14,Default,,0,0,0,,Your room is the first one to the left upstairs
+Dialogue: 0,0:03:28.44,0:03:29.04,Default,,0,0,0,,Hurry up
+Dialogue: 0,0:03:31.06,0:03:32.22,Default,,0,0,0,,This is your room
+Dialogue: 0,0:03:32.99,0:03:33.72,Default,,0,0,0,,I'm going to work
+Dialogue: 0,0:03:33.91,0:03:35.39,Default,,0,0,0,,Don't knock at my door at night
+Dialogue: 0,0:03:35.97,0:03:36.91,Default,,0,0,0,,So when the day
+Dialogue: 0,0:03:37.02,0:03:38.13,Default,,0,0,0,,If you need anything ask Lynn
+Dialogue: 0,0:03:38.35,0:03:39.01,Default,,0,0,0,,Bye
+Dialogue: 0,0:03:39.52,0:03:40.35,Default,,0,0,0,,And these
+Dialogue: 0,0:03:40.74,0:03:42.16,Default,,0,0,0,,They are yours now
+Dialogue: 0,0:03:47.83,0:03:49.14,Default,,0,0,0,,I couldn't belive it...
+Dialogue: 0,0:03:50.07,0:03:51.40,Default,,0,0,0,,They’re really letting me stay here
+Dialogue: 0,0:03:51.60,0:03:53.22,Default,,0,0,0,,Yeah
+Dialogue: 0,0:03:53.33,0:03:54.09,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:03:54.10,0:03:55.70,Default,,0,0,0,,I'm finally lucky now
+Dialogue: 0,0:03:55.70,0:03:55.95,Default,,0,0,0,,Hello
+Dialogue: 0,0:03:57.19,0:03:58.30,Default,,0,0,0,,You're Damao right?
+Dialogue: 0,0:03:58.53,0:04:00.15,Default,,0,0,0,,I am your next-door neighbour
+Dialogue: 0,0:04:00.21,0:04:01.28,Default,,0,0,0,,My name is Neil Bowman
+Dialogue: 0,0:04:01.48,0:04:02.67,Default,,0,0,0,,Just call me Nini
+Dialogue: 0,0:04:02.72,0:04:03.20,Default,,0,0,0,,You...
+Dialogue: 0,0:04:03.79,0:04:04.27,Default,,0,0,0,,You...
+Dialogue: 0,0:04:08.60,0:04:11.20,Default,,0,0,0,,You're the dark lord
+Dialogue: 0,0:04:13.52,0:04:14.30,Default,,0,0,0,,You alright?
+Dialogue: 0,0:04:14.72,0:04:15.32,Default,,0,0,0,,Ira
+Dialogue: 0,0:04:15.32,0:04:16.13,Default,,0,0,0,,Lynn
+Dialogue: 0,0:04:16.24,0:04:17.57,Default,,0,0,0,,Damao has fainted!
+Dialogue: 0,0:04:18.56,0:04:19.57,Default,,0,0,0,,It seems my luck
+Dialogue: 0,0:04:19.57,0:04:21.16,Default,,0,0,0,,truly hasn’t turned
+Dialogue: 0,0:04:21.48,0:04:23.48,Default,,0,0,0,,

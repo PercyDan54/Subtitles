@@ -1,0 +1,75 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Audio File: 万圣街_蓝光_万圣街_12.mp4
+Video File: 万圣街_蓝光_万圣街_12.mp4
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: new,@华文彩云,60,&H0013D2D9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: title,Arial,40,&H007990E7,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.58,0:01:05.40,title,,0,0,0,,{\frz3.12\pos(1010,914)\c&H6CC2E9&\b1}Episode 12:  {\c&H7990E7&}Happy new year, happy new year, we wish you a happy new year{\b0}
+Dialogue: 0,0:01:08.03,0:01:09.48,Default,,0,0,0,,I failed confessing last time
+Dialogue: 0,0:01:12.32,0:01:14.42,Default,,0,0,0,,And my relationship with Lily became more awkward
+Dialogue: 0,0:01:16.28,0:01:18.14,Default,,0,0,0,,I'm going to some crowded place for relaxing
+Dialogue: 0,0:01:27.06,0:01:29.03,Default,,0,0,0,,Why you're here at this time
+Dialogue: 0,0:01:29.24,0:01:30.85,Default,,0,0,0,,We're all going back to our hometown for the new year
+Dialogue: 0,0:01:32.88,0:01:33.18,Default,,0,0,0,,New..
+Dialogue: 0,0:01:33.71,0:01:34.58,Default,,0,0,0,,New year?
+Dialogue: 0,0:01:38.10,0:01:39.23,Default,,0,0,0,,It's new year now!
+Dialogue: 0,0:01:39.23,0:01:41.05,Default,,0,0,0,,Let's have some fireworks
+Dialogue: 0,0:01:45.19,0:01:46.32,Default,,0,0,0,,He's way too excited...
+Dialogue: 0,0:01:47.38,0:01:48.74,Default,,0,0,0,,Came outside the sixth ring
+Dialogue: 0,0:01:50.64,0:01:51.62,Default,,0,0,0,,I bought some fireworks
+Dialogue: 0,0:01:51.70,0:01:52.63,Default,,0,0,0,,Let's play them together
+Dialogue: 0,0:01:53.85,0:01:55.84,Default,,0,0,0,,What's your definition of "some"
+Dialogue: 0,0:01:59.87,0:02:00.20,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:00.56,0:02:01.36,Default,,0,0,0,,That's not funny at all
+Dialogue: 0,0:02:01.61,0:02:02.60,Default,,0,0,0,,Let me show you
+Dialogue: 0,0:02:02.60,0:02:02.94,Default,,0,0,0,,What's that
+Dialogue: 0,0:02:14.57,0:02:15.68,Default,,0,0,0,,Your reaction is too..
+Dialogue: 0,0:02:17.49,0:02:17.80,Default,,0,0,0,,Oh no
+Dialogue: 0,0:02:18.40,0:02:19.76,Default,,0,0,0,,Don't burn them, Neil!
+Dialogue: 0,0:02:19.90,0:02:20.55,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:02:31.33,0:02:32.90,Default,,0,0,0,,That's so cool
+Dialogue: 0,0:02:40.73,0:02:41.58,Default,,0,0,0,,The temple fair is crowded
+Dialogue: 0,0:02:42.40,0:02:43.47,Default,,0,0,0,,Don't get lost..
+Dialogue: 0,0:02:46.95,0:02:47.61,Default,,0,0,0,,Ira,come here
+Dialogue: 0,0:02:47.73,0:02:48.64,Default,,0,0,0,,Here's your favorite food
+Dialogue: 0,0:02:55.06,0:02:56.12,Default,,0,0,0,,Mom, Dad
+Dialogue: 0,0:02:56.99,0:02:58.37,Default,,0,0,0,,Are you living good these days?
+Dialogue: 0,0:03:00.40,0:03:01.68,Default,,0,0,0,,Everything's OK here
+Dialogue: 0,0:03:02.67,0:03:04.03,Default,,0,0,0,,It's winter here
+Dialogue: 0,0:03:04.68,0:03:05.55,Default,,0,0,0,,I'm wearing coats now
+Dialogue: 0,0:03:06.37,0:03:07.59,Default,,0,0,0,,Don't worry about me
+Dialogue: 0,0:03:10.46,0:03:12.94,new,,0,0,0,,{\pos(1550,342)}10 score
+Dialogue: 0,0:03:10.07,0:03:11.69,Default,,0,0,0,,My roommates are great
+Dialogue: 0,0:03:12.05,0:03:13.56,Default,,0,0,0,,They all have amazing skills
+Dialogue: 0,0:03:14.50,0:03:15.64,Default,,0,0,0,,They're like brothers
+Dialogue: 0,0:03:16.14,0:03:19.44,Default,,0,0,0,,Letting me know about this totally different world bit by bit
+Dialogue: 0,0:03:21.01,0:03:25.08,Default,,0,0,0,,All of these made me felt mysterious and beautiful
+Dialogue: 0,0:03:32.88,0:03:33.47,Default,,0,0,0,,Sorry
+Dialogue: 0,0:03:33.47,0:03:34.52,Default,,0,0,0,,The shops are closed
+Dialogue: 0,0:03:34.52,0:03:35.68,Default,,0,0,0,,I went to a further place to buy them
+Dialogue: 0,0:03:35.68,0:03:36.41,Default,,0,0,0,,Finally you're back
+Dialogue: 0,0:03:36.42,0:03:36.69,Default,,0,0,0,,Don't rush
+Dialogue: 0,0:03:36.96,0:03:38.69,Default,,0,0,0,,We're all waiting for you, the dumplings are just out
+Dialogue: 0,0:03:38.77,0:03:40.20,Default,,0,0,0,,The new year is coming
+Dialogue: 0,0:03:40.20,0:03:40.84,Default,,0,0,0,,The food is various
+Dialogue: 0,0:03:41.12,0:03:42.52,Default,,0,0,0,,Hope you're here too
+Dialogue: 0,0:03:43.23,0:03:45.10,Default,,0,0,0,,We share the stories of me and my friends together
+Dialogue: 0,0:03:45.82,0:03:46.54,Default,,0,0,0,,Missing you
+Dialogue: 0,0:03:47.40,0:03:48.28,Default,,0,0,0,,Please don't worry
+Dialogue: 0,0:03:48.61,0:03:49.99,Default,,0,0,0,,I'm living happily
+Dialogue: 0,0:03:50.70,0:03:51.99,Default,,0,0,0,,Love you, Neil

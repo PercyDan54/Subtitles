@@ -1,0 +1,120 @@
+﻿[Script Info]
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:06.90,0:01:07.66,Default,,0,0,0,,Madam
+Dialogue: 0,0:01:07.86,0:01:08.80,Default,,0,0,0,,The markets at the north
+Dialogue: 0,0:01:08.93,0:01:10.03,Default,,0,0,0,,had apples at the price of 4.5
+Dialogue: 0,0:01:10.18,0:01:11.51,Default,,0,0,0,,The apples in the supermarket had the price of 3.6
+Dialogue: 0,0:01:11.78,0:01:12.34,Default,,0,0,0,,4.9
+Dialogue: 0,0:01:12.45,0:01:14.14,Default,,0,0,0,,5.9 and 12.9
+Dialogue: 0,0:01:14.58,0:01:15.52,Default,,0,0,0,,According to my investigation
+Dialogue: 0,0:01:15.84,0:01:16.96,Default,,0,0,0,,Your apples' quality
+Dialogue: 0,0:01:16.96,0:01:19.35,Default,,0,0,0,,is between the apples at the north market and the supermarket
+Dialogue: 0,0:01:19.54,0:01:21.10,Default,,0,0,0,,but you had a high price of 5.5
+Dialogue: 0,0:01:21.52,0:01:23.10,Default,,0,0,0,,And according to the location and the price
+Dialogue: 0,0:01:23.10,0:01:24.09,Default,,0,0,0,,I think it's too expensive
+Dialogue: 0,0:01:24.59,0:01:26.98,Default,,0,0,0,,After all it's your right to set your price
+Dialogue: 0,0:01:27.15,0:01:27.68,Default,,0,0,0,,But
+Dialogue: 0,0:01:27.68,0:01:29.68,Default,,0,0,0,,It's not fair for other markets in All Saints Street
+Dialogue: 0,0:01:30.21,0:01:31.26,Default,,0,0,0,,May you could consider my opinion
+Dialogue: 0,0:01:31.41,0:01:31.74,Default,,0,0,0,,Stop
+Dialogue: 0,0:01:31.80,0:01:32.64,Default,,0,0,0,,4.5 for the apples
+Dialogue: 0,0:01:32.80,0:01:33.07,Default,,0,0,0,,OK
+Dialogue: 0,0:01:33.46,0:01:33.89,Default,,0,0,0,,An apple please
+Dialogue: 0,0:01:33.89,0:01:35.24,Default,,0,0,0,,Just one ???
+Dialogue: 0,0:01:35.25,0:01:35.94,Default,,0,0,0,,Troubling me?
+Dialogue: 0,0:01:43.53,0:01:44.05,Default,,0,0,0,,WTF
+Dialogue: 0,0:01:44.48,0:01:45.28,Default,,0,0,0,,Please wait
+Dialogue: 0,0:01:49.78,0:01:50.28,Default,,0,0,0,,Sir
+Dialogue: 0,0:01:51.24,0:01:52.46,Default,,0,0,0,,Please fasten your seat belt
+Dialogue: 0,0:01:52.93,0:01:53.44,Default,,0,0,0,,When driving on speedways
+Dialogue: 0,0:01:53.79,0:01:54.52,Default,,0,0,0,,-2 points
+Dialogue: 0,0:01:54.52,0:01:55.20,Default,,0,0,0,,And 50$ for punish
+Dialogue: 0,0:02:00.40,0:02:01.41,Default,,0,0,0,,That's all for today's class
+Dialogue: 0,0:02:01.87,0:02:03.54,Default,,0,0,0,,Don't run in the corridor
+Dialogue: 0,0:02:03.84,0:02:05.13,Default,,0,0,0,,Don't rush with others on buses
+Dialogue: 0,0:02:05.81,0:02:06.88,Default,,0,0,0,,Don't go to places with few people
+Dialogue: 0,0:02:07.19,0:02:08.19,Default,,0,0,0,,Don't open the door for strangers
+Dialogue: 0,0:02:08.76,0:02:09.66,Default,,0,0,0,,Stay safe
+Dialogue: 0,0:02:10.02,0:02:10.76,Default,,0,0,0,,Don't do dangerous things
+Dialogue: 0,0:02:11.48,0:02:11.89,Default,,0,0,0,,Understand?
+Dialogue: 0,0:02:15.19,0:02:15.81,Default,,0,0,0,,I'll go then
+Dialogue: 0,0:02:16.37,0:02:16.91,Default,,0,0,0,,See you tomorrow
+Dialogue: 0,0:02:18.20,0:02:20.32,Default,,0,0,0,,You just did the most dangerous thing teacher !!!!!!
+Dialogue: 0,0:02:28.16,0:02:29.07,Default,,0,0,0,,Welcome back, Lynn
+Dialogue: 0,0:02:29.32,0:02:29.87,Default,,0,0,0,,Give me the bag
+Dialogue: 0,0:02:30.03,0:02:31.16,Default,,0,0,0,,Must be tired right?
+Dialogue: 0,0:02:31.93,0:02:32.39,Default,,0,0,0,,C'mon
+Dialogue: 0,0:02:32.61,0:02:33.07,Default,,0,0,0,,Have a sit
+Dialogue: 0,0:02:33.43,0:02:34.19,Default,,0,0,0,,Relax
+Dialogue: 0,0:02:34.49,0:02:34.74,Default,,0,0,0,,No
+Dialogue: 0,0:02:34.74,0:02:35.15,Default,,0,0,0,,Neil
+Dialogue: 0,0:02:35.29,0:02:35.80,Default,,0,0,0,,I don't need that
+Dialogue: 0,0:02:37.00,0:02:38.42,Default,,0,0,0,,I often do that for my father back in the hell
+Dialogue: 0,0:02:38.50,0:02:39.49,Default,,0,0,0,,I'm pretty skiled
+Dialogue: 0,0:02:39.51,0:02:39.84,Default,,0,0,0,,Wait
+Dialogue: 0,0:02:43.53,0:02:43.95,Default,,0,0,0,,Is this...
+Dialogue: 0,0:02:44.87,0:02:45.66,Default,,0,0,0,,Smells good
+Dialogue: 0,0:02:46.67,0:02:47.49,Default,,0,0,0,,Don't worry Lynn
+Dialogue: 0,0:02:47.75,0:02:49.49,Default,,0,0,0,,You're gonna be RELAXED
+Dialogue: 0,0:02:51.49,0:02:52.28,Default,,0,0,0,,What's this
+Dialogue: 0,0:02:52.75,0:02:53.87,Default,,0,0,0,,This is hell cleanser gel
+Dialogue: 0,0:02:53.96,0:02:55.48,Default,,0,0,0,,It eats dust and virus
+Dialogue: 0,0:02:55.75,0:02:56.85,Default,,0,0,0,,Not only for face
+Dialogue: 0,0:02:56.85,0:02:58.10,Default,,0,0,0,,And its excretion can keep your skin wet
+Dialogue: 0,0:02:58.60,0:02:59.92,Default,,0,0,0,,It's famous in hell
+Dialogue: 0,0:03:00.97,0:03:01.53,Default,,0,0,0,,It's...
+Dialogue: 0,0:03:02.25,0:03:03.05,Default,,0,0,0,,fine
+Dialogue: 0,0:03:03.05,0:03:03.66,Default,,0,0,0,,Isn't it
+Dialogue: 0,0:03:04.21,0:03:05.56,Default,,0,0,0,,Ira's words are true
+Dialogue: 0,0:03:06.18,0:03:07.67,Default,,0,0,0,,Let me give you a whole body cleanup
+Dialogue: 0,0:03:08.80,0:03:09.45,Default,,0,0,0,,No, thanks Neil
+Dialogue: 0,0:03:09.96,0:03:10.53,Default,,0,0,0,,You're welcome
+Dialogue: 0,0:03:10.84,0:03:11.49,Default,,0,0,0,,C'mon
+Dialogue: 0,0:03:11.64,0:03:12.19,Default,,0,0,0,,Lynn
+Dialogue: 0,0:03:18.36,0:03:18.70,Default,,0,0,0,,Ira
+Dialogue: 0,0:03:19.24,0:03:20.61,Default,,0,0,0,,Is Lynn still angry?
+Dialogue: 0,0:03:22.70,0:03:24.14,Default,,0,0,0,,Probably not
+Dialogue: 0,0:03:24.82,0:03:25.40,Default,,0,0,0,,Oh yes
+Dialogue: 0,0:03:26.16,0:03:26.88,Default,,0,0,0,,{\i1}(Hic){\i0}
+Dialogue: 0,0:03:32.16,0:03:32.56,Default,,0,0,0,,L...
+Dialogue: 0,0:03:33.03,0:03:34.12,Default,,0,0,0,,Lynn
+Dialogue: 0,0:03:34.68,0:03:35.58,Default,,0,0,0,,Sor...
+Dialogue: 0,0:03:35.90,0:03:37.13,Default,,0,0,0,,Sorry for yesterday
+Dialogue: 0,0:03:38.07,0:03:39.76,Default,,0,0,0,,I just wanted to cook for you
+Dialogue: 0,0:03:40.58,0:03:42.38,Default,,0,0,0,,But I made the home a mess
+Dialogue: 0,0:03:42.73,0:03:45.09,Default,,0,0,0,,If you don't want me to stay here anymore
+Dialogue: 0,0:03:45.59,0:03:46.33,Default,,0,0,0,,I understand
+Dialogue: 0,0:03:47.02,0:03:48.10,Default,,0,0,0,,Please forgive me
+Dialogue: 0,0:03:48.95,0:03:49.76,Default,,0,0,0,,I knew you were innocent
+Dialogue: 0,0:03:50.53,0:03:51.98,Default,,0,0,0,,And I never wanted to drive you away
+Dialogue: 0,0:03:52.57,0:03:53.03,Default,,0,0,0,,Really?
+Dialogue: 0,0:03:53.49,0:03:53.72,Default,,0,0,0,,Of course
+Dialogue: 0,0:03:54.53,0:03:56.03,Default,,0,0,0,,I'm not that kind of angel
+Dialogue: 0,0:03:56.29,0:03:57.13,Default,,0,0,0,,Ooooh that's good
+Dialogue: 0,0:03:57.99,0:03:59.28,Default,,0,0,0,,{\i1}The house had been empty for 3 months{\i0}
+Dialogue: 0,0:03:59.61,0:04:00.16,Default,,0,0,0,,{\i1}If nobody rents it{\i0}
+Dialogue: 0,0:04:00.47,0:04:01.16,Default,,0,0,0,,{\i1}I'll go broke{\i0}
+Dialogue: 0,0:04:02.70,0:04:03.49,Default,,0,0,0,,But Lynn
+Dialogue: 0,0:04:04.00,0:04:06.08,Default,,0,0,0,,How did you put out that fire just in a blink
+Dialogue: 0,0:04:06.58,0:04:06.87,Default,,0,0,0,,Ah
+Dialogue: 0,0:04:07.68,0:04:08.87,Default,,0,0,0,,Angels' aura
+Dialogue: 0,0:04:09.18,0:04:10.33,Default,,0,0,0,,Could purify the evil
+Dialogue: 0,0:04:10.49,0:04:11.24,Default,,0,0,0,,Remove illusions
+Dialogue: 0,0:04:11.84,0:04:13.01,Default,,0,0,0,,It could be used for daily cleanup
+Dialogue: 0,0:04:13.64,0:04:14.64,Default,,0,0,0,,But I'll get a headache if it's used too often
+Dialogue: 0,0:04:15.07,0:04:16.10,Default,,0,0,0,,That's so cool
+Dialogue: 0,0:04:18.16,0:04:19.06,Default,,0,0,0,,I could show you again
+Dialogue: 0,0:04:25.34,0:04:26.39,Default,,0,0,0,,Not a dust
+Dialogue: 0,0:04:27.01,0:04:27.81,Default,,0,0,0,,{\i1}(Sheep Baa){\i0}
+Dialogue: 0,0:04:30.08,0:04:30.57,Default,,0,0,0,,Sorry
+Dialogue: 0,0:04:31.24,0:04:32.24,Default,,0,0,0,,Forgot this also worked for devils
+Dialogue: 0,0:04:32.24,0:04:34.24,Default,,0,0,0,,

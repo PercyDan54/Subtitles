@@ -1,0 +1,100 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Audio File: 万圣街_蓝光_万圣街_09.mp4
+Video File: 万圣街_蓝光_万圣街_09.mp4
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: new,Arial,45,&H004CC8F4,&H000000FF,&H00458BE0,&H00000000,0,0,0,0,100,100,0,-2.3,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:08.00,0:01:09.34,Default,,0,0,0,,Today's the Christmas Eve
+Dialogue: 0,0:01:13.51,0:01:15.34,Default,,0,0,0,,Making me work at day again
+Dialogue: 0,0:01:09.34,0:01:10.38,Default,,0,0,0,,Hurry up
+Dialogue: 0,0:01:10.72,0:01:11.55,Default,,0,0,0,,Finish the decorations
+Dialogue: 0,0:01:17.25,0:01:17.69,Default,,0,0,0,,Speaking of that...
+Dialogue: 0,0:01:18.96,0:01:20.17,Default,,0,0,0,,Aren't we also "evil" monsters?
+Dialogue: 0,0:01:20.72,0:01:22.89,Default,,0,0,0,,Shall we really gonna celebrate Christmas
+Dialogue: 0,0:01:24.10,0:01:24.65,Default,,0,0,0,,Speaking of Christmas
+Dialogue: 0,0:01:24.79,0:01:27.32,Default,,0,0,0,,The devil schools didn't have holiday on Christmas
+Dialogue: 0,0:01:28.49,0:01:29.16,Default,,0,0,0,,Does this mean that...
+Dialogue: 0,0:01:29.95,0:01:31.39,Default,,0,0,0,,Lynn wanted to "purify" us...
+Dialogue: 0,0:01:31.75,0:01:33.36,Default,,0,0,0,,During Christmas?!
+Dialogue: 0,0:01:36.72,0:01:36.99,Default,,0,0,0,,Ly..
+Dialogue: 0,0:01:37.42,0:01:38.14,Default,,0,0,0,,Lynn
+Dialogue: 0,0:01:38.76,0:01:41.03,Default,,0,0,0,,You summoned us to your room so mysteriously
+Dialogue: 0,0:01:41.52,0:01:42.32,Default,,0,0,0,,For what?
+Dialogue: 0,0:01:43.08,0:01:44.07,Default,,0,0,0,,Let's record a video
+Dialogue: 0,0:01:44.30,0:01:46.22,Default,,0,0,0,,As a Christmas gift for my brothers
+Dialogue: 0,0:01:46.52,0:01:48.22,Default,,0,0,0,,And I got Christmas costume for you
+Dialogue: 0,0:01:54.42,0:01:55.04,Default,,0,0,0,,Lynn
+Dialogue: 0,0:01:55.19,0:01:56.20,Default,,0,0,0,,Don't be excessive
+Dialogue: 0,0:01:56.20,0:01:59.35,Default,,0,0,0,,We evil forces had dignity though
+Dialogue: 0,0:02:00.19,0:02:01.35,Default,,0,0,0,,A month of rent free
+Dialogue: 0,0:02:01.35,0:02:02.14,Default,,0,0,0,,Let's do this now
+Dialogue: 0,0:02:02.18,0:02:03.28,Default,,0,0,0,,Horizontally or vertically
+Dialogue: 0,0:02:03.40,0:02:04.11,Default,,0,0,0,,Any make ups required?
+Dialogue: 0,0:02:04.11,0:02:05.28,Default,,0,0,0,,Let's get prettier
+Dialogue: 0,0:02:12.89,0:02:13.60,Default,,0,0,0,,Well done guys
+Dialogue: 0,0:02:13.81,0:02:14.84,Default,,0,0,0,,I got some gifts for you
+Dialogue: 0,0:02:15.04,0:02:15.94,Default,,0,0,0,,Under the Christmas tree
+Dialogue: 0,0:02:15.94,0:02:17.26,Default,,0,0,0,,Wow~
+Dialogue: 0,0:02:19.77,0:02:21.47,Default,,0,0,0,,I think it's useless...
+Dialogue: 0,0:02:24.56,0:02:25.45,Default,,0,0,0,,Hot!
+Dialogue: 0,0:02:26.85,0:02:27.56,Default,,0,0,0,,Lynn
+Dialogue: 0,0:02:27.68,0:02:29.24,Default,,0,0,0,,You must be wanting to purify us
+Dialogue: 0,0:02:29.24,0:02:29.78,Default,,0,0,0,,This is terrible
+Dialogue: 0,0:02:30.09,0:02:31.78,Default,,0,0,0,,Forgot they can't touch holy stuffs
+Dialogue: 0,0:02:33.82,0:02:34.70,Default,,0,0,0,,Just kidding
+Dialogue: 0,0:02:35.30,0:02:36.12,Default,,0,0,0,,Tonight
+Dialogue: 0,0:02:36.26,0:02:38.12,Default,,0,0,0,,Santa Claus will put the acutal gifts
+Dialogue: 0,0:02:38.12,0:02:39.22,Default,,0,0,0,,In your socks
+Dialogue: 0,0:02:39.50,0:02:40.64,Default,,0,0,0,,Who were you lying to?
+Dialogue: 0,0:02:43.01,0:02:43.84,Default,,0,0,0,,Another gift left
+Dialogue: 0,0:02:47.84,0:02:49.22,Default,,0,0,0,,This is so cute
+Dialogue: 0,0:02:49.49,0:02:51.22,Default,,0,0,0,,Lynn liked circling so much
+Dialogue: 0,0:02:51.77,0:02:52.35,Default,,0,0,0,,Something's wrong
+Dialogue: 0,0:02:52.73,0:02:53.62,Default,,0,0,0,,We only had 3 people
+Dialogue: 0,0:02:53.98,0:02:55.62,Default,,0,0,0,,But there are 4 cats
+Dialogue: 0,0:02:55.89,0:02:57.04,Default,,0,0,0,,This is yours
+Dialogue: 0,0:02:57.04,0:02:58.70,Default,,0,0,0,,This is mine
+Dialogue: 0,0:02:58.84,0:02:59.98,Default,,0,0,0,,Ira's
+Dialogue: 0,0:02:59.98,0:03:02.11,Default,,0,0,0,,And Lynn's
+Dialogue: 0,0:03:03.28,0:03:04.47,Default,,0,0,0,,So who sent the gift?
+Dialogue: 0,0:03:05.57,0:03:07.68,new,,0,0,0,,{\pos(1308,150)}Abu with only 1% of existence
+Dialogue: 0,0:03:10.64,0:03:11.43,Default,,0,0,0,,Cheers
+Dialogue: 0,0:03:12.31,0:03:12.96,Default,,0,0,0,,Delicious
+Dialogue: 0,0:03:15.51,0:03:16.52,Default,,0,0,0,,What a nice day
+Dialogue: 0,0:03:16.92,0:03:18.10,Default,,0,0,0,,Let me give you a performance
+Dialogue: 0,0:03:18.52,0:03:19.28,Default,,0,0,0,,That's good
+Dialogue: 0,0:03:19.28,0:03:20.14,Default,,0,0,0,,Eyes on me
+Dialogue: 0,0:03:23.03,0:03:24.04,Default,,0,0,0,,Who are you???
+Dialogue: 0,0:03:24.92,0:03:26.04,Default,,0,0,0,,I don't have much skills
+Dialogue: 0,0:03:26.51,0:03:28.04,Default,,0,0,0,,Just a simple one
+Dialogue: 0,0:03:33.17,0:03:34.60,Default,,0,0,0,,Don't laugh at me
+Dialogue: 0,0:03:34.86,0:03:35.64,Default,,0,0,0,,We won't
+Dialogue: 0,0:03:35.64,0:03:36.36,Default,,0,0,0,,Very good
+Dialogue: 0,0:03:37.05,0:03:38.94,Default,,0,0,0,,Soooo cute!!!
+Dialogue: 0,0:03:42.62,0:03:44.44,Default,,0,0,0,,You've been playing this song repeatedly
+Dialogue: 0,0:03:44.44,0:03:46.12,Default,,0,0,0,,Could you sing another song
+Dialogue: 0,0:03:46.61,0:03:47.36,Default,,0,0,0,,I didn't sing
+Dialogue: 0,0:03:47.80,0:03:48.52,Default,,0,0,0,,I was just toning
+Dialogue: 0,0:03:50.17,0:03:50.90,Default,,0,0,0,,Wasn't me
+Dialogue: 0,0:03:54.64,0:03:55.17,Default,,0,0,0,,Wait
+Dialogue: 0,0:03:55.68,0:03:56.58,Default,,0,0,0,,We're all here
+Dialogue: 0,0:03:56.85,0:03:58.06,Default,,0,0,0,,So who's singing
+Dialogue: 0,0:03:59.78,0:04:02.25,Default,,0,0,0,,It's haunted
+Dialogue: 0,0:04:02.62,0:04:03.62,Default,,0,0,0,,Abu
+Dialogue: 0,0:04:03.62,0:04:07.32,Default,,0,0,0,,Also felt the happiness of Christmas
+Dialogue: 0,0:04:07.64,0:04:08.00,Default,,0,0,0,,Maybe
+Dialogue: 0,0:04:08.32,0:04:10.32,Default,,0,0,0,,

@@ -1,0 +1,82 @@
+﻿[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: type,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,25,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:05.86,0:01:08.08,Default,,0,0,0,,Dear leader
+Dialogue: 0,0:01:08.96,0:01:12.92,Default,,0,0,0,,Since the day I came to All Saints Street
+Dialogue: 0,0:01:12.92,0:01:16.16,Default,,0,0,0,,I've been watching the dark lord carefully
+Dialogue: 0,0:01:16.72,0:01:18.60,Default,,0,0,0,,It's full of danger here
+Dialogue: 0,0:01:18.60,0:01:19.40,Default,,0,0,0,,Damao
+Dialogue: 0,0:01:19.74,0:01:21.40,Default,,0,0,0,,Lynn brought some chocolate cakes here
+Dialogue: 0,0:01:21.40,0:01:22.48,Default,,0,0,0,,Would you like some?
+Dialogue: 0,0:01:24.66,0:01:25.66,Default,,0,0,0,,Uh...
+Dialogue: 0,0:01:26.08,0:01:27.56,Default,,0,0,0,,We'll get something else for you next time
+Dialogue: 0,0:01:31.85,0:01:32.91,Default,,0,0,0,,Just a moment ago
+Dialogue: 0,0:01:33.59,0:01:36.20,Default,,0,0,0,,The dark lord tried to poison me with desserts
+Dialogue: 0,0:01:42.44,0:01:43.62,Default,,0,0,0,,I'll pay for you
+Dialogue: 0,0:01:43.62,0:01:44.72,Default,,0,0,0,,Just have fun
+Dialogue: 0,0:01:44.78,0:01:45.62,Default,,0,0,0,,Get as many as you can
+Dialogue: 0,0:01:45.78,0:01:46.54,Default,,0,0,0,,Hooray--
+Dialogue: 0,0:01:49.22,0:01:50.12,Default,,0,0,0,,This one looks pretty
+Dialogue: 0,0:01:50.12,0:01:51.76,Default,,0,0,0,,Look at the apple I got
+Dialogue: 0,0:01:52.88,0:01:53.88,Default,,0,0,0,,Where did you get that?
+Dialogue: 0,0:01:54.06,0:01:55.49,Default,,0,0,0,,Look at my strawberries
+Dialogue: 0,0:01:59.55,0:02:02.13,Default,,0,0,0,,Well that's totally a cleanup
+Dialogue: 0,0:02:04.25,0:02:06.72,Default,,0,0,0,,The dark lord liked strawberry-flavored souls
+Dialogue: 0,0:02:14.76,0:02:15.84,Default,,0,0,0,,I'm so tired
+Dialogue: 0,0:02:16.35,0:02:16.82,Default,,0,0,0,,Ira?!
+Dialogue: 0,0:02:17.06,0:02:18.64,Default,,0,0,0,,I'm doing videos for three days
+Dialogue: 0,0:02:18.64,0:02:19.75,Default,,0,0,0,,And drank nothing
+Dialogue: 0,0:02:19.75,0:02:20.67,Default,,0,0,0,,I'm STARVING
+Dialogue: 0,0:02:20.67,0:02:22.01,Default,,0,0,0,,Ira clam down
+Dialogue: 0,0:02:22.84,0:02:24.01,Default,,0,0,0,,{\i1}Please{\i0}
+Dialogue: 0,0:02:24.01,0:02:24.56,Default,,0,0,0,,Wait
+Dialogue: 0,0:02:24.56,0:02:26.49,Default,,0,0,0,,{\pos(730,1056)}Let me bite you
+Dialogue: 0,0:02:24.56,0:02:25.32,Default,,0,0,0,,{\pos(1270,1056)}I'm not human
+Dialogue: 0,0:02:25.32,0:02:26.68,Default,,0,0,0,,{\pos(1270,1056)}You can't drink my blood
+Dialogue: 0,0:02:27.16,0:02:30.52,Default,,0,0,0,,NO——
+Dialogue: 0,0:02:32.25,0:02:35.56,type,,0,0,0,,{\i1\pos(1210,616)}Best man-made blood
+Dialogue: 0,0:02:32.25,0:02:35.56,type,,0,0,0,,{\i1\pos(922,412)}Have a bloody good time
+Dialogue: 0,0:02:35.07,0:02:35.56,Default,,0,0,0,,Boss
+Dialogue: 0,0:02:35.56,0:02:36.56,Default,,0,0,0,,A cup of type B blood please
+Dialogue: 0,0:02:36.64,0:02:37.68,Default,,0,0,0,,Large one with less sugar
+Dialogue: 0,0:02:38.28,0:02:39.24,Default,,0,0,0,,No ice
+Dialogue: 0,0:02:39.66,0:02:41.24,Default,,0,0,0,,More pearls
+Dialogue: 0,0:02:41.44,0:02:41.96,Default,,0,0,0,,OK
+Dialogue: 0,0:02:41.96,0:02:42.86,Default,,0,0,0,,Take it at the right
+Dialogue: 0,0:02:44.40,0:02:47.80,Default,,0,0,0,,The vampire relative of the dark lord liked type B blood with pearls and no ice
+Dialogue: 0,0:02:48.00,0:02:48.60,Default,,0,0,0,,Less sugar
+Dialogue: 0,0:02:55.19,0:02:56.56,Default,,0,0,0,,It's impossible to win against you
+Dialogue: 0,0:02:56.56,0:02:58.16,Default,,0,0,0,,I'm a game streamer though
+Dialogue: 0,0:02:58.44,0:02:58.98,Default,,0,0,0,,Well
+Dialogue: 0,0:02:58.98,0:02:59.90,Default,,0,0,0,,I shall go to bed now
+Dialogue: 0,0:03:00.77,0:03:01.42,Default,,0,0,0,,So Ira,
+Dialogue: 0,0:03:01.42,0:03:02.74,Default,,0,0,0,,How do you sleep usually
+Dialogue: 0,0:03:03.24,0:03:05.23,Default,,0,0,0,,I sleep in the coffin mostly
+Dialogue: 0,0:03:05.52,0:03:08.25,Default,,0,0,0,,Or hang on the window with the form of a bat
+Dialogue: 0,0:03:11.64,0:03:13.64,Default,,0,0,0,,So how does Lynn sleep?
+Dialogue: 0,0:03:15.11,0:03:15.61,Default,,0,0,0,,That's a problem
+Dialogue: 0,0:03:16.01,0:03:18.35,Default,,0,0,0,,It must be inconvenient to sleep with the wings
+Dialogue: 0,0:03:19.93,0:03:21.38,Default,,0,0,0,,Will he hang upside down like you?
+Dialogue: 0,0:03:22.62,0:03:23.38,Default,,0,0,0,,I think no
+Dialogue: 0,0:03:23.90,0:03:25.38,Default,,0,0,0,,Maybe standing like a horse
+Dialogue: 0,0:03:37.47,0:03:38.97,Default,,0,0,0,,He is levitating???
+Dialogue: 0,0:03:38.97,0:03:40.21,Default,,0,0,0,,That's AWESOME
+Dialogue: 0,0:03:45.30,0:03:46.19,Default,,0,0,0,,What's happening?
+Dialogue: 0,0:03:46.55,0:03:47.12,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:03:47.47,0:03:49.67,Default,,0,0,0,,The dark lord's feather quilt factory
+Dialogue: 0,0:03:52.67,0:03:54.48,Default,,0,0,0,,The angels are here
+Dialogue: 0,0:03:54.48,0:03:57.23,Default,,0,0,0,,Im' gonna cut off all of your wings
+Dialogue: 0,0:03:57.23,0:03:59.23,Default,,0,0,0,,And make them in to quilts
+Dialogue: 0,0:04:02.06,0:04:04.04,Default,,0,0,0,,NO——
+Dialogue: 0,0:04:04.31,0:04:05.16,Default,,0,0,0,,I'm blinded!!
+Dialogue: 0,0:04:05.16,0:04:05.99,Default,,0,0,0,,Sorry we'll NEVER do this again
+Dialogue: 0,0:04:05.99,0:04:08.31,Default,,0,0,0,,Get away from my wings you dark lord!!
+Dialogue: 0,0:04:09.06,0:04:09.73,Default,,0,0,0,,The dark lord
+Dialogue: 0,0:04:09.97,0:04:11.73,Default,,0,0,0,,Even wanted to eat angel's wings
+Dialogue: 0,0:04:13.80,0:04:14.71,Default,,0,0,0,,I'm hungry
+Dialogue: 0,0:04:15.25,0:04:16.45,Default,,0,0,0,,Why it's full of food
+Dialogue: 0,0:04:16.45,0:04:18.45,Default,,0,0,0,,
