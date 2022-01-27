@@ -13,7 +13,7 @@ Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 25:  {\c&H7990E7&}A friend of my friend is also a friend of mine... or is it?{\b0}
+Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,,{\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 25:  {\c&H7990E7&}A friend of my friend is also a friend of mine... or is it?{\b0}
 Dialogue: 0,0:01:07.28,0:01:08.64,Default,,0,0,0,,Dear mom and dad
 Dialogue: 0,0:01:09.10,0:01:10.64,Default,,0,0,0,,How's it going in hell
 Dialogue: 0,0:01:11.06,0:01:12.43,Default,,0,0,0,,I'm fine living here
@@ -40,12 +40,12 @@ Dialogue: 0,0:01:56.15,0:01:57.50,Default,,0,0,0,,You... be careful
 Dialogue: 0,0:01:59.39,0:01:59.99,Default,,0,0,0,,Lily
 Dialogue: 0,0:02:00.22,0:02:01.04,Default,,0,0,0,,Lily is back!
 Dialogue: 0,0:02:01.23,0:02:01.73,Default,,0,0,0,,Lily
-Dialogue: 0,0:02:03.00,0:02:03.61,Default,,0,0,0,, {\pos(970,200)} Lily
+Dialogue: 0,0:02:03.00,0:02:03.61,Default,,0,0,0,,{\pos(970,200)} Lily
 Dialogue: 0,0:02:02.86,0:02:04.15,Default,,0,0,0,,Beware of others who are ahead of you
-Dialogue: 0,0:02:08.86,0:02:10.33,Default,,0,0,0,,They still didn't made peace?
-Dialogue: 0,0:02:10.97,0:02:12.11,Default,,0,0,0,, {\pos(970,200)}You're back...
+Dialogue: 0,0:02:08.86,0:02:10.33,Default,,0,0,0,,They still haven't made peace?
+Dialogue: 0,0:02:10.97,0:02:12.11,Default,,0,0,0,,{\pos(970,200)}You're back...
 Dialogue: 0,0:02:13.92,0:02:14.25,Default,,0,0,0,,Oh
-Dialogue: 0,0:02:14.49,0:02:15.88,Default,,0,0,0,,How are classmates in heaven doing?
+Dialogue: 0,0:02:14.49,0:02:15.88,Default,,0,0,0,,How are the classmates in heaven doing?
 Dialogue: 0,0:02:16.66,0:02:17.88,Default,,0,0,0,,Everyone's the same as before
 Dialogue: 0,0:02:18.82,0:02:19.06,Default,,0,0,0,,Lily
 Dialogue: 0,0:02:19.68,0:02:21.11,Default,,0,0,0,,You have no idea how much I've missed you
@@ -53,7 +53,7 @@ Dialogue: 0,0:02:21.56,0:02:23.16,Default,,0,0,0,,The class got so boring since 
 Dialogue: 0,0:02:24.00,0:02:25.82,Default,,0,0,0,,Maybe you should stay for a few more days
 Dialogue: 0,0:02:26.17,0:02:27.69,Default,,0,0,0,,I made lots of interesting friends
 Dialogue: 0,0:02:28.00,0:02:29.20,Default,,0,0,0,,You'll like them
-Dialogue: 0,0:02:32.13,0:02:33.20,Default,,0,0,0,,It's Neil
+Dialogue: 0,0:02:32.13,0:02:33.20,Default,,0,0,0,,Oh, it's Neil!
 Dialogue: 0,0:02:35.81,0:02:36.51,Default,,0,0,0,,This is Evan
 Dialogue: 0,0:02:37.11,0:02:39.42,Default,,0,0,0,,My best friend from Heaven University
 Dialogue: 0,0:02:40.41,0:02:41.10,Default,,0,0,0,,Hello Neil
@@ -62,17 +62,17 @@ Dialogue: 0,0:02:43.08,0:02:45.13,Default,,0,0,0,,You're so shiny
 Dialogue: 0,0:02:48.90,0:02:49.58,Default,,0,0,0,,What's that
 Dialogue: 0,0:02:49.96,0:02:50.77,Default,,0,0,0,,I've never had one
 Dialogue: 0,0:02:51.64,0:02:52.43,Default,,0,0,0,,Let me show you
-Dialogue: 0,0:02:52.89,0:02:54.45,Default,,0,0,0,, {\pos(970,200)}It's both fun here and there
-Dialogue: 0,0:02:54.93,0:02:56.00,Default,,0,0,0,, {\pos(970,200)}Let's go to have some meal first
+Dialogue: 0,0:02:52.89,0:02:54.45,Default,,0,0,0,,{\pos(970,200)}It's fun both here and there
+Dialogue: 0,0:02:54.93,0:02:56.00,Default,,0,0,0,,{\pos(970,200)}Let's go have some meal first
 Dialogue: 0,0:02:53.64,0:02:55.41,Default,,0,0,0,,They fit so well together
-Dialogue: 0,0:02:55.68,0:02:56.67,Default,,0,0,0,,I can't even have a word
+Dialogue: 0,0:02:55.68,0:02:56.67,Default,,0,0,0,,I can't even get a word in
 Dialogue: 0,0:02:59.19,0:03:00.59,Default,,0,0,0,,Still relying on me
 Dialogue: 0,0:03:02.46,0:03:03.63,Default,,0,0,0,,You three inside please
 Dialogue: 0,0:03:04.67,0:03:05.42,Default,,0,0,0,,Our signature dish Stinky Tofu
 Dialogue: 0,0:03:05.80,0:03:06.12,Default,,0,0,0,,Please enjoy
 Dialogue: 0,0:03:06.17,0:03:06.69,Default,,0,0,0,,I've got the bill
 Dialogue: 0,0:03:06.91,0:03:07.58,Default,,0,0,0,,Evan have some more
-Dialogue: 0,0:03:09.15,0:03:10.59,Default,,0,0,0,,Make fool of him publicly when possible
+Dialogue: 0,0:03:09.15,0:03:10.59,Default,,0,0,0,,Make a fool of him publicly whenever possible
 Dialogue: 0,0:03:10.90,0:03:12.84,Default,,0,0,0,,This will make you look a bit better
 Dialogue: 0,0:03:14.18,0:03:14.60,Default,,0,0,0,,This...
 Dialogue: 0,0:03:15.08,0:03:15.75,Default,,0,0,0,,This taste...
@@ -86,7 +86,7 @@ Dialogue: 0,0:03:22.48,0:03:23.00,Default,,0,0,0,,Snail Noodles
 Dialogue: 0,0:03:23.00,0:03:23.50,Default,,0,0,0,,Awesome
 Dialogue: 0,0:03:23.75,0:03:24.59,Default,,0,0,0,,May I have a takeout
 Dialogue: 0,0:03:25.11,0:03:25.76,Default,,0,0,0,,I'm full
-Dialogue: 0,0:03:25.11,0:03:25.85,Default,,0,0,0,, {\pos(970,200)}A takeout for snail noodles
+Dialogue: 0,0:03:25.11,0:03:25.85,Default,,0,0,0,,{\pos(970,200)}A takeout for snail noodles
 Dialogue: 0,0:03:25.91,0:03:26.44,Default,,0,0,0,,Go on
 Dialogue: 0,0:03:30.88,0:03:31.47,Default,,0,0,0,,Hurry up
 Dialogue: 0,0:03:31.47,0:03:31.65,Default,,0,0,0,,Alright
@@ -100,8 +100,8 @@ Dialogue: 0,0:03:46.47,0:03:47.17,Default,,0,0,0,,Thanks
 Dialogue: 0,0:03:48.30,0:03:48.78,Default,,0,0,0,,Neil
 Dialogue: 0,0:03:50.32,0:03:51.44,Default,,0,0,0,,If Lily couldn't live happily here
 Dialogue: 0,0:03:52.44,0:03:53.89,Default,,0,0,0,,I must take her back to heaven
-Dialogue: 0,0:03:54.57,0:03:55.68,Default,,0,0,0,,This was my thought before I came here
-Dialogue: 0,0:03:57.61,0:03:58.96,Default,,0,0,0,,But I won't think of it anymore
+Dialogue: 0,0:03:54.57,0:03:55.68,Default,,0,0,0,,That's what I thought before I came here
+Dialogue: 0,0:03:57.61,0:03:58.96,Default,,0,0,0,,But I don't think that anymore
 Dialogue: 0,0:03:59.88,0:04:01.05,Default,,0,0,0,,Seems she has made the right choice
 Dialogue: 0,0:04:02.26,0:04:03.97,Default,,0,0,0,,To have a good friend like you
 Dialogue: 0,0:04:04.34,0:04:05.26,Default,,0,0,0,,I'm happy for her
@@ -111,7 +111,7 @@ Dialogue: 0,0:04:10.22,0:04:10.56,Default,,0,0,0,,This
 Dialogue: 0,0:04:10.86,0:04:11.84,Default,,0,0,0,,Is a small gift
 Dialogue: 0,0:04:14.23,0:04:15.41,Default,,0,0,0,,Evan is so good
 Dialogue: 0,0:04:16.01,0:04:18.44,Default,,0,0,0,,He had a gift for me while thinking of Lily
-Dialogue: 0,0:04:19.01,0:04:20.62,Default,,0,0,0,,I'm so sorry with what I did
+Dialogue: 0,0:04:19.01,0:04:20.62,Default,,0,0,0,,I'm so sorry for what I did
 Dialogue: 0,0:04:25.81,0:04:27.39,Default,,0,0,0,,Neil, come on!
 Dialogue: 0,0:04:31.35,0:04:32.44,Default,,0,0,0,,I'm going to sleep
 Dialogue: 0,0:04:32.44,0:04:33.02,Default,,0,0,0,,Sorry for the bother
