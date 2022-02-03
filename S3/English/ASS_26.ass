@@ -14,9 +14,9 @@ Video File: 万圣街_1920x1080_万圣街_26.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 51
-Active Line: 59
-Video Position: 5104
+Scroll Position: 47
+Active Line: 69
+Video Position: 5635
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,82 +26,83 @@ Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 26:  {\c&H7990E7&}Frightening Halloween{\b0}
-Dialogue: 0,0:01:14.22,0:01:16.49,Default,,0,0,0,,The lord is already inside
-Dialogue: 0,0:01:16.87,0:01:18.60,Default,,0,0,0,,He has been waiting for a long time
+Dialogue: 0,0:01:14.22,0:01:16.36,Default,,0,0,0,,The lord is already inside
+Dialogue: 0,0:01:16.87,0:01:18.40,Default,,0,0,0,,He has been waiting for a long time
 Dialogue: 0,0:01:19.09,0:01:19.81,Default,,0,0,0,,What
 Dialogue: 0,0:01:20.82,0:01:21.80,Default,,0,0,0,,Don't do that!
 Dialogue: 0,0:01:22.29,0:01:22.85,Default,,0,0,0,,Shut up
 Dialogue: 0,0:01:23.05,0:01:24.37,Default,,0,0,0,,I can't even hear the lines
 Dialogue: 0,0:01:27.23,0:01:27.69,Default,,0,0,0,,Who's that
-Dialogue: 0,0:01:28.24,0:01:28.91,Default,,0,0,0,,It's midnight
-Dialogue: 0,0:01:29.73,0:01:30.43,Default,,0,0,0,,I'll open the door
+Dialogue: 0,0:01:28.24,0:01:28.90,Default,,0,0,0,,It's midnight
+Dialogue: 0,0:01:29.73,0:01:30.40,Default,,0,0,0,,I'll open the door
 Dialogue: 0,0:01:44.19,0:01:45.21,Default,,0,0,0,,I'm back
-Dialogue: 0,0:01:48.09,0:01:49.27,Default,,0,0,0,,Did I went to the wrong door
+Dialogue: 0,0:01:48.09,0:01:49.20,Default,,0,0,0,,Did I went to the wrong door
 Dialogue: 0,0:01:51.08,0:01:51.70,Default,,0,0,0,,Luis
 Dialogue: 0,0:01:52.37,0:01:52.95,Default,,0,0,0,,Ira
 Dialogue: 0,0:01:57.12,0:01:58.45,Default,,0,0,0,,My name is Luis
-Dialogue: 0,0:01:58.74,0:01:59.75,Default,,0,0,0,,Just call me  Lulu
+Dialogue: 0,0:01:58.70,0:01:59.75,Default,,0,0,0,,Just call me Lulu
 Dialogue: 0,0:02:00.24,0:02:01.07,Default,,0,0,0,,I always had a dream
 Dialogue: 0,0:02:01.18,0:02:02.32,Default,,0,0,0,,To become a film star
-Dialogue: 0,0:02:03.24,0:02:04.32,Default,,0,0,0,,But at my hometown
+Dialogue: 0,0:02:03.24,0:02:04.28,Default,,0,0,0,,But at my hometown
 Dialogue: 0,0:02:04.54,0:02:06.32,Default,,0,0,0,,The job is so boring
 Dialogue: 0,0:02:06.88,0:02:08.55,Default,,0,0,0,,So I decided to leave my home
-Dialogue: 0,0:02:08.92,0:02:10.07,Default,,0,0,0,,To find a job here
-Dialogue: 0,0:02:10.49,0:02:11.77,Default,,0,0,0,,80yuan a day, need a crowd actor
+Dialogue: 0,0:02:08.91,0:02:10.07,Default,,0,0,0,,To find a job here
+Dialogue: 0,0:02:10.37,0:02:11.77,Default,,0,0,0,,80yuan a day, need a crowd actor
 Dialogue: 0,0:02:12.12,0:02:12.67,Default,,0,0,0,,Choose me
 Dialogue: 0,0:02:12.67,0:02:14.40,Default,,0,0,0,,I had experience of 12 films
-Dialogue: 0,0:02:15.03,0:02:16.40,Default,,0,0,0,,I'm the universal crowd actor
-Dialogue: 0,0:02:19.14,0:02:19.63,Default,,0,0,0,,My head!
-Dialogue: 0,0:02:23.84,0:02:24.75,Default,,0,0,0,,It' fine
+Dialogue: 0,0:02:15.03,0:02:16.24,Default,,0,0,0,,I'm the universal crowd actor
+Dialogue: 0,0:02:19.14,0:02:19.73,Default,,0,0,0,,My head!
+Dialogue: 0,0:02:23.84,0:02:24.75,Default,,0,0,0,,It's fine
 Dialogue: 0,0:02:25.12,0:02:27.06,Default,,0,0,0,,I couldn't be an actor if it was broken
 Dialogue: 0,0:02:27.28,0:02:27.67,Default,,0,0,0,,Hey
 Dialogue: 0,0:02:28.00,0:02:28.66,Default,,0,0,0,,Bro
 Dialogue: 0,0:02:29.12,0:02:29.76,Default,,0,0,0,,Beside your head
-Dialogue: 0,0:02:30.00,0:02:31.57,Default,,0,0,0,,Could you also take off other parts of your body?
+Dialogue: 0,0:02:30.00,0:02:31.53,Default,,0,0,0,,Can you also take off other parts of your body?
 Dialogue: 0,0:02:32.22,0:02:34.30,Default,,0,0,0,,I... got caught by gangsters
 Dialogue: 0,0:02:36.12,0:02:36.80,Default,,0,0,0,,Ye...Yes
 Dialogue: 0,0:02:37.22,0:02:39.16,Default,,0,0,0,,I haven't become famous yet...
-Dialogue: 0,0:02:40.12,0:02:41.48,Default,,0,0,0,,I'm not willing to
-Dialogue: 0,0:02:41.48,0:02:42.96,Default,,0,0,0,,You're chosen
-Dialogue: 0,0:02:44.21,0:02:45.78,Default,,0,0,0,,It's an important role
-Dialogue: 0,0:02:45.87,0:02:47.13,Default,,0,0,0,,Do your best
+Dialogue: 0,0:02:40.12,0:02:41.48,Default,,0,0,0,,I'm not ready to die...
+Dialogue: 0,0:02:41.48,0:02:42.80,Default,,0,0,0,,You're chosen
+Dialogue: 0,0:02:44.21,0:02:45.65,Default,,0,0,0,,It's an important role
+Dialogue: 0,0:02:45.87,0:02:47.00,Default,,0,0,0,,Do your best
 Dialogue: 0,0:02:48.94,0:02:50.24,Default,,0,0,0,,They're not gangsters
 Dialogue: 0,0:02:52.02,0:02:53.15,Default,,0,0,0,,Scene 13, take 1
 Dialogue: 0,0:02:54.72,0:02:55.50,Default,,0,0,0,,Fire!
-Dialogue: 0,0:02:57.18,0:02:57.81,Default,,0,0,0,,We've come so far
+Dialogue: 0,0:02:57.15,0:02:57.81,Default,,0,0,0,,We've come so far
 Dialogue: 0,0:02:58.06,0:02:58.85,Default,,0,0,0,,We're the only two left
-Dialogue: 0,0:02:59.19,0:02:59.88,Default,,0,0,0,,No matter how difficult it is
+Dialogue: 0,0:02:59.10,0:02:59.88,Default,,0,0,0,,No matter how difficult it is
 Dialogue: 0,0:03:00.16,0:03:00.91,Default,,0,0,0,,We can't lose
 Dialogue: 0,0:03:01.46,0:03:02.31,Default,,0,0,0,,Give me a hand
-Dialogue: 0,0:03:03.87,0:03:05.55,Default,,0,0,0,,We'll go over this together
-Dialogue: 0,0:03:06.88,0:03:07.36,Default,,0,0,0,,Abi
-Dialogue: 0,0:03:07.76,0:03:08.91,Default,,0,0,0,,I know you
+Dialogue: 0,0:03:02.76,0:03:03.62,Default,,0,0,0,,No problem
+Dialogue: 0,0:03:03.78,0:03:05.53,Default,,0,0,0,,We'll go over this together
+Dialogue: 0,0:03:06.88,0:03:07.25,Default,,0,0,0,,Abi
+Dialogue: 0,0:03:07.76,0:03:08.91,Default,,0,0,0,,I know you'll say it
 Dialogue: 0,0:03:09.42,0:03:09.98,Default,,0,0,0,,Let's go
-Dialogue: 0,0:03:10.15,0:03:10.60,Default,,0,0,0,,Cut
-Dialogue: 0,0:03:10.97,0:03:11.68,Default,,0,0,0,,Excellent
-Dialogue: 0,0:03:11.92,0:03:13.17,Default,,0,0,0,,Props, prepare for next scene
+Dialogue: 0,0:03:10.08,0:03:10.55,Default,,0,0,0,,Cut
+Dialogue: 0,0:03:10.97,0:03:11.65,Default,,0,0,0,,Excellent
+Dialogue: 0,0:03:11.85,0:03:13.17,Default,,0,0,0,,Props, prepare for next scene
 Dialogue: 0,0:03:22.75,0:03:23.49,Default,,0,0,0,,Come on, Abi
 Dialogue: 0,0:03:23.76,0:03:25.57,Default,,0,0,0,,Let's fight them to the death
 Dialogue: 0,0:03:25.64,0:03:26.76,Default,,0,0,0,,Yeah, that's it
 Dialogue: 0,0:03:31.37,0:03:31.94,Default,,0,0,0,,We got surrounded
 Dialogue: 0,0:03:32.63,0:03:33.02,Default,,0,0,0,,Damn
-Dialogue: 0,0:03:33.41,0:03:34.47,Default,,0,0,0,,I'll cover you
+Dialogue: 0,0:03:33.53,0:03:34.47,Default,,0,0,0,,I'll cover you, Abi
 Dialogue: 0,0:03:34.70,0:03:35.17,Default,,0,0,0,,You go first
 Dialogue: 0,0:03:36.23,0:03:36.65,Default,,0,0,0,,Damn
 Dialogue: 0,0:03:37.14,0:03:38.01,Default,,0,0,0,,Why did you come back
-Dialogue: 0,0:03:40.05,0:03:41.28,Default,,0,0,0,,There's no point in leaving without you
+Dialogue: 0,0:03:40.00,0:03:41.28,Default,,0,0,0,,There's no point in leaving without you
 Dialogue: 0,0:03:42.90,0:03:43.53,Default,,0,0,0,,Not bad for you
 Dialogue: 0,0:03:45.09,0:03:46.36,Default,,0,0,0,,We'll travel the world after this
-Dialogue: 0,0:03:47.67,0:03:48.27,Default,,0,0,0,,I swear
+Dialogue: 0,0:03:47.67,0:03:48.27,Default,,0,0,0,,I promise
 Dialogue: 0,0:03:48.71,0:03:49.09,Default,,0,0,0,,Abi
 Dialogue: 0,0:03:49.60,0:03:50.10,Default,,0,0,0,,Wake up
 Dialogue: 0,0:03:50.38,0:03:51.29,Default,,0,0,0,,Wake up!
 Dialogue: 0,0:03:52.24,0:03:53.53,Default,,0,0,0,,We're almost there
 Dialogue: 0,0:03:54.29,0:03:55.06,Default,,0,0,0,,Why
 Dialogue: 0,0:03:56.09,0:03:58.10,Default,,0,0,0,,Why
-Dialogue: 0,0:04:04.60,0:04:07.30,Default,,0,0,0,,Why
+Dialogue: 0,0:04:04.60,0:04:07.25,Default,,0,0,0,,Why
 Dialogue: 0,0:04:07.94,0:04:09.60,Default,,0,0,0,,Abi became famous right after that
-Dialogue: 0,0:04:09.89,0:04:12.85,Default,,0,0,0,,I had to left 1031 for half a year to follow then
+Dialogue: 0,0:04:09.89,0:04:12.85,Default,,0,0,0,,I had to left 1031 for half a year to follow them
 Dialogue: 0,0:04:13.77,0:04:14.38,Default,,0,0,0,,My god
 Dialogue: 0,0:04:14.62,0:04:16.36,Default,,0,0,0,,Abi was discovered in this way
 Dialogue: 0,0:04:16.36,0:04:17.05,Default,,0,0,0,,Give me a signature
