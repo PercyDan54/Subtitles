@@ -12,7 +12,7 @@ echo TextSub("D:\Percy\git\ASS Subtitles\S3\English\ASS_%num%.ass")>>%tmp%\1.avs
 
 :: Export video
 REM "%x264_path%\x264_32-8bit.exe" --seek 576 -o ASS_%num%.mp4 %tmp%\1.avs
-"%x264_path%\x264_32-8bit.exe" -o ASS_%num%.mp4 %tmp%\1.avs
+"%x264_path%\x264_32-8bit.exe" --crf 30 -o ASS_%num%.mp4 %tmp%\1.avs
 
 :: Add audio track, cut intro
 echo Muxing...
