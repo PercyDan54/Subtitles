@@ -14,9 +14,9 @@ Video File: 万圣街_1920x1080_万圣街_27.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 51
-Active Line: 40
-Video Position: 4066
+Scroll Position: 24
+Active Line: 29
+Video Position: 3064
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,25 +26,25 @@ Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 27:  {\c&H7990E7&}Panic as the house get crowded{\b0}
-Dialogue: 0,0:01:06.75,0:01:08.35,Default,,0,0,0,,This is a scene from "{\i1}A song of blood and brain{\i0}"
+Dialogue: 0,0:01:06.75,0:01:08.35,Default,,0,0,0,,This is a scene from "{\i1}A Song of Blood and Brain{\i0}"
 Dialogue: 0,0:01:08.60,0:01:09.92,Default,,0,0,0,,A play with the vampire queen
-Dialogue: 0,0:01:10.82,0:01:11.82,Default,,0,0,0,,This is "{\i1}The last days{\i0}"
+Dialogue: 0,0:01:10.82,0:01:11.82,Default,,0,0,0,,This is "{\i1}The Last Days{\i0}"
 Dialogue: 0,0:01:12.17,0:01:13.97,Default,,0,0,0,,It's a climax part I acted
 Dialogue: 0,0:01:14.06,0:01:14.84,Default,,0,0,0,,It's so amazing
-Dialogue: 0,0:01:16.88,0:01:19.72,Default,,0,0,0,,This video is the part I had a line in "{\i1}The bad omen{\i0}"
-Dialogue: 0,0:01:25.26,0:01:27.06,Default,,0,0,0,,The work is over for now
-Dialogue: 0,0:01:27.25,0:01:28.68,Default,,0,0,0,,Finally I can live here
+Dialogue: 0,0:01:16.88,0:01:19.72,Default,,0,0,0,,This video is the part I had a line in "{\i1}The Bad Omen{\i0}"
+Dialogue: 0,0:01:25.26,0:01:27.06,Default,,0,0,0,,Work is over for now
+Dialogue: 0,0:01:27.25,0:01:28.68,Default,,0,0,0,,Finally I can live here again
 Dialogue: 0,0:01:28.77,0:01:29.50,Default,,0,0,0,,About this
 Dialogue: 0,0:01:29.81,0:01:30.24,Default,,0,0,0,,Luis
 Dialogue: 0,0:01:31.28,0:01:33.05,Default,,0,0,0,,1031 has no empty room left
-Dialogue: 0,0:01:35.07,0:01:36.54,Default,,0,0,0,,The room I used to live
+Dialogue: 0,0:01:35.20,0:01:36.54,Default,,0,0,0,,The room I used to live
 Dialogue: 0,0:01:36.54,0:01:37.58,Default,,0,0,0,,Now Neil lives there
-Dialogue: 0,0:01:39.20,0:01:40.70,Default,,0,0,0,,I remembered there was a room beside it
+Dialogue: 0,0:01:39.20,0:01:40.70,Default,,0,0,0,,I remember there was a room beside it
 Dialogue: 0,0:01:40.70,0:01:41.84,Default,,0,0,0,,Damao lives there
 Dialogue: 0,0:01:45.71,0:01:47.45,Default,,0,0,0,,That's fine
 Dialogue: 0,0:01:48.41,0:01:50.08,Default,,0,0,0,,How?
 Dialogue: 0,0:01:51.21,0:01:51.92,Default,,0,0,0,,Lynn
-Dialogue: 0,0:01:52.09,0:01:54.25,Default,,0,0,0,,How about let Luis sleep on the sofa like 
+Dialogue: 0,0:01:52.09,0:01:54.25,Default,,0,0,0,,How about letting Luis sleep on the sofa like last night
 Dialogue: 0,0:01:54.45,0:01:54.84,Default,,0,0,0,,No
 Dialogue: 0,0:01:55.38,0:01:56.51,Default,,0,0,0,,It's ok for one night
 Dialogue: 0,0:01:56.89,0:01:58.09,Default,,0,0,0,,But long term is unacceptable
@@ -58,29 +58,30 @@ Dialogue: 0,0:02:07.64,0:02:08.92,Default,,0,0,0,,Is he actually living
 Dialogue: 0,0:02:14.63,0:02:15.04,Default,,0,0,0,,You sure?
 Dialogue: 0,0:02:20.61,0:02:21.11,Default,,0,0,0,,Abu
 Dialogue: 0,0:02:21.31,0:02:22.12,Default,,0,0,0,,Forget about it
-Dialogue: 0,0:02:22.35,0:02:24.26,Default,,0,0,0,,It's too much for you to live with me
+Dialogue: 0,0:02:22.35,0:02:24.26,Default,,0,0,0,,It's too small for you to live with me
 Dialogue: 0,0:02:24.54,0:02:27.45,Default,,0,0,0,,It's okay, my room is pretty big
 Dialogue: 0,0:02:27.78,0:02:28.45,Default,,0,0,0,,Speaking of it
 Dialogue: 0,0:02:28.80,0:02:30.31,Default,,0,0,0,,We've never seen Abu's room before
 Dialogue: 0,0:02:31.42,0:02:32.86,Default,,0,0,0,,Let's go and have a look
 Dialogue: 0,0:02:33.65,0:02:34.33,Default,,0,0,0,,I'm opening
 Dialogue: 0,0:02:48.33,0:02:49.16,Default,,0,0,0,,What the hell is that
-Dialogue: 0,0:02:49.41,0:02:50.62,Default,,0,0,0,,I've listened to the cards
+Dialogue: 0,0:02:49.41,0:02:50.50,Default,,0,0,0,,I've listened to the cards
 Dialogue: 0,0:02:50.77,0:02:51.80,Default,,0,0,0,,Your grandpa I
-Dialogue: 0,0:02:52.97,0:02:54.02,Default,,0,0,0,,You even had a pet?
-Dialogue: 0,0:02:54.08,0:02:55.26,Default,,0,0,0,,Is that the point?
+Dialogue: 0,0:02:51.93,0:02:52.75,Default,,0,0,0,,Sorry, wrong door
+Dialogue: 0,0:02:52.90,0:02:54.00,Default,,0,0,0,,You even had a pet?
+Dialogue: 0,0:02:54.08,0:02:55.00,Default,,0,0,0,,Is that the point?
 Dialogue: 0,0:02:55.94,0:02:56.94,Default,,0,0,0,,Again
-Dialogue: 0,0:02:58.70,0:02:59.34,Default,,0,0,0,,Nope
-Dialogue: 0,0:03:01.22,0:03:01.92,Default,,0,0,0,,Not this
-Dialogue: 0,0:03:04.81,0:03:05.65,Default,,0,0,0,,What was that
-Dialogue: 0,0:03:09.41,0:03:10.62,Default,,0,0,0,,This time for sure
-Dialogue: 0,0:03:14.15,0:03:15.37,Default,,0,0,0,,What a great room
-Dialogue: 0,0:03:15.44,0:03:17.12,Default,,0,0,0,,You can put your coffin here
+Dialogue: 0,0:02:58.70,0:02:59.20,Default,,0,0,0,,Nope
+Dialogue: 0,0:03:01.22,0:03:01.80,Default,,0,0,0,,Not this
+Dialogue: 0,0:03:04.80,0:03:05.50,Default,,0,0,0,,What was that
+Dialogue: 0,0:03:09.35,0:03:10.90,Default,,0,0,0,,This time for sure
+Dialogue: 0,0:03:14.15,0:03:15.20,Default,,0,0,0,,What a great room
+Dialogue: 0,0:03:15.40,0:03:17.00,Default,,0,0,0,,You can put your coffin here
 Dialogue: 0,0:03:17.54,0:03:18.26,Default,,0,0,0,,And
-Dialogue: 0,0:03:19.17,0:03:20.61,Default,,0,0,0,,Take the key
-Dialogue: 0,0:03:21.20,0:03:22.70,Default,,0,0,0,,Abu
-Dialogue: 0,0:03:23.12,0:03:24.07,Default,,0,0,0,,Luis
-Dialogue: 0,0:03:24.49,0:03:26.10,Default,,0,0,0,,How can I thank you
+Dialogue: 0,0:03:19.25,0:03:20.61,Default,,0,0,0,,Take the key
+Dialogue: 0,0:03:21.20,0:03:22.50,Default,,0,0,0,,Abu
+Dialogue: 0,0:03:23.00,0:03:24.07,Default,,0,0,0,,Luis
+Dialogue: 0,0:03:24.40,0:03:26.10,Default,,0,0,0,,How can I thank you
 Dialogue: 0,0:03:26.50,0:03:27.58,Default,,0,0,0,,No... I don't need that
 Dialogue: 0,0:03:29.50,0:03:31.57,Default,,0,0,0,,It's so inconvenient to live together
 Dialogue: 0,0:03:31.81,0:03:32.94,Default,,0,0,0,,That's ok, Luis
@@ -88,10 +89,10 @@ Dialogue: 0,0:03:32.94,0:03:33.58,Default,,0,0,0,,No
 Dialogue: 0,0:03:33.74,0:03:35.01,Default,,0,0,0,,It's too much bother for you
 Dialogue: 0,0:03:35.26,0:03:36.36,Default,,0,0,0,,I really don't need that
 Dialogue: 0,0:03:37.05,0:03:37.50,Default,,0,0,0,,Fine
-Dialogue: 0,0:03:38.33,0:03:39.61,Default,,0,0,0,,Couldn't you insist for a bit?
-Dialogue: 0,0:03:39.76,0:03:41.83,Default,,0,0,0,,No need to be polite about such things
+Dialogue: 0,0:03:38.33,0:03:39.50,Default,,0,0,0,,Couldn't you insist for a bit?
+Dialogue: 0,0:03:39.76,0:03:41.83,Default,,0,0,0,,Why would you be polite about such things?!
 Dialogue: 0,0:04:01.93,0:04:02.55,Default,,0,0,0,,Wha...
 Dialogue: 0,0:04:03.06,0:04:03.64,Default,,0,0,0,,What's this
 Dialogue: 0,0:04:09.16,0:04:09.88,Default,,0,0,0,,What's happening
-Dialogue: 0,0:04:10.31,0:04:12.00,Default,,0,0,0,,Someone broke into our house
+Dialogue: 0,0:04:10.10,0:04:11.50,Default,,0,0,0,,Someone broke into our house
 Dialogue: 0,0:04:13.87,0:04:15.20,Default,,0,0,0,,Luis is right
