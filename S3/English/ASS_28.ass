@@ -14,8 +14,9 @@ Video File: 万圣街_1920x1080_万圣街_28.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 3
-Video Position: 1753
+Scroll Position: 68
+Active Line: 84
+Video Position: 5893
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,15 +27,17 @@ Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 28:  {\c&H7990E7&}Who wants to be single?{\b0}
 Dialogue: 0,0:01:09.83,0:01:10.51,Default,,0,0,0,,Lynn
-Dialogue: 0,0:01:10.89,0:01:12.90,Default,,0,0,0,,The movie is starting soon, Lynn
-Dialogue: 0,0:01:13.03,0:01:14.72,Default,,0,0,0,,Lynn just left
-Dialogue: 0,0:01:15.14,0:01:16.37,Default,,0,0,0,,Don't know what he's going for
-Dialogue: 0,0:01:16.68,0:01:17.60,Default,,0,0,0,,He's dressing up pretty well
+Dialogue: 0,0:01:08.70,0:01:10.50,Default,,0,0,0,,{\frz12\an4\pos(455,250)\c&H80707E&} Lynn         Ira              Neil         Damao            Abu             Luis
+Dialogue: 0,0:01:08.70,0:01:10.50,Default,,0,0,0,,{\frz11.5\an4\pos(555,920)\c&H6E61BF&} Movie night Lily                   {\c&H9A8573&}working        hometown            filming
+Dialogue: 0,0:01:10.82,0:01:12.90,Default,,0,0,0,,The movie is starting soon, Lynn
+Dialogue: 0,0:01:13.00,0:01:14.30,Default,,0,0,0,,Lynn just left
+Dialogue: 0,0:01:15.14,0:01:16.37,Default,,0,0,0,,Don't know where he was going
+Dialogue: 0,0:01:16.68,0:01:17.60,Default,,0,0,0,,He was dressed up pretty well
 Dialogue: 0,0:01:17.90,0:01:19.13,Default,,0,0,0,,My brother is on a date
-Dialogue: 0,0:01:20.29,0:01:21.61,Default,,0,0,0,,Oh he was dating
+Dialogue: 0,0:01:20.29,0:01:21.61,Default,,0,0,0,,Oh he's on a date
 Dialogue: 0,0:01:23.16,0:01:24.28,Default,,0,0,0,,Dating?
-Dialogue: 0,0:01:25.35,0:01:27.66,Default,,0,0,0,,He says she's introduced by the landlord of 1031
-Dialogue: 0,0:01:27.92,0:01:28.66,Default,,0,0,0,,He must go
+Dialogue: 0,0:01:25.35,0:01:27.66,Default,,0,0,0,,He says they were introduced by the landlord of 1031
+Dialogue: 0,0:01:27.92,0:01:28.66,Default,,0,0,0,,He had to go
 Dialogue: 0,0:01:29.53,0:01:30.92,Default,,0,0,0,,Lynn is so boring
 Dialogue: 0,0:01:31.30,0:01:33.27,Default,,0,0,0,,So unfortunate for that girl
 Dialogue: 0,0:01:34.85,0:01:36.33,Default,,0,0,0,,You have no reactions at all?
@@ -42,44 +45,46 @@ Dialogue: 0,0:01:36.58,0:01:37.03,Default,,0,0,0,,What's the point
 Dialogue: 0,0:01:37.74,0:01:38.51,Default,,0,0,0,,They're just having a date
 Dialogue: 0,0:01:38.89,0:01:39.74,Default,,0,0,0,,Who cares
 Dialogue: 0,0:01:40.39,0:01:41.01,Default,,0,0,0,,Let's go, Lily
-Dialogue: 0,0:01:41.49,0:01:43.20,Default,,0,0,0,,Let's have a meal in Lynn's restaurant
-Dialogue: 0,0:01:43.63,0:01:44.00,Default,,0,0,0,,Show me the way
-Dialogue: 0,0:01:44.20,0:01:44.64,Default,,0,0,0,,Ok
-Dialogue: 0,0:01:44.84,0:01:45.94,Default,,0,0,0,,You care about this...
+Dialogue: 0,0:01:41.30,0:01:43.20,Default,,0,0,0,,Let's have a meal in Lynn's restaurant
+Dialogue: 0,0:01:43.45,0:01:44.00,Default,,0,0,0,,Show me the way
+Dialogue: 0,0:01:44.00,0:01:44.64,Default,,0,0,0,,OK
+Dialogue: 0,0:01:44.80,0:01:45.90,Default,,0,0,0,,You do care about this...
 Dialogue: 0,0:01:50.68,0:01:52.14,Default,,0,0,0,,And everyone's here
 Dialogue: 0,0:01:53.81,0:01:54.60,Default,,0,0,0,,Four
 Dialogue: 0,0:01:56.20,0:01:56.85,Default,,0,0,0,,There
 Dialogue: 0,0:01:58.50,0:01:59.79,Default,,0,0,0,,You're so humorous Lynn
-Dialogue: 0,0:02:01.15,0:02:02.80,Default,,0,0,0,,I've never seen anyone say my brother's humorous
+Dialogue: 0,0:02:01.15,0:02:02.80,Default,,0,0,0,,I've never heard anyone say my brother's humorous
 Dialogue: 0,0:02:01.14,0:02:01.66,Default,,0,0,0,,{\pos(970,200)}Where
 Dialogue: 0,0:02:01.90,0:02:02.46,Default,,0,0,0,,{\pos(970,200)}Nevermind
-Dialogue: 0,0:02:03.12,0:02:03.95,Default,,0,0,0,,Let's see who's that
+Dialogue: 0,0:02:03.12,0:02:03.95,Default,,0,0,0,,Let's see who it is
 Dialogue: 0,0:02:05.95,0:02:06.92,Default,,0,0,0,,That's Jiuyue
 Dialogue: 0,0:02:07.40,0:02:07.96,Default,,0,0,0,,You know her?
 Dialogue: 0,0:02:09.04,0:02:10.28,Default,,0,0,0,,I've seen her once before
 Dialogue: 0,0:02:10.94,0:02:12.53,Default,,0,0,0,,I've never thought I'd see her again here
-Dialogue: 0,0:02:13.14,0:02:14.53,Default,,0,0,0,,The world is soo small
+Dialogue: 0,0:02:13.14,0:02:14.53,Default,,0,0,0,,The world is so small
 Dialogue: 0,0:02:15.10,0:02:16.00,Default,,0,0,0,,To be honest
 Dialogue: 0,0:02:16.30,0:02:17.50,Default,,0,0,0,,I'm a fox spirit over 200 years old
 Dialogue: 0,0:02:17.50,0:02:19.18,Default,,0,0,0,,And I rarely had a date
-Dialogue: 0,0:02:19.78,0:02:21.90,Default,,0,0,0,,I thought I'm going to be single forever
+Dialogue: 0,0:02:19.78,0:02:21.90,Default,,0,0,0,,I thought I would be single forever
 Dialogue: 0,0:02:22.25,0:02:22.92,Default,,0,0,0,,How's that possible
 Dialogue: 0,0:02:23.47,0:02:24.71,Default,,0,0,0,,Though we've just met
 Dialogue: 0,0:02:25.24,0:02:26.71,Default,,0,0,0,,But I feel happy to be with you
 Dialogue: 0,0:02:27.37,0:02:28.78,Default,,0,0,0,,You must have lots of people who like you around
-Dialogue: 0,0:02:31.81,0:02:34.56,Default,,0,0,0,,Don't say that, I'm embarrassed
+Dialogue: 0,0:02:31.81,0:02:34.50,Default,,0,0,0,,Don't say that, I'm embarrassed
+Dialogue: 0,0:02:37.85,0:02:38.90,Default,,0,0,0,,The atmosphere is good
 Dialogue: 0,0:02:39.81,0:02:40.72,Default,,0,0,0,,Do you need to order
-Dialogue: 0,0:02:41.22,0:02:42.27,Default,,0,0,0,,Any recommendations?
+Dialogue: 0,0:02:41.20,0:02:42.00,Default,,0,0,0,,Any recommendations?
 Dialogue: 0,0:02:43.33,0:02:44.98,Default,,0,0,0,,The servant is pretty special
-Dialogue: 0,0:02:50.35,0:02:51.34,Default,,0,0,0,,Looks tasty
+Dialogue: 0,0:02:45.52,0:02:46.60,Default,,0,0,0,,When did he...
+Dialogue: 0,0:02:50.38,0:02:51.34,Default,,0,0,0,,Looks tasty
 Dialogue: 0,0:02:51.80,0:02:52.80,Default,,0,0,0,,Cheese
 Dialogue: 0,0:02:53.84,0:02:55.35,Default,,0,0,0,,Abi is so handsome
 Dialogue: 0,0:02:56.02,0:02:57.73,Default,,0,0,0,,That durian ice cream is pretty good
 Dialogue: 0,0:02:57.73,0:02:58.54,Default,,0,0,0,,Oh yes
-Dialogue: 0,0:02:58.74,0:03:00.54,Default,,0,0,0,,How long do you want to stay there
+Dialogue: 0,0:02:58.74,0:03:00.54,Default,,0,0,0,,How long are you going to stay around
 Dialogue: 0,0:03:04.88,0:03:05.65,Default,,0,0,0,,Lynn
 Dialogue: 0,0:03:06.10,0:03:07.65,Default,,0,0,0,,What's your job
-Dialogue: 0,0:03:08.56,0:03:10.62,Default,,0,0,0,,I'm a doctor and a teacher
+Dialogue: 0,0:03:08.56,0:03:10.62,Default,,0,0,0,,I'm a PhD student and a teacher
 Dialogue: 0,0:03:10.88,0:03:11.84,Default,,0,0,0,,Teaching English and Chinese
 Dialogue: 0,0:03:12.86,0:03:13.69,Default,,0,0,0,,That's awesome
 Dialogue: 0,0:03:14.69,0:03:16.66,Default,,0,0,0,,No wonder your English is so good
@@ -90,19 +95,19 @@ Dialogue: 0,0:03:20.98,0:03:21.94,Default,,0,0,0,,There's no bad students
 Dialogue: 0,0:03:22.15,0:03:23.12,Default,,0,0,0,,Only bad teachers
 Dialogue: 0,0:03:23.41,0:03:25.52,Default,,0,0,0,,Spend some time to finish these tests
 Dialogue: 0,0:03:25.69,0:03:27.24,Default,,0,0,0,,I'll give you special plan based on your skill
-Dialogue: 0,0:03:27.34,0:03:29.11,Default,,0,0,0,,I grantee your language level will dramatically improve
+Dialogue: 0,0:03:27.34,0:03:29.11,Default,,0,0,0,,I guarantee your language level will improve dramatically
 Dialogue: 0,0:03:29.16,0:03:30.57,Default,,0,0,0,,And come to my class
-Dialogue: 0,0:03:30.57,0:03:31.32,Default,,0,0,0,,Improve further
+Dialogue: 0,0:03:30.57,0:03:31.32,Default,,0,0,0,,To improve further
 Dialogue: 0,0:03:31.55,0:03:32.60,Default,,0,0,0,,I'll give you 10% off
-Dialogue: 0,0:03:32.75,0:03:34.09,Default,,0,0,0,,Consider it
-Dialogue: 0,0:03:35.84,0:03:37.12,Default,,0,0,0,,That's terrible
-Dialogue: 0,0:03:44.82,0:03:46.29,Default,,0,0,0,,Lynn how could you be like that
-Dialogue: 0,0:03:46.74,0:03:48.91,Default,,0,0,0,,The date becomes a class promotion
-Dialogue: 0,0:03:50.68,0:03:51.86,Default,,0,0,0,,Jiuyue's basics...
+Dialogue: 0,0:03:32.82,0:03:34.09,Default,,0,0,0,,Please consider it, Jiuyue
+Dialogue: 0,0:03:35.84,0:03:37.08,Default,,0,0,0,,That's terrible
+Dialogue: 0,0:03:44.80,0:03:46.25,Default,,0,0,0,,Lynn how could you be like that
+Dialogue: 0,0:03:46.74,0:03:48.91,Default,,0,0,0,,The date became a class promotion
+Dialogue: 0,0:03:50.70,0:03:52.12,Default,,0,0,0,,Jiuyue's basics...
 Dialogue: 0,0:03:53.12,0:03:54.15,Default,,0,0,0,,How did you know
-Dialogue: 0,0:03:55.38,0:03:57.01,Default,,0,0,0,,I just remembered I had a draw
-Dialogue: 0,0:03:57.01,0:03:58.01,Default,,0,0,0,,My fans are waiting, bye
-Dialogue: 0,0:04:02.68,0:04:03.48,Default,,0,0,0,,Something wrong with your neck?
+Dialogue: 0,0:03:55.38,0:03:56.80,Default,,0,0,0,,I just remembered I had a draw left
+Dialogue: 0,0:03:56.80,0:03:58.01,Default,,0,0,0,,My fans are waiting, bye
+Dialogue: 0,0:04:02.68,0:04:03.48,Default,,0,0,0,,Something's wrong with your neck?
 Dialogue: 0,0:04:04.57,0:04:05.01,Default,,0,0,0,,Yeah
 Dialogue: 0,0:04:05.54,0:04:06.40,Default,,0,0,0,,I was...
 Dialogue: 0,0:04:07.79,0:04:09.24,Default,,0,0,0,,I had a stiff neck
