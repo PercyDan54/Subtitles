@@ -14,8 +14,9 @@ Video File: 万圣街_1920x1080_万圣街_29.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 10
-Video Position: 2093
+Scroll Position: 55
+Active Line: 79
+Video Position: 5994
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,78 +29,79 @@ Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(97
 Dialogue: 0,0:01:10.15,0:01:11.75,Default,,0,0,0,,Stop barking, move!
 Dialogue: 0,0:01:11.75,0:01:12.18,Default,,0,0,0,,Move!
 Dialogue: 0,0:01:17.00,0:01:17.80,Default,,0,0,0,,Is this...?
-Dialogue: 0,0:01:19.56,0:01:20.27,Default,,0,0,0,,Ira
-Dialogue: 0,0:01:20.38,0:01:21.02,Default,,0,0,0,,Look at this
+Dialogue: 0,0:01:19.50,0:01:20.27,Default,,0,0,0,,Ira
+Dialogue: 0,0:01:20.38,0:01:21.02,Default,,0,0,0,,Come look at this
 Dialogue: 0,0:01:21.65,0:01:23.20,Default,,0,0,0,,I found a cat downstairs
 Dialogue: 0,0:01:23.48,0:01:24.60,Default,,0,0,0,,It has two tails
 Dialogue: 0,0:01:24.85,0:01:25.62,Default,,0,0,0,,So unusual
-Dialogue: 0,0:01:25.93,0:01:26.84,Default,,0,0,0,,Isn't it...?
-Dialogue: 0,0:01:27.20,0:01:28.17,Default,,0,0,0,,I want to raise it
+Dialogue: 0,0:01:25.80,0:01:26.84,Default,,0,0,0,,Isn't it...?
+Dialogue: 0,0:01:27.20,0:01:28.17,Default,,0,0,0,,I want to keep it
 Dialogue: 0,0:01:28.60,0:01:30.73,Default,,0,0,0,,But not sure if Lynn allows it
-Dialogue: 0,0:01:30.10,0:01:31.32,Default,,0,0,0,,{\pos(970,200)}What a great smell of alcohol
+Dialogue: 0,0:01:30.10,0:01:31.32,Default,,0,0,0,,{\pos(970,200)}What a strong smell of alcohol
 Dialogue: 0,0:01:32.96,0:01:33.72,Default,,0,0,0,,First of all
 Dialogue: 0,0:01:33.72,0:01:35.36,Default,,0,0,0,,It's a nekomata, not a cat
 Dialogue: 0,0:01:35.62,0:01:36.00,Default,,0,0,0,,Second
-Dialogue: 0,0:01:36.40,0:01:37.54,Default,,0,0,0,,It's our next door in 1032
-Dialogue: 0,0:01:37.91,0:01:38.75,Default,,0,0,0,,You'd better put it back
-Dialogue: 0,0:01:38.85,0:01:39.76,Default,,0,0,0,,Before it wakes up
-Dialogue: 0,0:01:40.28,0:01:41.52,Default,,0,0,0,,In the corridor?
-Dialogue: 0,0:01:42.17,0:01:43.31,Default,,0,0,0,,Will it gets lost?
+Dialogue: 0,0:01:36.40,0:01:37.54,Default,,0,0,0,,It's our next-door neighbor in 1032
+Dialogue: 0,0:01:37.80,0:01:38.75,Default,,0,0,0,,You'd better put it back
+Dialogue: 0,0:01:38.75,0:01:39.80,Default,,0,0,0,,Before it wakes up
+Dialogue: 0,0:01:40.20,0:01:41.55,Default,,0,0,0,,In the corridor?
+Dialogue: 0,0:01:42.15,0:01:43.30,Default,,0,0,0,,Will it gets lost?
 Dialogue: 0,0:01:43.91,0:01:45.18,Default,,0,0,0,,And it never woke up
 Dialogue: 0,0:01:45.57,0:01:46.78,Default,,0,0,0,,Did it pass out?
 Dialogue: 0,0:01:48.12,0:01:49.14,Default,,0,0,0,,Who are you
-Dialogue: 0,0:01:56.11,0:01:57.62,Default,,0,0,0,,Why is it so aggressive
+Dialogue: 0,0:01:56.10,0:01:57.45,Default,,0,0,0,,Why is it so aggressive
 Dialogue: 0,0:01:58.60,0:02:00.18,Default,,0,0,0,,And did it just speak?
 Dialogue: 0,0:02:00.70,0:02:02.00,Default,,0,0,0,,You learned something, Neil
-Dialogue: 0,0:02:02.60,0:02:04.15,Default,,0,0,0,,Nekomata is cat spirit in Japan
+Dialogue: 0,0:02:02.60,0:02:04.15,Default,,0,0,0,,Nekomata are cat spirit in Japan
 Dialogue: 0,0:02:04.40,0:02:05.74,Default,,0,0,0,,Pretty normal that it speaks
 Dialogue: 0,0:02:08.60,0:02:09.70,Default,,0,0,0,,Don't run around
-Dialogue: 0,0:02:11.80,0:02:13.30,Default,,0,0,0,,That's my Lafite '82
+Dialogue: 0,0:02:11.40,0:02:12.80,Default,,0,0,0,,That's my Lafite '82
 Dialogue: 0,0:02:13.33,0:02:14.44,Default,,0,0,0,,Damao's Vodka
 Dialogue: 0,0:02:14.44,0:02:16.62,Default,,0,0,0,,No! Lynn's red wine
 Dialogue: 0,0:02:19.60,0:02:21.13,Default,,0,0,0,,It's... drunk
 Dialogue: 0,0:02:21.27,0:02:21.64,Default,,0,0,0,,No
 Dialogue: 0,0:02:21.77,0:02:22.52,Default,,0,0,0,,It had drink so much wine
 Dialogue: 0,0:02:22.66,0:02:23.50,Default,,0,0,0,,Must take it to the hospital
-Dialogue: 0,0:02:31.70,0:02:32.62,Default,,0,0,0,,It becomes a woman?
-Dialogue: 0,0:02:32.83,0:02:34.74,Default,,0,0,0,,Told you it's our next door neighbor
-Dialogue: 0,0:02:35.74,0:02:36.82,Default,,0,0,0,,He... Hello
-Dialogue: 0,0:02:37.66,0:02:38.90,Default,,0,0,0,,What are you doing
+Dialogue: 0,0:02:31.70,0:02:32.62,Default,,0,0,0,,It turned into a woman?
+Dialogue: 0,0:02:32.83,0:02:34.74,Default,,0,0,0,,Told you it's our next-door neighbor
+Dialogue: 0,0:02:35.74,0:02:36.82,Default,,0,0,0,,He... Hello?
+Dialogue: 0,0:02:37.66,0:02:38.70,Default,,0,0,0,,What are you doing
 Dialogue: 0,0:02:38.20,0:02:40.33,Default,,0,0,0,,{\pos(970,200)}Why I'm always the one who gets hurt
 Dialogue: 0,0:02:48.04,0:02:49.24,Default,,0,0,0,,She's on my bed
-Dialogue: 0,0:02:49.61,0:02:50.12,Default,,0,0,0,,What should I do
-Dialogue: 0,0:02:50.98,0:02:51.49,Default,,0,0,0,,Let her be
-Dialogue: 0,0:02:52.06,0:02:53.00,Default,,0,0,0,,Can't let him sleep on the floor
-Dialogue: 0,0:02:53.86,0:02:55.09,Default,,0,0,0,,Just don't let Lily know this
+Dialogue: 0,0:02:49.61,0:02:50.25,Default,,0,0,0,,What should I do
+Dialogue: 0,0:02:50.90,0:02:51.90,Default,,0,0,0,,Let her be
+Dialogue: 0,0:02:51.90,0:02:53.20,Default,,0,0,0,,Can't let her sleep on the floor
+Dialogue: 0,0:02:53.80,0:02:55.09,Default,,0,0,0,,Just don't let Lily know this
 Dialogue: 0,0:02:55.65,0:02:56.90,Default,,0,0,0,,Put the phone down
-Dialogue: 0,0:02:57.44,0:02:58.24,Default,,0,0,0,,What are you doing
-Dialogue: 0,0:02:59.33,0:02:59.80,Default,,0,0,0,,Nick
+Dialogue: 0,0:02:57.20,0:02:58.24,Default,,0,0,0,,What are you doing
+Dialogue: 0,0:02:59.25,0:02:59.80,Default,,0,0,0,,Nick
 Dialogue: 0,0:03:00.04,0:03:00.84,Default,,0,0,0,,Why are you here
-Dialogue: 0,0:03:04.50,0:03:05.40,Default,,0,0,0,,You're finally a man
+Dialogue: 0,0:03:04.40,0:03:05.40,Default,,0,0,0,,You're finally a man
 Dialogue: 0,0:03:05.77,0:03:07.10,Default,,0,0,0,,I don't know her at all
 Dialogue: 0,0:03:08.85,0:03:10.20,Default,,0,0,0,,My little kitty
 Dialogue: 0,0:03:11.55,0:03:13.47,Default,,0,0,0,,I couldn't believe Neil left you alone
 Dialogue: 0,0:03:14.08,0:03:16.92,Default,,0,0,0,,So share the night with me, Nick, instead
 Dialogue: 0,0:03:18.00,0:03:19.84,Default,,0,0,0,,Stay away
 Dialogue: 0,0:03:24.15,0:03:25.15,Default,,0,0,0,,I'm so sorry
-Dialogue: 0,0:03:25.35,0:03:26.60,Default,,0,0,0,,I'm a war correspondent
-Dialogue: 0,0:03:28.60,0:03:29.15,Default,,0,0,0,,Made so much trouble yesterday
-Dialogue: 0,0:03:29.15,0:03:31.24,Default,,0,0,0,,I'm terribly sorry
+Dialogue: 0,0:03:25.35,0:03:26.60,Default,,0,0,0,,I'm really sorry
+Dialogue: 0,0:03:26.90,0:03:28.75,Default,,0,0,0,,Made so much trouble yesterday
+Dialogue: 0,0:03:29.15,0:03:31.25,Default,,0,0,0,,I'm terribly sorry
 Dialogue: 0,0:03:31.70,0:03:34.25,Default,,0,0,0,,I'll buy you new ones for the what I drank yesterday
-Dialogue: 0,0:03:34.41,0:03:35.84,Default,,0,0,0,,I'm very sorry. It's fine
+Dialogue: 0,0:03:34.40,0:03:35.75,Default,,0,0,0,,I'm very sorry. It's fine
 Dialogue: 0,0:03:36.03,0:03:36.76,Default,,0,0,0,,Get up first
 Dialogue: 0,0:03:37.23,0:03:39.33,Default,,0,0,0,,Drunk Damao is much scarier than you
 Dialogue: 0,0:03:39.65,0:03:41.55,Default,,0,0,0,,But drink less in the future
 Dialogue: 0,0:03:41.94,0:03:43.10,Default,,0,0,0,,Drinking is too harmful to the body
 Dialogue: 0,0:03:45.80,0:03:47.28,Default,,0,0,0,,So I'll introduce myself again
 Dialogue: 0,0:03:47.60,0:03:49.45,Default,,0,0,0,,I'm Taozi living in room 1032
-Dialogue: 0,0:03:49.54,0:03:50.63,Default,,0,0,0,,I'm a war correspondent
+Dialogue: 0,0:03:49.54,0:03:50.63,Default,,0,0,0,,I'm a war reporter
 Dialogue: 0,0:03:51.37,0:03:53.08,Default,,0,0,0,,This is Sake from my home
-Dialogue: 0,0:03:53.81,0:03:55.16,Default,,0,0,0,,
-Dialogue: 0,0:03:55.57,0:03:56.49,Default,,0,0,0,,Be sure to take it
+Dialogue: 0,0:03:53.80,0:03:55.15,Default,,0,0,0,,To make amend for what happened last night
+Dialogue: 0,0:03:55.50,0:03:56.40,Default,,0,0,0,,Be sure to take it
 Dialogue: 0,0:03:57.00,0:03:58.49,Default,,0,0,0,,I'll take it then
 Dialogue: 0,0:04:00.58,0:04:01.52,Default,,0,0,0,,Be sure to...
 Dialogue: 0,0:04:02.03,0:04:03.36,Default,,0,0,0,,Take it!
 Dialogue: 0,0:04:05.07,0:04:05.48,Default,,0,0,0,,Nevermind
 Dialogue: 0,0:04:05.79,0:04:07.36,Default,,0,0,0,,I'll get you a better one next time
-Dialogue: 0,0:04:07.36,0:04:09.36,Default,,0,0,0,,You don't have to
+Dialogue: 0,0:04:08.50,0:04:09.35,Default,,0,0,0,,You don't have to
+Dialogue: 0,0:04:09.75,0:04:10.80,Default,,0,0,0,,Could you please drink it at home
