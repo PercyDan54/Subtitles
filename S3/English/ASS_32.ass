@@ -14,8 +14,9 @@ Video File: 万圣街_1920x1080_万圣街_32.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 19
-Video Position: 2872
+Scroll Position: 36
+Active Line: 52
+Video Position: 4808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,41 +36,48 @@ Dialogue: 0,0:01:27.00,0:01:27.50,Default,,0,0,0,,Neil
 Dialogue: 0,0:01:27.78,0:01:29.10,Default,,0,0,0,,Or should I sit in the back
 Dialogue: 0,0:01:29.10,0:01:30.25,Default,,0,0,0,,Don't worry, I'm here
 Dialogue: 0,0:01:30.81,0:01:31.33,Default,,0,0,0,,Neil
-Dialogue: 0,0:01:32.42,0:01:33.69,Default,,0,0,0,,So hard to decide
-Dialogue: 0,0:01:33.97,0:01:34.79,Default,,0,0,0,,Neil
-Dialogue: 0,0:01:35.25,0:01:36.11,Default,,0,0,0,,We're next
-Dialogue: 0,0:01:37.97,0:01:38.90,Default,,0,0,0,,Let's go
-Dialogue: 0,0:01:42.04,0:01:43.64,Default,,0,0,0,,Next
-Dialogue: 0,0:01:54.39,0:01:55.09,Default,,0,0,0,,It's awesome!
-Dialogue: 0,0:01:55.26,0:01:56.75,Default,,0,0,0,,Let's do this again. Luis
-Dialogue: 0,0:01:58.39,0:01:58.80,Default,,0,0,0,,Lulu
+Dialogue: 0,0:01:32.42,0:01:33.30,Default,,0,0,0,,So hard to decide...
+Dialogue: 0,0:01:33.35,0:01:33.73,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:34.00,0:01:34.50,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:35.25,0:01:36.15,Default,,0,0,0,,We're next
+Dialogue: 0,0:01:37.97,0:01:38.80,Default,,0,0,0,,Let's go
+Dialogue: 0,0:01:42.04,0:01:42.75,Default,,0,0,0,,Next
+Dialogue: 0,0:01:42.95,0:01:43.60,Default,,0,0,0,,Here
+Dialogue: 0,0:01:54.39,0:01:55.10,Default,,0,0,0,,It's awesome!
+Dialogue: 0,0:01:55.10,0:01:56.70,Default,,0,0,0,,Let's do this again. Luis
+Dialogue: 0,0:01:58.39,0:01:58.80,Default,,0,0,0,,Luis?
 Dialogue: 0,0:01:59.64,0:02:01.60,Default,,0,0,0,,Somebody help! Somebody died
 Dialogue: 0,0:02:01.76,0:02:02.84,Default,,0,0,0,,Luis
 Dialogue: 0,0:02:11.63,0:02:12.67,Default,,0,0,0,,Lynn
-Dialogue: 0,0:02:13.44,0:02:15.67,Default,,0,0,0,,Could you go to another pool
-Dialogue: 0,0:02:16.87,0:02:19.94,Default,,0,0,0,,You and Lily had turned all the water in the pool into holy water
-Dialogue: 0,0:02:20.61,0:02:21.80,Default,,0,0,0,,So where should we go then
+Dialogue: 0,0:02:13.44,0:02:15.67,Default,,0,0,0,,Could you go to another pool for a moment
+Dialogue: 0,0:02:15.90,0:02:16.40,Default,,0,0,0,,What's the matter
+Dialogue: 0,0:02:16.90,0:02:19.60,Default,,0,0,0,,You and Lily had turned all the water in the pool into holy water
+Dialogue: 0,0:02:20.70,0:02:21.90,Default,,0,0,0,,So where should we go then
 Dialogue: 0,0:02:24.64,0:02:25.90,Default,,0,0,0,,I got an idea, come with me
-Dialogue: 0,0:02:40.19,0:02:41.56,Default,,0,0,0,,Can't you swim, Neil
+Dialogue: 0,0:02:40.19,0:02:41.50,Default,,0,0,0,,Can't you swim, Neil
 Dialogue: 0,0:02:42.23,0:02:42.84,Default,,0,0,0,,Lily
-Dialogue: 0,0:02:44.80,0:02:46.14,Default,,0,0,0,,I couldn't learn it
-Dialogue: 0,0:02:47.38,0:02:48.55,Default,,0,0,0,,I'll teach you
+Dialogue: 0,0:02:44.90,0:02:46.00,Default,,0,0,0,,I couldn't learn it
+Dialogue: 0,0:02:47.38,0:02:48.35,Default,,0,0,0,,I'll teach you
 Dialogue: 0,0:02:48.67,0:02:49.99,Default,,0,0,0,,Really? I will try my best
-Dialogue: 0,0:02:51.61,0:02:52.21,Default,,0,0,0,,But
-Dialogue: 0,0:02:52.78,0:02:54.44,Default,,0,0,0,,If I 
-Dialogue: 0,0:02:54.44,0:02:55.91,Default,,0,0,0,,
+Dialogue: 0,0:02:51.61,0:02:52.15,Default,,0,0,0,,But
+Dialogue: 0,0:02:52.78,0:02:54.20,Default,,0,0,0,,If I'm in the same pool as you
+Dialogue: 0,0:02:54.52,0:02:55.80,Default,,0,0,0,,I'll turn into a goat
 Dialogue: 0,0:02:56.40,0:02:57.78,Default,,0,0,0,,No problem, I'm on it
 Dialogue: 0,0:03:00.45,0:03:01.80,Default,,0,0,0,,Listen to my instructions!
-Dialogue: 0,0:03:02.04,0:03:04.31,Default,,0,0,0,,
-Dialogue: 0,0:03:04.31,0:03:06.08,Default,,0,0,0,,And
-Dialogue: 0,0:03:07.38,0:03:08.37,Default,,0,0,0,,Isn't that Neil
-Dialogue: 0,0:03:09.83,0:03:10.67,Default,,0,0,0,,Hold on
-Dialogue: 0,0:03:10.80,0:03:12.41,Default,,0,0,0,,Your brother is coming to rescue
-Dialogue: 0,0:03:12.41,0:03:13.92,Default,,0,0,0,,Stay away from me
-Dialogue: 0,0:03:14.00,0:03:14.80,Default,,0,0,0,,Don't be afraid, Neil
-Dialogue: 0,0:03:14.80,0:03:16.10,Default,,0,0,0,,Stay back
-Dialogue: 0,0:03:16.10,0:03:17.16,Default,,0,0,0,,I'm rescuing you
-Dialogue: 0,0:03:17.51,0:03:19.55,Default,,0,0,0,,Neil learns so fast
+Dialogue: 0,0:03:02.15,0:03:04.20,Default,,0,0,0,,1
+Dialogue: 0,0:03:04.25,0:03:06.08,Default,,0,0,0,,2
+Dialogue: 0,0:03:04.22,0:03:04.65,Default,,0,0,0,,{\pos(970,200)}Can't...
+Dialogue: 0,0:03:05.05,0:03:06.00,Default,,0,0,0,,{\pos(970,200)}Understand it
+Dialogue: 0,0:03:08.03,0:03:08.25,Default,,0,0,0,,{\c&H548AE5&\fnTrebuchet MS\pos(1635,805)}Being a part-time lifeguard
+Dialogue: 0,0:03:08.40,0:03:08.90,Default,,0,0,0,,{\c&H548AE5&\fnTrebuchet MS\pos(1635,805)}Being a part-time lifeguard
+Dialogue: 0,0:03:07.35,0:03:08.35,Default,,0,0,0,,Isn't that Neil
+Dialogue: 0,0:03:09.83,0:03:10.40,Default,,0,0,0,,Hold on
+Dialogue: 0,0:03:10.80,0:03:11.90,Default,,0,0,0,,Your brother is coming to rescue
+Dialogue: 0,0:03:11.90,0:03:13.30,Default,,0,0,0,,Stay away from me
+Dialogue: 0,0:03:14.00,0:03:14.55,Default,,0,0,0,,Don't be afraid, Neil
+Dialogue: 0,0:03:14.55,0:03:15.30,Default,,0,0,0,,Stay back
+Dialogue: 0,0:03:16.10,0:03:16.85,Default,,0,0,0,,I'm rescuing you
+Dialogue: 0,0:03:17.35,0:03:19.40,Default,,0,0,0,,Neil learns so fast
 Dialogue: 0,0:03:28.35,0:03:28.82,Default,,0,0,0,,Hello
 Dialogue: 0,0:03:29.25,0:03:30.90,Default,,0,0,0,,We are holding summer activity for lovers
 Dialogue: 0,0:03:31.57,0:03:32.64,Default,,0,0,0,,If you're alone...
@@ -80,13 +88,14 @@ Dialogue: 0,0:03:37.95,0:03:39.03,Default,,0,0,0,,We're couple
 Dialogue: 0,0:03:39.12,0:03:40.08,Default,,0,0,0,,Could we come in
 Dialogue: 0,0:03:40.88,0:03:41.58,Default,,0,0,0,,Come in please
 Dialogue: 0,0:03:43.82,0:03:44.62,Default,,0,0,0,,Thanks for the help
-Dialogue: 0,0:03:45.21,0:03:46.62,Default,,0,0,0,,But I didn't mean to lie...
-Dialogue: 0,0:03:47.25,0:03:48.13,Default,,0,0,0,,It's me
-Dialogue: 0,0:03:48.24,0:03:49.30,Default,,0,0,0,,Surprised?
-Dialogue: 0,0:03:50.65,0:03:52.61,Default,,0,0,0,,Transformation is optional courses in Devil University
+Dialogue: 0,0:03:45.15,0:03:45.90,Default,,0,0,0,,But I didn't mean to lie...
+Dialogue: 0,0:03:45.90,0:03:46.62,Default,,0,0,0,,Why are you so polite
+Dialogue: 0,0:03:47.25,0:03:48.00,Default,,0,0,0,,It's me
+Dialogue: 0,0:03:48.24,0:03:49.20,Default,,0,0,0,,Surprised?
+Dialogue: 0,0:03:50.65,0:03:52.61,Default,,0,0,0,,Transformation is an optional course in Devil University
 Dialogue: 0,0:03:52.94,0:03:54.81,Default,,0,0,0,,And Neil couldn't become such a beauty like me
-Dialogue: 0,0:03:55.28,0:03:56.62,Default,,0,0,0,,Are you shy?
-Dialogue: 0,0:03:58.13,0:03:59.36,Default,,0,0,0,,Just deceptive tricks
+Dialogue: 0,0:03:55.35,0:03:56.55,Default,,0,0,0,,Are you shy?
+Dialogue: 0,0:03:57.90,0:03:59.20,Default,,0,0,0,,Just deceptive tricks
 Dialogue: 0,0:03:59.55,0:04:00.47,Default,,0,0,0,,Why would I be shy
 Dialogue: 0,0:04:00.98,0:04:01.88,Default,,0,0,0,,Who was deceptive
 Dialogue: 0,0:04:02.24,0:04:03.28,Default,,0,0,0,,Those are real

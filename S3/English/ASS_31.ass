@@ -52,7 +52,7 @@ Dialogue: 0,0:02:22.33,0:02:22.75,Default,,0,0,0,,Ok
 Dialogue: 0,0:02:22.75,0:02:23.25,Default,,0,0,0,,Go on
 Dialogue: 0,0:02:24.55,0:02:25.18,Default,,0,0,0,,Only this one?
 Dialogue: 0,0:02:25.38,0:02:26.25,Default,,0,0,0,,I'll have it done right away
-Dialogue: 0,0:02:26.25,0:02:29.72,Default,,0,0,0,,{\fs120\c&H55C670&\pos(1163.333,195.667)}Send
+Dialogue: 0,0:02:26.25,0:02:29.72,Default,,0,0,0,,{\fs120\c&H55C670&\pos(1160,195)}Send
 Dialogue: 0,0:02:32.80,0:02:34.29,Default,,0,0,0,,Completely different from what I expected
 Dialogue: 0,0:02:34.76,0:02:35.86,Default,,0,0,0,,Can't explain my thinking clearly on the phone
 Dialogue: 0,0:02:36.25,0:02:37.04,Default,,0,0,0,,Come over for a meeting today
