@@ -1,0 +1,100 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 32:  {\c&H7990E7&}How much surprise that I didn't know{\b0}
+Dialogue: 0,0:01:15.13,0:01:16.70,Default,,0,0,0,,Oh, why didn't Ira come
+Dialogue: 0,0:01:17.30,0:01:18.70,Default,,0,0,0,,He'll be damaged by the sun
+Dialogue: 0,0:01:19.93,0:01:20.45,Default,,0,0,0,,Next
+Dialogue: 0,0:01:22.19,0:01:23.51,Default,,0,0,0,,I'll be with Lily next
+Dialogue: 0,0:01:24.04,0:01:24.95,Default,,0,0,0,,Should I sit in the front
+Dialogue: 0,0:01:25.54,0:01:26.82,Default,,0,0,0,,Don't be afraid, hold me close
+Dialogue: 0,0:01:27.00,0:01:27.50,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:27.78,0:01:29.10,Default,,0,0,0,,Or should I sit in the back
+Dialogue: 0,0:01:29.10,0:01:30.25,Default,,0,0,0,,Don't worry, I'm here
+Dialogue: 0,0:01:30.81,0:01:31.33,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:32.42,0:01:33.30,Default,,0,0,0,,So hard to decide...
+Dialogue: 0,0:01:33.35,0:01:33.73,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:34.00,0:01:34.50,Default,,0,0,0,,Neil
+Dialogue: 0,0:01:35.25,0:01:36.15,Default,,0,0,0,,We're next
+Dialogue: 0,0:01:37.97,0:01:38.80,Default,,0,0,0,,Let's go
+Dialogue: 0,0:01:42.04,0:01:42.75,Default,,0,0,0,,Next
+Dialogue: 0,0:01:42.95,0:01:43.60,Default,,0,0,0,,Here
+Dialogue: 0,0:01:54.39,0:01:55.10,Default,,0,0,0,,That's awesome!
+Dialogue: 0,0:01:55.10,0:01:56.70,Default,,0,0,0,,Let's do this again. Luis
+Dialogue: 0,0:01:58.39,0:01:58.80,Default,,0,0,0,,Luis?
+Dialogue: 0,0:01:59.64,0:02:01.60,Default,,0,0,0,,Somebody help! Somebody died
+Dialogue: 0,0:02:01.76,0:02:02.84,Default,,0,0,0,,Luis
+Dialogue: 0,0:02:11.63,0:02:12.40,Default,,0,0,0,,Lynn
+Dialogue: 0,0:02:13.44,0:02:15.67,Default,,0,0,0,,Could you go to another pool for a moment
+Dialogue: 0,0:02:15.90,0:02:16.40,Default,,0,0,0,,What's the matter
+Dialogue: 0,0:02:16.90,0:02:19.60,Default,,0,0,0,,You and Lily had turned all the water in the pool into holy water
+Dialogue: 0,0:02:20.70,0:02:22.00,Default,,0,0,0,,So where should we go then
+Dialogue: 0,0:02:24.64,0:02:25.80,Default,,0,0,0,,I got a good idea, follow me
+Dialogue: 0,0:02:40.19,0:02:41.50,Default,,0,0,0,,Can't you swim, Neil
+Dialogue: 0,0:02:42.23,0:02:42.84,Default,,0,0,0,,Lily
+Dialogue: 0,0:02:44.90,0:02:46.00,Default,,0,0,0,,I couldn't learn it
+Dialogue: 0,0:02:47.38,0:02:48.35,Default,,0,0,0,,I'll teach you
+Dialogue: 0,0:02:48.67,0:02:49.99,Default,,0,0,0,,Really? I will try my best
+Dialogue: 0,0:02:51.61,0:02:52.15,Default,,0,0,0,,But
+Dialogue: 0,0:02:52.78,0:02:54.20,Default,,0,0,0,,If I'm in the same pool as you
+Dialogue: 0,0:02:54.52,0:02:55.80,Default,,0,0,0,,I'll turn into a goat
+Dialogue: 0,0:02:56.40,0:02:57.78,Default,,0,0,0,,No problem, leave it to me
+Dialogue: 0,0:03:00.45,0:03:01.80,Default,,0,0,0,,Listen to my instructions!
+Dialogue: 0,0:03:02.15,0:03:04.20,Default,,0,0,0,,Move your feet like flip-flap and swing your arms like woosh
+Dialogue: 0,0:03:04.25,0:03:06.08,Default,,0,0,0,,And one, two, one, two
+Dialogue: 0,0:03:04.05,0:03:04.65,Default,,0,0,0,,{\pos(970,200)}Can't...
+Dialogue: 0,0:03:05.03,0:03:06.00,Default,,0,0,0,,{\pos(970,200)}Understand it
+Dialogue: 0,0:03:08.03,0:03:08.25,Default,,0,0,0,,{\c&H548AE5&\fnTrebuchet MS\pos(1635,805)}Being a part-time lifeguard
+Dialogue: 0,0:03:08.40,0:03:08.90,Default,,0,0,0,,{\c&H548AE5&\fnTrebuchet MS\pos(1635,805)}Being a part-time lifeguard
+Dialogue: 0,0:03:07.35,0:03:08.20,Default,,0,0,0,,Isn't that Neil
+Dialogue: 0,0:03:09.83,0:03:10.40,Default,,0,0,0,,Hold on
+Dialogue: 0,0:03:10.80,0:03:11.90,Default,,0,0,0,,Your brother is coming to rescue
+Dialogue: 0,0:03:11.90,0:03:13.30,Default,,0,0,0,,Stay away from me
+Dialogue: 0,0:03:14.00,0:03:14.55,Default,,0,0,0,,Don't be afraid, Neil
+Dialogue: 0,0:03:14.55,0:03:15.30,Default,,0,0,0,,Stay away
+Dialogue: 0,0:03:16.10,0:03:16.85,Default,,0,0,0,,I'm rescuing you
+Dialogue: 0,0:03:17.35,0:03:19.40,Default,,0,0,0,,Neil learns so fast
+Dialogue: 0,0:03:28.35,0:03:28.82,Default,,0,0,0,,Hello
+Dialogue: 0,0:03:29.25,0:03:30.90,Default,,0,0,0,,We are holding summer activity for lovers here
+Dialogue: 0,0:03:31.57,0:03:32.10,Default,,0,0,0,,If you're alone...
+Dialogue: 0,0:03:32.10,0:03:32.64,Default,,0,0,0,,No
+Dialogue: 0,0:03:32.75,0:03:33.65,Default,,0,0,0,,They aren't lover...
+Dialogue: 0,0:03:33.85,0:03:35.10,Default,,0,0,0,,Oh Lynn
+Dialogue: 0,0:03:35.25,0:03:36.35,Default,,0,0,0,,You didn't even wait for me
+Dialogue: 0,0:03:37.95,0:03:38.90,Default,,0,0,0,,We're couple
+Dialogue: 0,0:03:39.12,0:03:40.08,Default,,0,0,0,,Could we come in
+Dialogue: 0,0:03:40.88,0:03:41.58,Default,,0,0,0,,Come in please
+Dialogue: 0,0:03:43.82,0:03:44.62,Default,,0,0,0,,Thanks for the help
+Dialogue: 0,0:03:45.15,0:03:45.90,Default,,0,0,0,,But I didn't mean to lie...
+Dialogue: 0,0:03:45.90,0:03:46.62,Default,,0,0,0,,Why are you so polite
+Dialogue: 0,0:03:47.25,0:03:48.00,Default,,0,0,0,,It's me
+Dialogue: 0,0:03:48.24,0:03:49.20,Default,,0,0,0,,Surprised?
+Dialogue: 0,0:03:50.60,0:03:52.61,Default,,0,0,0,,Transformation is an optional course in Devil University
+Dialogue: 0,0:03:52.94,0:03:54.70,Default,,0,0,0,,And Neil couldn't become such a beauty like me
+Dialogue: 0,0:03:55.35,0:03:56.55,Default,,0,0,0,,Are you shy?
+Dialogue: 0,0:03:57.90,0:03:59.20,Default,,0,0,0,,Just deceptive tricks
+Dialogue: 0,0:03:59.55,0:04:00.47,Default,,0,0,0,,Why would I be shy
+Dialogue: 0,0:04:00.98,0:04:01.88,Default,,0,0,0,,Who was deceptive
+Dialogue: 0,0:04:02.24,0:04:03.28,Default,,0,0,0,,Those are real
+Dialogue: 0,0:04:03.50,0:04:03.90,Default,,0,0,0,,Touch it if you don't believe me
+Dialogue: 0,0:04:05.15,0:04:06.00,Default,,0,0,0,,Pervert
+Dialogue: 0,0:04:06.60,0:04:08.00,Default,,0,0,0,,Why did you slap me
+Dialogue: 0,0:04:14.38,0:04:15.53,Default,,0,0,0,,Abu
+Dialogue: 0,0:04:15.53,0:04:16.62,Default,,0,0,0,,We're leaving
+Dialogue: 0,0:04:17.10,0:04:18.44,Default,,0,0,0,,How long has he been here?
+Dialogue: 0,0:04:18.85,0:04:20.09,Default,,0,0,0,,Won't he become soak?
+Dialogue: 0,0:04:22.40,0:04:24.40,Default,,0,0,0,,But it seems he really likes bathing
+Dialogue: 0,0:04:24.90,0:04:27.00,Default,,0,0,0,,Maybe he had some kind of Egyptian magic
+Dialogue: 0,0:04:28.06,0:04:29.65,Default,,0,0,0,,It's really magic?
