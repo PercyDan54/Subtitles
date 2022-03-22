@@ -12,7 +12,7 @@ Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 15:  {\c&H7990E7&}Don't worry when there's too less{\b0} <!--How to tl this properly>
+Dialogue: 0,0:01:02.51,0:01:05.56,Default,,0,0,0,, {\c&H6CC2E9&\b1\an5\pos(970,880)\fs120\frz3.727\t(0,100,1.5\fs45)}Episode 15:  {\c&H7990E7&}Don't worry when there's too less{\b0}
 Dialogue: 0,0:01:14.72,0:01:15.08,Default,,0,0,0,,What?
 Dialogue: 0,0:01:16.90,0:01:17.55,Default,,0,0,0,,My drink
 Dialogue: 0,0:01:18.37,0:01:19.01,Default,,0,0,0,,My popcorn
@@ -61,11 +61,11 @@ Dialogue: 0,0:02:43.81,0:02:44.45,Default,,0,0,0,,Look!
 Dialogue: 0,0:02:44.64,0:02:45.30,Default,,0,0,0,,{\pos(969,1060)}A big bone!
 Dialogue: 0,0:02:45.30,0:02:45.93,Default,,0,0,0,,Where?
 Dialogue: 0,0:03:12.86,0:03:13.14,Default,,0,0,0,,No!
-Dialogue: 0,0:03:13.46,0:03:14.43,Default,,0,0,0,,I'm just a dog if I don't resist <!--Need better tl>
+Dialogue: 0,0:03:13.46,0:03:14.43,Default,,0,0,0,,I'm just a dog if I don't resist
 
 Dialogue: 0,0:03:16.87,0:03:17.72,Default,,0,0,0,,Why are you still awake?
 Dialogue: 0,0:03:18.21,0:03:19.42,Default,,0,0,0,,Whaaaaat do you want to do?
-Dialogue: 0,0:03:20.96,0:03:22.40,Default,,0,0,0,,This is the hair-restorer Lily brought from heaven<!--Google tl, is this or "pilatory"better?>
+Dialogue: 0,0:03:20.96,0:03:22.40,Default,,0,0,0,,This is the hair-restorer Lily brought from heaven
 Dialogue: 0,0:03:22.82,0:03:23.36,Default,,0,0,0,,Uh
 Dialogue: 0,0:03:23.84,0:03:25.86,Default,,0,0,0,,I was too excited when I picked your hair
 Dialogue: 0,0:03:26.78,0:03:27.24,Default,,0,0,0,,This

@@ -1,0 +1,96 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,18,0,20,1
+Style: Title,Arial,75,&H006CC2E9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.51,0:01:05.56,Title,,0,0,0,, {\pos(970,920)} {\b1\an5\pos(970,880)\fs120\frz4.5\t(0,100,1.5\fs45)}Episode 33:  {\c&H7990E7&}Happy birthday{\b0}
+Dialogue: 0,0:01:07.30,0:01:10.05,Default,,0,0,0,,Ira didn't wash the dishes this week, minus 10 points
+Dialogue: 0,0:01:10.53,0:01:13.20,Default,,0,0,0,,Damao hides his lost hair under the sofa, minus 3 points
+Dialogue: 0,0:01:16.31,0:01:17.70,Default,,0,0,0,,Happy birthday, brother
+Dialogue: 0,0:01:18.45,0:01:20.38,Default,,0,0,0,,I'm the first one to greet you again this year
+Dialogue: 0,0:01:21.45,0:01:22.55,Default,,0,0,0,,It's this day again
+Dialogue: 0,0:01:24.27,0:01:25.55,Default,,0,0,0,,Happy birthday, brother
+Dialogue: 0,0:01:25.86,0:01:27.20,Default,,0,0,0,,I planned for a birthday party
+Dialogue: 0,0:01:27.50,0:01:29.20,Default,,0,0,0,,This is the flow chart and program list of the party
+Dialogue: 0,0:01:30.30,0:01:31.45,Default,,0,0,0,,Only the first part
+Dialogue: 0,0:01:36.60,0:01:38.40,Default,,0,0,0,,Thank you Lily, I got your greetings
+Dialogue: 0,0:01:38.85,0:01:40.33,Default,,0,0,0,,You don't have to celebrate my birthday this year
+Dialogue: 0,0:01:40.33,0:01:41.75,Default,,0,0,0,,Just a brief celebration?
+Dialogue: 0,0:01:41.75,0:01:42.30,Default,,0,0,0,,No
+Dialogue: 0,0:01:55.25,0:01:56.90,Default,,0,0,0,,Seems Lily really didn't set it up
+Dialogue: 0,0:01:57.50,0:01:58.70,Default,,0,0,0,,Now I can relax myself
+Dialogue: 0,0:02:00.51,0:02:01.15,Default,,0,0,0,,I'm back
+Dialogue: 0,0:02:01.70,0:02:02.15,Default,,0,0,0,,Ira
+Dialogue: 0,0:02:02.95,0:02:03.75,Default,,0,0,0,,Come on, come on, come on
+Dialogue: 0,0:02:04.35,0:02:07.12,Default,,0,0,0,,Nobody remembers today is my birthday?
+Dialogue: 0,0:02:08.03,0:02:09.55,Default,,0,0,0,,Just do it like this to pass that level
+Dialogue: 0,0:02:10.30,0:02:12.86,Default,,0,0,0,,Do you know what day is it today?
+Dialogue: 0,0:02:13.90,0:02:15.46,Default,,0,0,0,,I thought you'd never ask
+Dialogue: 0,0:02:17.48,0:02:19.79,Default,,0,0,0,,You won't get any gift from me just because today is Teachers' day
+Dialogue: 0,0:02:19.79,0:02:21.60,Default,,0,0,0,,You are not my teacher anyway
+Dialogue: 0,0:02:22.66,0:02:24.26,Default,,0,0,0,,No one really remembers my birthday...
+Dialogue: 0,0:02:28.50,0:02:29.00,Default,,0,0,0,,Brother
+Dialogue: 0,0:02:29.65,0:02:30.29,Default,,0,0,0,,I'm sorry
+Dialogue: 0,0:02:30.40,0:02:32.12,Default,,0,0,0,,I still want to hold a birthday party for you
+Dialogue: 0,0:02:32.15,0:02:34.01,Default,,0,0,0,,Today is Lynn's birthday?
+Dialogue: 0,0:02:34.60,0:02:35.70,Default,,0,0,0,,You are such a troublemaker
+Dialogue: 0,0:02:36.59,0:02:37.57,Default,,0,0,0,,It's up to you
+Dialogue: 0,0:02:38.45,0:02:39.41,Default,,0,0,0,,Don't worry, brother
+Dialogue: 0,0:02:39.51,0:02:41.35,Default,,0,0,0,,I prepared a very simple one this year
+Dialogue: 0,0:02:41.80,0:02:42.35,Default,,0,0,0,,Come on
+Dialogue: 0,0:02:48.50,0:02:49.07,Default,,0,0,0,,Nice
+Dialogue: 0,0:02:49.15,0:02:50.32,Default,,0,0,0,,Really much simpler this year
+Dialogue: 0,0:02:50.32,0:02:52.30,Default,,0,0,0,,How complex was it before?
+Dialogue: 0,0:02:55.48,0:02:56.85,Default,,0,0,0,,And I wrote a song for you, brother
+Dialogue: 0,0:02:57.30,0:02:58.50,Default,,0,0,0,,I sent it to your phone
+Dialogue: 0,0:02:58.90,0:02:59.60,Default,,0,0,0,,Happy birthday
+Dialogue: 0,0:02:59.80,0:03:00.50,Default,,0,0,0,,Thank you Lily
+Dialogue: 0,0:03:00.95,0:03:02.33,Default,,0,0,0,,I'll make it my ringtone later
+Dialogue: 0,0:03:02.97,0:03:03.56,Default,,0,0,0,,I got here on time
+Dialogue: 0,0:03:04.10,0:03:05.45,Default,,0,0,0,,Happy birthday, Lynn
+Dialogue: 0,0:03:05.85,0:03:07.75,Default,,0,0,0,,This is a gift I just brought from abroad
+Dialogue: 0,0:03:07.85,0:03:08.95,Default,,0,0,0,,The newest vacuum cleaner
+Dialogue: 0,0:03:08.95,0:03:10.65,Default,,0,0,0,,We don't have anything to give, what should we do
+Dialogue: 0,0:03:10.85,0:03:12.34,Default,,0,0,0,,Give anything we have
+Dialogue: 0,0:03:13.35,0:03:14.25,Default,,0,0,0,,Happy birthday Lynn
+Dialogue: 0,0:03:14.45,0:03:15.55,Default,,0,0,0,,Here's a diary of this year
+Dialogue: 0,0:03:15.65,0:03:17.26,Default,,0,0,0,,Two-thirds of the year has passed
+Dialogue: 0,0:03:17.35,0:03:17.70,Default,,0,0,0,,Yeah
+Dialogue: 0,0:03:18.15,0:03:19.70,Default,,0,0,0,,So I ripped them off for you
+Dialogue: 0,0:03:20.00,0:03:21.15,Default,,0,0,0,,Happy birthday Lynn
+Dialogue: 0,0:03:21.45,0:03:22.53,Default,,0,0,0,,A dog bowl for you
+Dialogue: 0,0:03:22.64,0:03:23.78,Default,,0,0,0,,Isn't this your bowl
+Dialogue: 0,0:03:24.56,0:03:25.78,Default,,0,0,0,,Lynn, this hell cleanser...
+Dialogue: 0,0:03:25.89,0:03:26.63,Default,,0,0,0,,Keep it for yourself
+Dialogue: 0,0:03:27.35,0:03:27.85,Default,,0,0,0,,Out of the way
+Dialogue: 0,0:03:28.25,0:03:28.85,Default,,0,0,0,,Lynn
+Dialogue: 0,0:03:29.10,0:03:30.45,Default,,0,0,0,,Here's new clothes for you
+Dialogue: 0,0:03:31.20,0:03:32.22,Default,,0,0,0,,Happy birthday
+Dialogue: 0,0:03:32.28,0:03:33.07,Default,,0,0,0,,What's this
+Dialogue: 0,0:03:33.12,0:03:33.75,Default,,0,0,0,,Get these off
+Dialogue: 0,0:03:34.10,0:03:34.40,Default,,0,0,0,,Don't do that
+Dialogue: 0,0:03:34.55,0:03:36.00,Default,,0,0,0,,And I have a free makeup for you
+Dialogue: 0,0:03:36.00,0:03:37.00,Default,,0,0,0,,I don't need that
+Dialogue: 0,0:03:41.12,0:03:42.82,Default,,0,0,0,,I know you all forgot today is my birthday
+Dialogue: 0,0:03:45.49,0:03:47.05,Default,,0,0,0,,You don't have to bother yourself for the gift if you don't have one
+Dialogue: 0,0:03:47.55,0:03:50.10,Default,,0,0,0,,I'm already happy if you make less trouble every day
+Dialogue: 0,0:03:50.55,0:03:51.30,Default,,0,0,0,,Lynn
+Dialogue: 0,0:03:51.45,0:03:52.60,Default,,0,0,0,,You are so busy in the past year
+Dialogue: 0,0:03:52.93,0:03:54.05,Default,,0,0,0,,We won't do this in the future
+Dialogue: 0,0:03:54.05,0:03:55.00,Default,,0,0,0,,Don't say that if you can't do it
+Dialogue: 0,0:03:56.70,0:03:58.00,Default,,0,0,0,,Could we...
+Dialogue: 0,0:04:01.71,0:04:03.35,Default,,0,0,0,,Let's make an exception today
+Dialogue: 0,0:04:03.40,0:04:04.75,Default,,0,0,0,,Hooray
+Dialogue: 0,0:04:16.25,0:04:17.50,Default,,0,0,0,,It's their happiness
+Dialogue: 0,0:04:18.25,0:04:19.30,Default,,0,0,0,,I got nothing
+Dialogue: 0,0:04:21.10,0:04:23.60,Default,,0,0,0,,I will definitely not celebrate my birthday next year
