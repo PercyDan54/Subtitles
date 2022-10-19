@@ -74,7 +74,7 @@ Dialogue: 0,0:03:11.00,0:03:12.70,Default,,0,0,0,,{\pos(970,200)}Could you make 
 Dialogue: 0,0:03:13.44,0:03:14.88,Default,,0,0,0,,Abu and Laofu
 Dialogue: 0,0:03:14.90,0:03:15.65,Default,,0,0,0,,{\pos(970,200)}Damao
 Dialogue: 0,0:03:15.65,0:03:16.06,Default,,0,0,0,,{\pos(970,200)}Since you're here
-Dialogue: 0,0:03:16.60,0:03:17.54,Default,,0,0,0,,{\pos(970,200)}Make a PPT for me while you're at it?
+Dialogue: 0,0:03:16.60,0:03:17.54,Default,,0,0,0,,{\pos(970,200)}Make a presentation for me while you're at it?
 Dialogue: 0,0:03:16.48,0:03:18.52,Default,,0,0,0,,Lynn is busy preparing dinner
 Dialogue: 0,0:03:18.05,0:03:19.13,Default,,0,0,0,,{\pos(970,200)}I need it for my public class next time
 Dialogue: 0,0:03:20.08,0:03:20.70,Default,,0,0,0,,{\pos(970,200)}Damao
@@ -85,7 +85,7 @@ Dialogue: 0,0:03:24.40,0:03:27.35,Default,,0,0,0,,Started his first dance in the
 Dialogue: 0,0:03:28.15,0:03:30.10,Default,,0,0,0,,He was supposed to
 Dialogue: 0,0:03:32.56,0:03:33.10,Default,,0,0,0,,Damao
 Dialogue: 0,0:03:33.14,0:03:34.10,Default,,0,0,0,,Could you help me with...
-Dialogue: 0,0:03:35.65,0:03:38.65,Default,,0,0,0,,{\c&HAAA4D7&\pos(1215,275)}PPT design: 60￥/hour\NResume layout: 1000￥/hour\NLogo design: 300￥/hour\NPoster design: 400￥/hour\NOthers 200￥/hour
+Dialogue: 0,0:03:35.65,0:03:38.65,Default,,0,0,0,,{\c&HAAA4D7&\pos(1215,275)}Presentation design: 60￥/hour\NResume layout: 1000￥/hour\NLogo design: 300￥/hour\NPoster design: 400￥/hour\NOthers 200￥/hour
 Dialogue: 0,0:03:36.85,0:03:38.25,Default,,0,0,0,,Never mind
 Dialogue: 0,0:03:52.15,0:03:52.90,Default,,0,0,0,,Damao
 Dialogue: 0,0:03:53.64,0:03:55.70,Default,,0,0,0,,{\pos(970,200)}I just wanted to ask, about our payment...
